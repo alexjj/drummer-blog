@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>glossary</title>
+		<dateCreated>Sat, 16 Oct 2021 21:23:45 GMT</dateCreated>
+		<dateModified>Sat, 16 Oct 2021 21:23:54 GMT</dateModified>
+		<ownerTwitterScreenName>thealexjj</ownerTwitterScreenName>
+		<ownerName>Alex Johnstone</ownerName>
+		<ownerId>http://twitter.com/thealexjj</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<flPublic>true</flPublic>
+		<urlPublic>http://drummer.scripting.com/thealexjj/glossary.opml</urlPublic>
+		</head>
+	<body>
+		<outline text="" created="Sat, 16 Oct 2021 21:23:45 GMT"/>
+		</body>
+	</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>about</title>
+		<dateCreated>Sat, 16 Oct 2021 19:56:42 GMT</dateCreated>
+		<dateModified>Sat, 16 Oct 2021 21:29:55 GMT</dateModified>
+		<ownerTwitterScreenName>thealexjj</ownerTwitterScreenName>
+		<ownerName>Alex Johnstone</ownerName>
+		<ownerId>http://twitter.com/thealexjj</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<expansionState></expansionState>
+		<lastCursor>0</lastCursor>
+		<flPublic>true</flPublic>
+		<urlPublic>http://drummer.scripting.com/thealexjj/about.opml</urlPublic>
+		</head>
+	<body>
+		<outline text="👋 I'm Alex" created="Sat, 16 Oct 2021 19:56:42 GMT"/>
+		<outline text="&lt;img src=&quot;https://fondoftea.com/img/me.jpg&quot; alt=&quot;That's me&quot;&gt; " created="Sat, 16 Oct 2021 21:17:37 GMT"/>
+		<outline text="" created="Sat, 16 Oct 2021 21:18:39 GMT"/>
+		</body>
+	</opml>
