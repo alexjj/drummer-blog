@@ -16,13 +16,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 17 Oct 2021 15:58:57 GMT</dateModified>
+		<dateModified>Sun, 17 Oct 2021 18:44:03 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>5</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 17" created="Sun, 17 Oct 2021 05:53:13 GMT" type="calendarDay" name="17">
+				<outline text="" created="Sun, 17 Oct 2021 18:44:01 GMT"/>
 				<outline text="&lt;a href=&quot;http://scripting.com/2021/10/15/154202.html?title=theMobileAppIWant&quot;&gt;It was funny reading Dave describe his perfect app that he wants&lt;/a&gt;.  I feel like I’m pretty much there with Tiddlywiki hosted on github pages (or a self hosted nodejs would work). It’s not a native app, it’s a web app but it works perfectly on phone and tablet. " created="Sun, 17 Oct 2021 15:56:22 GMT"/>
 				<outline text="The Ricoh GR iii is £750 new. GRiiix is £900 new. £150 for 40mm vs 28mm." created="Sun, 17 Oct 2021 12:54:15 GMT" image="https://alexjj.github.io/drummer-blog/img/ricohgr3.jpg"/>
 				<outline text="Drummer Pros" created="Sun, 17 Oct 2021 11:16:27 GMT">
