@@ -76,11 +76,11 @@ body {
 	text-shadow: 1px 1px black;
 	}
 .divPageBody { 
-	width: 680px;
+	width: 820px;
 	margin-top: 240px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 400px;
+	/* margin-bottom: 400px; */
 	}
 .divDayContainer {
 	background-color: white;
@@ -150,7 +150,7 @@ body {
 	margin-bottom: 40px;
 	}
 .divFooter {
-	margin-top: 400px;
+	margin-top: 40px;
 	font-size: .80em;
 	line-height: 180%;
 	border-top: 1px solid silver;
