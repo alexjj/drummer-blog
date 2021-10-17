@@ -16,17 +16,19 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 17 Oct 2021 19:00:19 GMT</dateModified>
-		<expansionState>1,2,4</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Sun, 17 Oct 2021 19:15:01 GMT</dateModified>
+		<expansionState>1,2,4,5</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 17" created="Sun, 17 Oct 2021 05:53:13 GMT" type="calendarDay" name="17">
 				<outline text="Decided (for now) instead of a GRiii(x), I should get a 18mm lens for Fuji. The f/1.4 is nice but pricey and big, so sprung for the older 18mm f/2. It's tiny, light and has a cool square metal lens hood (that makes your photos look better). It gets a lot of hate online but most likely (a) it's fine, (b) I won't be able to tell. It'll be my Q2 😅" created="Sun, 17 Oct 2021 18:44:01 GMT"/>
-				<outline text="Fuji Portrait LensI'm interested in also getting the 60mm f/2.4 macro lens too. Another (according to the internet) a runt of the Fuji litter. I don't have anything fast in the range 50-90mm on APS-C. The macro feature tempts me for film scanning. The alternatives are the 50mm f/2, nice little lens, 56mm f/1.2, the classic portrait lens and that f/1.2 but big, the 90mm f/2, appears to be the &quot;best&quot; lens ever but even bigger, then 80mm macro, supposedly the best macro but also massive. " created="Sun, 17 Oct 2021 18:53:47 GMT">
-					<outline text="" created="Sun, 17 Oct 2021 18:59:59 GMT"/>
-					<outline text="" created="Sun, 17 Oct 2021 18:59:53 GMT"/>
+				<outline text="Fuji Portrait Lens " created="Sun, 17 Oct 2021 18:53:47 GMT">
+					<outline text="I'm interested in also getting the 60mm f/2.4 macro lens too. Another (according to the internet) a runt of the Fuji litter. I don't have anything fast in the range 50-90mm on APS-C. The macro feature tempts me for film scanning. The alternatives are the 50mm f/2, nice little lens, 56mm f/1.2, the classic portrait lens and that f/1.2 but big, the 90mm f/2, appears to be the &quot;best&quot; lens ever but even bigger, then 80mm macro, supposedly the best macro but also massive." created="Sun, 17 Oct 2021 19:00:49 GMT" isComment="false">
+						<outline text="Oh and the 50mm f/1.0 🤑" created="Sun, 17 Oct 2021 19:04:56 GMT"/>
+						</outline>
+					<outline text="Whilst I want the 56mm, I'm not sure I'd really use it that much. It's twice the weight of the 60mm. The 50mm f/2 is a very " created="Sun, 17 Oct 2021 18:59:53 GMT"/>
 					</outline>
 				<outline text="&lt;a href=&quot;http://scripting.com/2021/10/15/154202.html?title=theMobileAppIWant&quot;&gt;It was funny reading Dave describe his perfect app that he wants&lt;/a&gt;.  I feel like I’m pretty much there with Tiddlywiki hosted on github pages (or a self hosted nodejs would work). It’s not a native app, it’s a web app but it works perfectly on phone and tablet. " created="Sun, 17 Oct 2021 15:56:22 GMT"/>
 				<outline text="The Ricoh GR iii is £750 new. GRiiix is £900 new. £150 for 40mm vs 28mm." created="Sun, 17 Oct 2021 12:54:15 GMT" image="https://alexjj.github.io/drummer-blog/img/ricohgr3.jpg"/>
@@ -70,4 +72,13 @@
 			<outline text="October 16" created="Sat, 16 Oct 2021 21:56:32 GMT" type="calendarDay" name="16">
 				<outline text="Starting out with Drummer." created="Sat, 16 Oct 2021 21:56:33 GMT" type="outline">
 					<outline text="Actually this is the 3rd time but that's always the charm right?" created="Sat, 16 Oct 2021 21:56:45 GMT"/>
-					<outl
+					<outline text="&lt;a href=&quot;https://www.amitgawande.com/2021/10/16/getting-started-blogging.html&quot;&gt;These notes&lt;/a&gt; are very useful to get going." created="Sat, 16 Oct 2021 21:57:00 GMT"/>
+					<outline text="Setting up https and custom domain but it's getting a bit late." created="Sat, 16 Oct 2021 22:24:46 GMT">
+						<outline text="I had thought I could use &lt;a href=&quot;https://alexjj.github.io/drummer-blog/&quot;&gt;github pages&lt;/a&gt; for hosting the static files but it doesn't seem to like it. Not quite sure why as it mostly renders the page but just not everything? 🤔 Well I'll keep copyings in the git repo and just host on my own server. Having in git is handy but just a shame I can't use the hosting! " created="Sat, 16 Oct 2021 22:25:02 GMT"/>
+						<outline text="I realised that I had omitted the https in the reference to the stylesheet and code, and GH pages only permits https then it probably isn't finding it..." created="Sun, 17 Oct 2021 05:47:33 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			</outline>
+		</body>
+	</opml>
