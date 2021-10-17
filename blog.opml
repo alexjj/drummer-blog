@@ -16,13 +16,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 17 Oct 2021 13:12:36 GMT</dateModified>
-		<expansionState>1,2,5,14</expansionState>
-		<lastCursor>11</lastCursor>
+		<dateModified>Sun, 17 Oct 2021 15:58:57 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 17" created="Sun, 17 Oct 2021 05:53:13 GMT" type="calendarDay" name="17">
+				<outline text="&lt;a href=&quot;http://scripting.com/2021/10/15/154202.html?title=theMobileAppIWant&quot;&gt;It was funny reading Dave describe his perfect app that he wants&lt;/a&gt;.  I feel like I’m pretty much there with Tiddlywiki hosted on github pages (or a self hosted nodejs would work). It’s not a native app, it’s a web app but it works perfectly on phone and tablet. " created="Sun, 17 Oct 2021 15:56:22 GMT"/>
 				<outline text="The Ricoh GR iii is £750 new. GRiiix is £900 new. £150 for 40mm vs 28mm." created="Sun, 17 Oct 2021 12:54:15 GMT" image="https://alexjj.github.io/drummer-blog/img/ricohgr3.jpg"/>
 				<outline text="Drummer Pros" created="Sun, 17 Oct 2021 11:16:27 GMT">
 					<outline text="This site is much more convenient for entering text throughout the day, and also just for general rearrangement of text. Images are a little more time consuming to setup, bit like how TW was before that uploader plugin, so not a huge deal. Plus most of the time I don't bother with images. Although I do like the little right aligned ones people drop in. " created="Sun, 17 Oct 2021 11:14:51 GMT"/>
