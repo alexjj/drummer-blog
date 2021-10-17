@@ -16,9 +16,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 17 Oct 2021 11:18:11 GMT</dateModified>
-		<expansionState>1,2,3,6,7,11,14,15,18</expansionState>
-		<lastCursor>7</lastCursor>
+		<dateModified>Sun, 17 Oct 2021 12:30:01 GMT</dateModified>
+		<expansionState>1,2,3,6,9,12,16</expansionState>
+		<lastCursor>17</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -29,14 +29,20 @@
 					</outline>
 				</outline>
 			<outline text="Decisions on web logging" created="Sun, 17 Oct 2021 11:05:39 GMT" type="outline">
-				<outline text="&lt;a href=&quot;https://rudimentarylathe.org/2021/10/17.html#a101131&quot;&gt;Jack&lt;/a&gt;I think the ordering during a day only matters if you update yourself. e.g. trying to fix x at 10am. 6 hours later &quot;I found the solution&quot;. Then in time order makes more sense. Of course with an outliner style (vs. TW) you can always just do a new level underneath. Personally speaking, I like the idea of it being in the order of the day for when I go back and look at it and remember that day. I suppose it's easy to do with just reordering levels." created="Sun, 17 Oct 2021 11:05:51 GMT">
-					<outline text="" created="Sun, 17 Oct 2021 11:18:09 GMT"/>
-					<outline text="" created="Sun, 17 Oct 2021 11:18:03 GMT"/>
-					<outline text="Writing this makes me wonder if a &quot;conversation&quot; section of the day makes sense - bit like how you started tagging things with conversation." created="Sun, 17 Oct 2021 11:09:13 GMT"/>
-					</outline>
-				<outline text="Drummer" created="Sun, 17 Oct 2021 11:16:27 GMT">
+				<outline text="&lt;a href=&quot;https://rudimentarylathe.org/2021/10/17.html#a101131&quot;&gt;Jack&lt;/a&gt; I think the ordering during a day only matters if you update yourself. e.g. trying to fix x at 10am. 6 hours later &quot;I found the solution&quot;. Then in time order makes more sense. Of course with an outliner style (vs. TW) you can always just do a new level underneath. Personally speaking, I like the idea of it being in the order of the day for when I go back and look at it and remember that day. I suppose it's easy to do with just reordering levels." created="Sun, 17 Oct 2021 11:05:51 GMT"/>
+				<outline text="Writing this makes me wonder if a &quot;conversation&quot; section of the day makes sense - bit like how you started tagging things with conversation." created="Sun, 17 Oct 2021 11:09:13 GMT"/>
+				<outline text="Drummer Pros" created="Sun, 17 Oct 2021 11:16:27 GMT">
 					<outline text="This site is much more convenient for entering text throughout the day, and also just for general rearrangement of text. Images are a little more time consuming to setup, bit like how TW was before that uploader plugin, so not a huge deal. Plus most of the time I don't bother with images. Although I do like the little right aligned ones people drop in. " created="Sun, 17 Oct 2021 11:14:51 GMT"/>
-					<outline text="It's nice having other outliner files just here for private or draft stuff too." created="Sun, 17 Oct 2021 11:17:21 GMT"/>
+					<outline text="It's nice having other outliner files just here for private or draft stuff too. Or even just commenting out sections for later if I don't finish them in time." created="Sun, 17 Oct 2021 11:17:21 GMT"/>
+					</outline>
+				<outline text="Tiddlywiki Pros" created="Sun, 17 Oct 2021 12:27:10 GMT">
+					<outline text="Search built in" created="Sun, 17 Oct 2021 12:27:31 GMT"/>
+					<outline text="Seamless transition between journal entries and a wiki. " created="Sun, 17 Oct 2021 12:27:42 GMT"/>
+					<outline text="Entirely self-hosted and git managed" created="Sun, 17 Oct 2021 12:28:30 GMT"/>
+					<outline text="Mature, and big community with lots of support/plugins etc." created="Sun, 17 Oct 2021 12:28:41 GMT">
+						<outline text="Not that I use many but things like uploader plugin are community developed" created="Sun, 17 Oct 2021 12:29:08 GMT"/>
+						</outline>
+					<outline text="I quite like a tiddler a day, so when I'm" created="Sun, 17 Oct 2021 12:29:23 GMT"/>
 					</outline>
 				</outline>
 			<outline text="October 16" created="Sat, 16 Oct 2021 21:56:32 GMT" type="calendarDay" name="16">
