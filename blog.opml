@@ -16,9 +16,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 17 Oct 2021 12:30:01 GMT</dateModified>
-		<expansionState>1,2,3,6,9,12,16</expansionState>
-		<lastCursor>17</lastCursor>
+		<dateModified>Sun, 17 Oct 2021 12:37:58 GMT</dateModified>
+		<expansionState>1,2,4,7,9,13,14,16,19,23</expansionState>
+		<lastCursor>20</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -27,22 +27,35 @@
 					<outline text="Success! I've not got the templates hosted from github pages. I must've had a bad line as I copied them again from drummercms and then edited the css/js urls." created="Sun, 17 Oct 2021 05:53:50 GMT"/>
 					<outline text="This &lt;a href=&quot;http://drummer.scripting.com/thealexjj/blog.opml&quot;&gt;url&lt;/a&gt; gets my opml file." created="Sun, 17 Oct 2021 05:53:45 GMT"/>
 					</outline>
-				</outline>
-			<outline text="Decisions on web logging" created="Sun, 17 Oct 2021 11:05:39 GMT" type="outline">
-				<outline text="&lt;a href=&quot;https://rudimentarylathe.org/2021/10/17.html#a101131&quot;&gt;Jack&lt;/a&gt; I think the ordering during a day only matters if you update yourself. e.g. trying to fix x at 10am. 6 hours later &quot;I found the solution&quot;. Then in time order makes more sense. Of course with an outliner style (vs. TW) you can always just do a new level underneath. Personally speaking, I like the idea of it being in the order of the day for when I go back and look at it and remember that day. I suppose it's easy to do with just reordering levels." created="Sun, 17 Oct 2021 11:05:51 GMT"/>
-				<outline text="Writing this makes me wonder if a &quot;conversation&quot; section of the day makes sense - bit like how you started tagging things with conversation." created="Sun, 17 Oct 2021 11:09:13 GMT"/>
-				<outline text="Drummer Pros" created="Sun, 17 Oct 2021 11:16:27 GMT">
-					<outline text="This site is much more convenient for entering text throughout the day, and also just for general rearrangement of text. Images are a little more time consuming to setup, bit like how TW was before that uploader plugin, so not a huge deal. Plus most of the time I don't bother with images. Although I do like the little right aligned ones people drop in. " created="Sun, 17 Oct 2021 11:14:51 GMT"/>
-					<outline text="It's nice having other outliner files just here for private or draft stuff too. Or even just commenting out sections for later if I don't finish them in time." created="Sun, 17 Oct 2021 11:17:21 GMT"/>
-					</outline>
-				<outline text="Tiddlywiki Pros" created="Sun, 17 Oct 2021 12:27:10 GMT">
-					<outline text="Search built in" created="Sun, 17 Oct 2021 12:27:31 GMT"/>
-					<outline text="Seamless transition between journal entries and a wiki. " created="Sun, 17 Oct 2021 12:27:42 GMT"/>
-					<outline text="Entirely self-hosted and git managed" created="Sun, 17 Oct 2021 12:28:30 GMT"/>
-					<outline text="Mature, and big community with lots of support/plugins etc." created="Sun, 17 Oct 2021 12:28:41 GMT">
-						<outline text="Not that I use many but things like uploader plugin are community developed" created="Sun, 17 Oct 2021 12:29:08 GMT"/>
+				<outline text="Decisions on web logging" created="Sun, 17 Oct 2021 11:05:39 GMT" type="outline">
+					<outline text="&lt;a href=&quot;https://rudimentarylathe.org/2021/10/17.html#a101131&quot;&gt;Jack&lt;/a&gt; - I think the ordering during a day only matters if you update yourself. e.g. trying to fix x at 10am. 6 hours later &quot;I found the solution&quot;. Then in time order makes more sense. Of course with an outliner style (vs. TW) you can always just do a new level underneath. Personally speaking, I like the idea of it being in the order of the day for when I go back and look at it and remember that day. I suppose it's easy to do with just reordering levels." created="Sun, 17 Oct 2021 11:05:51 GMT"/>
+					<outline text="Writing this makes me wonder if a &quot;conversation&quot; section of the day makes sense - bit like how you started tagging things with conversation." created="Sun, 17 Oct 2021 11:09:13 GMT"/>
+					<outline text="Drummer Pros" created="Sun, 17 Oct 2021 11:16:27 GMT">
+						<outline text="This site is much more convenient for entering text throughout the day, and also just for general rearrangement of text. Images are a little more time consuming to setup, bit like how TW was before that uploader plugin, so not a huge deal. Plus most of the time I don't bother with images. Although I do like the little right aligned ones people drop in. " created="Sun, 17 Oct 2021 11:14:51 GMT"/>
+						<outline text="It's nice having other outliner files just here for private or draft stuff too. Or even just commenting out sections for later if I don't finish them in time." created="Sun, 17 Oct 2021 11:17:21 GMT">
+							<outline text="There's probably a lot more to the &quot;environment&quot; that I've not realised yet. " created="Sun, 17 Oct 2021 12:34:37 GMT"/>
+							</outline>
+						<outline text="When I was looking for a static generator and a web based editor system, &lt;b&gt;this&lt;/b&gt; is what I was looking for. " created="Sun, 17 Oct 2021 12:32:34 GMT"/>
+						<outline text="I like the linklog, doesn't need explanation." created="Sun, 17 Oct 2021 12:33:27 GMT"/>
 						</outline>
-					<outline text="I quite like a tiddler a day, so when I'm" created="Sun, 17 Oct 2021 12:29:23 GMT"/>
+					<outline text="Tiddlywiki Pros" created="Sun, 17 Oct 2021 12:27:10 GMT">
+						<outline text="Seamless transition between journal entries and a wiki. " created="Sun, 17 Oct 2021 12:27:42 GMT">
+							<outline text="There's more scope to join things together over time" created="Sun, 17 Oct 2021 12:32:10 GMT"/>
+							</outline>
+						<outline text="Search built in on the website" created="Sun, 17 Oct 2021 12:27:31 GMT">
+							<outline text="Drummer's search is on the editor not the website." created="Sun, 17 Oct 2021 12:30:47 GMT"/>
+							</outline>
+						<outline text="Entirely self-hosted and git managed" created="Sun, 17 Oct 2021 12:28:30 GMT"/>
+						<outline text="Mature, and big community with lots of support/plugins etc." created="Sun, 17 Oct 2021 12:28:41 GMT">
+							<outline text="Not that I use many but things like uploader plugin are community developed" created="Sun, 17 Oct 2021 12:29:08 GMT"/>
+							</outline>
+						<outline text="The text editing is more straightforward, but maybe I've just not got used to drummer yet." created="Sun, 17 Oct 2021 12:37:33 GMT"/>
+						<outline text="I quite like a tiddler a day, although outliner mode of drummer means I can close off days/months easily." created="Sun, 17 Oct 2021 12:29:23 GMT"/>
+						</outline>
+					<outline text="Conclusion" created="Sun, 17 Oct 2021 12:33:05 GMT">
+						<outline text="I'm not sure today. It can't replace the wiki but how should I use them together. Duplicate info? TW is just for me and drummer is for the world (so more polished?) Drummer could take the place of my blog, and maybe that's the best thing." created="Sun, 17 Oct 2021 12:33:09 GMT"/>
+						<outline text="So then where should it sit in my the domain structure?" created="Sun, 17 Oct 2021 12:36:58 GMT"/>
+						</outline>
 					</outline>
 				</outline>
 			<outline text="October 16" created="Sat, 16 Oct 2021 21:56:32 GMT" type="calendarDay" name="16">
