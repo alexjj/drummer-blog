@@ -7,26 +7,48 @@
 		<urlPublic>http://drummer.scripting.com/thealexjj/blog.opml</urlPublic>
 		<description>Serving suggestion: With ☕</description>
 		<urlHeaderImage>https://fondoftea.com/img/banner.jpg</urlHeaderImage>
-		<urlLinkblogJson>http://radio3.io/users/thealexjj/linkblog.json</urlLinkblogJson>
+		<urlLinkblogJson>https://s3.amazonaws.com/radio3.io/users/thealexjj/linkblog.json</urlLinkblogJson>
 		<timeZoneOffset>0</timeZoneOffset>
 		<urlAboutOpml>http://drummer.scripting.com/thealexjj/about.opml</urlAboutOpml>
+		<urlTemplate>https://alexjj.github.io/drummer-blog/index.html</urlTemplate>
+		<copyright>©2021 Alex Johnstone</copyright>
 		<ownerTwitterScreenName>thealexjj</ownerTwitterScreenName>
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 16 Oct 2021 21:58:23 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Sun, 17 Oct 2021 11:18:11 GMT</dateModified>
+		<expansionState>1,2,3,6,7,11,14,15,18</expansionState>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 17" created="Sun, 17 Oct 2021 05:53:13 GMT" type="calendarDay" name="17">
+				<outline text="Drummer config fiddling" created="Sun, 17 Oct 2021 05:53:14 GMT" type="outline">
+					<outline text="Success! I've not got the templates hosted from github pages. I must've had a bad line as I copied them again from drummercms and then edited the css/js urls." created="Sun, 17 Oct 2021 05:53:50 GMT"/>
+					<outline text="This &lt;a href=&quot;http://drummer.scripting.com/thealexjj/blog.opml&quot;&gt;url&lt;/a&gt; gets my opml file." created="Sun, 17 Oct 2021 05:53:45 GMT"/>
+					</outline>
+				</outline>
+			<outline text="Decisions on web logging" created="Sun, 17 Oct 2021 11:05:39 GMT" type="outline">
+				<outline text="&lt;a href=&quot;https://rudimentarylathe.org/2021/10/17.html#a101131&quot;&gt;Jack&lt;/a&gt;I think the ordering during a day only matters if you update yourself. e.g. trying to fix x at 10am. 6 hours later &quot;I found the solution&quot;. Then in time order makes more sense. Of course with an outliner style (vs. TW) you can always just do a new level underneath. Personally speaking, I like the idea of it being in the order of the day for when I go back and look at it and remember that day. I suppose it's easy to do with just reordering levels." created="Sun, 17 Oct 2021 11:05:51 GMT">
+					<outline text="" created="Sun, 17 Oct 2021 11:18:09 GMT"/>
+					<outline text="" created="Sun, 17 Oct 2021 11:18:03 GMT"/>
+					<outline text="Writing this makes me wonder if a &quot;conversation&quot; section of the day makes sense - bit like how you started tagging things with conversation." created="Sun, 17 Oct 2021 11:09:13 GMT"/>
+					</outline>
+				<outline text="Drummer" created="Sun, 17 Oct 2021 11:16:27 GMT">
+					<outline text="This site is much more convenient for entering text throughout the day, and also just for general rearrangement of text. Images are a little more time consuming to setup, bit like how TW was before that uploader plugin, so not a huge deal. Plus most of the time I don't bother with images. Although I do like the little right aligned ones people drop in. " created="Sun, 17 Oct 2021 11:14:51 GMT"/>
+					<outline text="It's nice having other outliner files just here for private or draft stuff too." created="Sun, 17 Oct 2021 11:17:21 GMT"/>
+					</outline>
+				</outline>
 			<outline text="October 16" created="Sat, 16 Oct 2021 21:56:32 GMT" type="calendarDay" name="16">
 				<outline text="Starting out with Drummer." created="Sat, 16 Oct 2021 21:56:33 GMT" type="outline">
 					<outline text="Actually this is the 3rd time but that's always the charm right?" created="Sat, 16 Oct 2021 21:56:45 GMT"/>
 					<outline text="&lt;a href=&quot;https://www.amitgawande.com/2021/10/16/getting-started-blogging.html&quot;&gt;These notes&lt;/a&gt; are very useful to get going." created="Sat, 16 Oct 2021 21:57:00 GMT"/>
+					<outline text="Setting up https and custom domain but it's getting a bit late." created="Sat, 16 Oct 2021 22:24:46 GMT">
+						<outline text="I had thought I could use &lt;a href=&quot;https://alexjj.github.io/drummer-blog/&quot;&gt;github pages&lt;/a&gt; for hosting the static files but it doesn't seem to like it. Not quite sure why as it mostly renders the page but just not everything? 🤔 Well I'll keep copyings in the git repo and just host on my own server. Having in git is handy but just a shame I can't use the hosting! " created="Sat, 16 Oct 2021 22:25:02 GMT"/>
+						<outline text="I realised that I had omitted the https in the reference to the stylesheet and code, and GH pages only permits https then it probably isn't finding it..." created="Sun, 17 Oct 2021 05:47:33 GMT"/>
+						</outline>
 					</outline>
 				</outline>
 			</outline>
-		<outline text="" created="Sat, 16 Oct 2021 21:51:06 GMT"/>
 		</body>
 	</opml>
