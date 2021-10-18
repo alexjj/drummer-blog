@@ -16,16 +16,19 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 18 Oct 2021 11:14:59 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Mon, 18 Oct 2021 11:29:39 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 18" created="Mon, 18 Oct 2021 11:11:08 GMT" type="calendarDay" name="18">
+				<outline text="Sometimes I think about going all in with Apple: Mac, iPads, iCloud, Watch, Apple One subscription, AppleTV. Replace everything in the house with Apple. Think it would all work well but a lot of eggs in one basket. " created="Mon, 18 Oct 2021 11:27:23 GMT" type="outline"/>
 				<outline text="Analogue WonderLab" created="Mon, 18 Oct 2021 11:11:09 GMT" type="outline">
 					<outline text="I ordered 2x B&amp;W film development and scanning from &lt;a href=&quot;https://analoguewonderland.co.uk/collections/film-developing&quot;&gt;Analogue Wonderland&lt;/a&gt;. They had a 20% off promo that ended last night.  Even with the promo filmdev is cheaper for C-41. " created="Mon, 18 Oct 2021 11:14:00 GMT"/>
-					<outline text="If I had my own scanner then it might be worthwhile as you can" created="Mon, 18 Oct 2021 11:14:43 GMT"/>
+					<outline text="If I had my own scanner then it might be worthwhile as you can do £6 development then scan myself, and that includes postage. " created="Mon, 18 Oct 2021 11:14:43 GMT"/>
+					<outline text="Eventually I'll develop my own black and white. Not sure about colour. " created="Mon, 18 Oct 2021 11:15:27 GMT"/>
+					<outline text="Also started browsing black and white film stocks....there's quite a lot which could be fun. " created="Mon, 18 Oct 2021 11:15:48 GMT"/>
 					</outline>
 				</outline>
 			<outline text="October 17" created="Sun, 17 Oct 2021 05:53:13 GMT" type="calendarDay" name="17">
