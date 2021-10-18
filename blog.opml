@@ -16,12 +16,18 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 17 Oct 2021 19:24:26 GMT</dateModified>
-		<expansionState>1,2,4,5</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Mon, 18 Oct 2021 11:14:59 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 18" created="Mon, 18 Oct 2021 11:11:08 GMT" type="calendarDay" name="18">
+				<outline text="Analogue WonderLab" created="Mon, 18 Oct 2021 11:11:09 GMT" type="outline">
+					<outline text="I ordered 2x B&amp;W film development and scanning from &lt;a href=&quot;https://analoguewonderland.co.uk/collections/film-developing&quot;&gt;Analogue Wonderland&lt;/a&gt;. They had a 20% off promo that ended last night.  Even with the promo filmdev is cheaper for C-41. " created="Mon, 18 Oct 2021 11:14:00 GMT"/>
+					<outline text="If I had my own scanner then it might be worthwhile as you can" created="Mon, 18 Oct 2021 11:14:43 GMT"/>
+					</outline>
+				</outline>
 			<outline text="October 17" created="Sun, 17 Oct 2021 05:53:13 GMT" type="calendarDay" name="17">
 				<outline text="Decided (for now) instead of a GRiii(x), I should get a 18mm lens for Fuji. The f/1.4 is nice but pricey and big, so sprung for the older 18mm f/2. It's tiny, light and has a cool square metal lens hood (that makes your photos look better). It gets a lot of hate online but most likely (a) it's fine, (b) I won't be able to tell. It'll be my Q2 😅" created="Sun, 17 Oct 2021 18:44:01 GMT"/>
 				<outline text="Fuji Portrait Lens " created="Sun, 17 Oct 2021 18:53:47 GMT">
