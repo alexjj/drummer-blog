@@ -3,23 +3,26 @@
 	<head>
 		<title>about</title>
 		<dateCreated>Sat, 16 Oct 2021 19:56:42 GMT</dateCreated>
-		<dateModified>Tue, 19 Oct 2021 21:14:52 GMT</dateModified>
+		<dateModified>Tue, 19 Oct 2021 21:20:04 GMT</dateModified>
 		<ownerTwitterScreenName>thealexjj</ownerTwitterScreenName>
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<expansionState></expansionState>
-		<lastCursor>2</lastCursor>
+		<expansionState>4</expansionState>
+		<lastCursor>8</lastCursor>
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/thealexjj/about.opml</urlPublic>
 		</head>
 	<body>
 		<outline text="&lt;h2&gt;👋 I'm Alex Johnstone&lt;/h2&gt;" created="Sat, 16 Oct 2021 19:56:42 GMT"/>
 		<outline text="" created="Tue, 19 Oct 2021 21:06:42 GMT"/>
-		<outline text="&lt;img src=&quot;https://fondoftea.com/img/me.jpg&quot; alt=&quot;That's me&quot; &gt; " created="Sat, 16 Oct 2021 21:17:37 GMT"/>
+		<outline text="&lt;img src=&quot;https://fondoftea.com/img/me.jpg&quot; alt=&quot;That's me&quot; width=&quot;400&quot;&gt; " created="Sat, 16 Oct 2021 21:17:37 GMT"/>
+		<outline text="Computer science hobbyist, take photos, look after kids, drink tea. " created="Tue, 19 Oct 2021 21:15:34 GMT">
+			<outline text="Not always in that order." created="Tue, 19 Oct 2021 21:16:43 GMT"/>
+			</outline>
 		<outline text="&lt;h3&gt;My other sites:&lt;/h3&gt;" created="Sat, 16 Oct 2021 21:18:39 GMT"/>
 		<outline text="Long form, but quiet, &lt;a href=&quot;https://blog.alexjj.com&quot;&gt;blog&lt;/a&gt;" created="Tue, 19 Oct 2021 21:12:55 GMT"/>
 		<outline text="Various notes and thoughts on a &lt;a href=&quot;https://fondoftea.com&quot;&gt;wiki&lt;/a&gt;" created="Tue, 19 Oct 2021 21:13:48 GMT"/>
-		<outline text="" created="Tue, 19 Oct 2021 21:14:22 GMT"/>
+		<outline text="Find the source on &lt;a href=&quot;https://github.com/alexjj/drummer-blog&quot;&gt;Github&lt;/a&gt;." created="Tue, 19 Oct 2021 21:14:22 GMT"/>
 		</body>
 	</opml>
