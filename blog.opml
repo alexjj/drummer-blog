@@ -16,12 +16,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 18 Oct 2021 20:23:47 GMT</dateModified>
-		<expansionState>1,2,3,12,14</expansionState>
-		<lastCursor>10</lastCursor>
+		<dateModified>Tue, 19 Oct 2021 11:37:31 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 19" created="Tue, 19 Oct 2021 11:34:30 GMT" type="calendarDay" name="19">
+				<outline text="Trying out 28mm (eq.)" created="Tue, 19 Oct 2021 11:34:31 GMT" type="outline" image="https://alexjj.github.io/drummer-blog/img/fuji18mm.jpg"/>
+				</outline>
 			<outline text="October 18" created="Mon, 18 Oct 2021 11:11:08 GMT" type="calendarDay" name="18">
 				<outline text="Analogue WonderLab" created="Mon, 18 Oct 2021 11:11:09 GMT" type="outline">
 					<outline text="I ordered 2x B&amp;W film development and scanning from &lt;a href=&quot;https://analoguewonderland.co.uk/collections/film-developing&quot;&gt;Analogue Wonderland&lt;/a&gt;. They had a 20% off promo that ended last night.  Even with the promo filmdev is cheaper for C-41. " created="Mon, 18 Oct 2021 11:14:00 GMT"/>
