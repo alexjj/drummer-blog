@@ -16,9 +16,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 19 Oct 2021 16:05:07 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Tue, 19 Oct 2021 19:29:21 GMT</dateModified>
+		<expansionState>1,2,3,6,8</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -27,6 +27,12 @@
 					<outline text="The lens focuses fast enough for me and my kids. Yes, it’s not the fastest lens but I’m not getting annoyed with it. It is my first day with it but enjoying it inside and outside. " created="Tue, 19 Oct 2021 14:56:11 GMT"/>
 					</outline>
 				<outline text="Wondering if I should subscribe to smugmug or flickr or none…" created="Tue, 19 Oct 2021 14:57:15 GMT"/>
+				<outline text="Film data imprinting" created="Tue, 19 Oct 2021 19:19:32 GMT">
+					<outline text="Several cameras offer the ability to imprint data on the film, such as time, date, but more interestingly is shutter speed and aperture. Most do it via a special back. I don't want it on the photo (and I don't want date/time) but between them. " created="Tue, 19 Oct 2021 19:19:43 GMT"/>
+					<outline text="The tricky part is finding available backs. Was pretty keen on a Minolta Dynax/Maxxum 7, but it's not so obvious what I need or if it is available. The Dyanx 9 needs a Data Memory back DM-9 and ain't many of those about.  " created="Tue, 19 Oct 2021 19:23:24 GMT">
+						<outline text="It may be onboard on the camera and you have to " created="Tue, 19 Oct 2021 19:29:12 GMT"/>
+						</outline>
+					</outline>
 				</outline>
 			<outline text="October 18" created="Mon, 18 Oct 2021 11:11:08 GMT" type="calendarDay" name="18">
 				<outline text="Analogue WonderLab" created="Mon, 18 Oct 2021 11:11:09 GMT" type="outline">
