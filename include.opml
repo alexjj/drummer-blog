@@ -1,2 +1,30 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Alex Johnstone</title>
+		<dateCreated>Sat, 16 Oct 2021 21:51:06 GMT</dateCreated>
+		<flPublic>true</flPublic>
+		<urlPublic>http://drummer.scripting.com/thealexjj/blog.opml</urlPublic>
+		<description>Serving suggestion: With ☕</description>
+		<urlHeaderImage>https://alexjj.github.io/drummer-blog/img/banner.jpg</urlHeaderImage>
+		<urlLinkblogJson>https://s3.amazonaws.com/radio3.io/users/thealexjj/linkblog.json</urlLinkblogJson>
+		<timeZoneOffset>0</timeZoneOffset>
+		<urlAboutOpml>http://drummer.scripting.com/thealexjj/about.opml</urlAboutOpml>
+		<urlTemplate>https://alexjj.github.io/drummer-blog/index.html</urlTemplate>
+		<copyright>©2021 Alex Johnstone</copyright>
+		<urlBlogWebsite>https://alexjj.com</urlBlogWebsite>
+		<ownerEmail>alexjj@gmail.com</ownerEmail>
+		<ownerGithubAccount>alexjj</ownerGithubAccount>
+		<ownerTwitterScreenName>thealexjj</ownerTwitterScreenName>
+		<ownerName>Alex Johnstone</ownerName>
+		<ownerId>http://twitter.com/thealexjj</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<dateModified>Wed, 20 Oct 2021 20:38:49 GMT</dateModified>
+		<expansionState>1,2,7,12,20,21,23</expansionState>
+		<lastCursor>19</lastCursor>
+		</head>
+	<body>
 <outline text="This text comes from an included opml file" created="Wed, 20 Oct 2021 11:23:42 GMT" type="outline"/>
 <outline text="This does also" created="Wed, 20 Oct 2021 11:23:42 GMT" type="outline"/>
+	</body>
+</opml>
