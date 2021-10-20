@@ -3,15 +3,16 @@
 	<head>
 		<title>about</title>
 		<dateCreated>Sat, 16 Oct 2021 19:56:42 GMT</dateCreated>
-		<dateModified>Tue, 19 Oct 2021 21:20:04 GMT</dateModified>
+		<dateModified>Wed, 20 Oct 2021 14:43:41 GMT</dateModified>
 		<ownerTwitterScreenName>thealexjj</ownerTwitterScreenName>
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
 		<expansionState>4</expansionState>
-		<lastCursor>8</lastCursor>
+		<lastCursor>5</lastCursor>
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/thealexjj/about.opml</urlPublic>
+		<ownerEmail>alexjj@gmail.com</ownerEmail>
 		</head>
 	<body>
 		<outline text="&lt;h2&gt;👋 I'm Alex Johnstone&lt;/h2&gt;" created="Sat, 16 Oct 2021 19:56:42 GMT"/>
@@ -20,6 +21,7 @@
 		<outline text="Computer science hobbyist, take photos, look after kids, drink tea. " created="Tue, 19 Oct 2021 21:15:34 GMT">
 			<outline text="Not always in that order." created="Tue, 19 Oct 2021 21:16:43 GMT"/>
 			</outline>
+		<outline text="&lt;h3&gt;&lt;a href=&quot;https://alexjj.com/archives.html&quot;&gt;View the archives&lt;/a&gt;&lt;/h3&gt;" created="Wed, 20 Oct 2021 14:43:09 GMT"/>
 		<outline text="&lt;h3&gt;My other sites:&lt;/h3&gt;" created="Sat, 16 Oct 2021 21:18:39 GMT"/>
 		<outline text="Long form, but quiet, &lt;a href=&quot;https://blog.alexjj.com&quot;&gt;blog&lt;/a&gt;" created="Tue, 19 Oct 2021 21:12:55 GMT"/>
 		<outline text="Various notes and thoughts on a &lt;a href=&quot;https://fondoftea.com&quot;&gt;wiki&lt;/a&gt;" created="Tue, 19 Oct 2021 21:13:48 GMT"/>
