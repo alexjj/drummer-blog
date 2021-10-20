@@ -6,7 +6,7 @@
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/thealexjj/blog.opml</urlPublic>
 		<description>Serving suggestion: With ☕</description>
-		<urlHeaderImage>https://fondoftea.com/img/banner.jpg</urlHeaderImage>
+		<urlHeaderImage>https://alexjj.github.io/drummer-blog/img/banner.jpg</urlHeaderImage>
 		<urlLinkblogJson>https://s3.amazonaws.com/radio3.io/users/thealexjj/linkblog.json</urlLinkblogJson>
 		<timeZoneOffset>0</timeZoneOffset>
 		<urlAboutOpml>http://drummer.scripting.com/thealexjj/about.opml</urlAboutOpml>
@@ -17,12 +17,18 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 19 Oct 2021 21:41:20 GMT</dateModified>
-		<expansionState>1,2,4,6,8,14,17,20,26,36</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Wed, 20 Oct 2021 09:30:00 GMT</dateModified>
+		<expansionState>1,2,4,6,8,10,12,18,21,24,30,40</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 20" created="Wed, 20 Oct 2021 09:22:18 GMT" type="calendarDay" name="20">
+				<outline text="It's only been ages but I need to find a mask that doesn't cause my glasses to steam up. My solution so far to this problem is to not go anywhere." created="Wed, 20 Oct 2021 09:22:19 GMT" type="outline"/>
+				<outline text="Drummer Backups" created="Wed, 20 Oct 2021 09:29:41 GMT" type="outline">
+					<outline text="" created="Wed, 20 Oct 2021 09:29:58 GMT"/>
+					</outline>
+				</outline>
 			<outline text="October 19" created="Tue, 19 Oct 2021 11:34:30 GMT" type="calendarDay" name="19">
 				<outline text="I should pay attention to this &lt;a href=&quot;http://scripting.com/drummer/blog/2021/10/17/031157.html?title=styleNoteSingularItemsBeforeTitledItems&quot;&gt;style guide&lt;/a&gt;. I was thinking time of day, not ease of understanding!" created="Tue, 19 Oct 2021 21:40:37 GMT" type="outline"/>
 				<outline text="Fuji Film Simulations" created="Tue, 19 Oct 2021 19:38:37 GMT" type="outline">
