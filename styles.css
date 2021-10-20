@@ -451,6 +451,7 @@ body {
 		}
 /* 2/11/18 by DW */
 	.divStoryPagePostTime {
+		display: none;
 		font-size: 18px;
 		margin-bottom: 15px;
 		}
