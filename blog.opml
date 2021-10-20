@@ -17,7 +17,7 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 20 Oct 2021 11:42:20 GMT</dateModified>
+		<dateModified>Wed, 20 Oct 2021 11:45:13 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		<ownerEmail>alexjj@gmail.com</ownerEmail>
@@ -25,7 +25,7 @@
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 20" created="Wed, 20 Oct 2021 09:22:18 GMT" type="calendarDay" name="20">
-				<outline text="Had to cut the lawn, although it's been raining for weeks and it's still wet, but I did it anyway. I usually listen to &lt;a href=&quot;https://talkpython.fm/&quot;&gt;talkpython.fm&lt;/a&gt; podcast but the most recent ones looked boring from my perspective. So I thought I'd search for &lt;a href=&quot;https://en.wikipedia.org/wiki/Dave_Winer&quot;&gt;Dave Winer&lt;/a&gt;. I'd not really heard of him until I somehow got to know about Drummer (most likely via &lt;a href=&quot;https://baty.blog/&quot;&gt;Jack&lt;/a&gt;). I found &lt;a href=&quot;https://thisweekinstartups.com/e1133-podcast-blogging-pioneer-dave-winer-on-inventing-new-forms-of-media-tribalism-on-social-media-tales-of-the-golden-age-of-silicon-valley-more/&quot;&gt;this one from Nov 2020&lt;/a&gt;.  It's fascinating to listen to the early days of the internet, and generally any of Dave's stories from the early days of tech and silicon valley (including meeting with Steve Jobs and others back in the early days). It was also during peak COVID lockdown." created="Wed, 20 Oct 2021 11:23:42 GMT" type="outline"/>
+				<outline text="Had to cut the lawn, although it's been raining for weeks and it's still wet, but I did it anyway. I usually listen to &lt;a href=&quot;https://talkpython.fm/&quot;&gt;talkpython.fm&lt;/a&gt; podcast but the most recent ones looked boring from my perspective. So I thought I'd search for &lt;a href=&quot;https://en.wikipedia.org/wiki/Dave_Winer&quot;&gt;Dave Winer&lt;/a&gt;. I'd not really heard of him until I somehow got to know about Drummer (most likely via &lt;a href=&quot;https://baty.blog/&quot;&gt;Jack&lt;/a&gt;). I found &lt;a href=&quot;https://thisweekinstartups.com/e1133-podcast-blogging-pioneer-dave-winer-on-inventing-new-forms-of-media-tribalism-on-social-media-tales-of-the-golden-age-of-silicon-valley-more/&quot;&gt;this one from Nov 2020&lt;/a&gt;.  It's fascinating to listen to the early days of the internet, and generally any of Dave's stories from the early days of tech and silicon valley (including meeting with Steve Jobs, Bill Gates and others back in the early days). It was also during peak COVID lockdown." created="Wed, 20 Oct 2021 11:23:42 GMT" type="outline"/>
 				<outline text="I just added the &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/21&quot;&gt;DW menu&lt;/a&gt; to Drummer and viewed the source. It's a nice set of examples showing you what you can do. " created="Wed, 20 Oct 2021 10:26:51 GMT" type="outline"/>
 				<outline text="It's only been ages but I need to find a mask that doesn't cause my glasses to steam up. My solution so far to this problem is to not go anywhere." created="Wed, 20 Oct 2021 09:22:19 GMT" type="outline"/>
 				<outline text="Drummer Blog Backups" created="Wed, 20 Oct 2021 09:29:41 GMT" type="outline">
