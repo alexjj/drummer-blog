@@ -17,13 +17,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 20 Oct 2021 10:01:18 GMT</dateModified>
+		<dateModified>Wed, 20 Oct 2021 10:29:34 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>1</lastCursor>
+		<lastCursor>3</lastCursor>
+		<ownerEmail>alexjj@gmail.com</ownerEmail>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 20" created="Wed, 20 Oct 2021 09:22:18 GMT" type="calendarDay" name="20">
+				<outline text="I just added the &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/21&quot;&gt;DW menu&lt;/a&gt; to Drummer and viewed the source. It's a nice set of examples showing you what you can do. " created="Wed, 20 Oct 2021 10:26:51 GMT" type="outline"/>
 				<outline text="It's only been ages but I need to find a mask that doesn't cause my glasses to steam up. My solution so far to this problem is to not go anywhere." created="Wed, 20 Oct 2021 09:22:19 GMT" type="outline"/>
 				<outline text="Drummer Blog Backups" created="Wed, 20 Oct 2021 09:29:41 GMT" type="outline">
 					<outline text="Regardless of how good software is, something will break. Therefore it's best to backup!" created="Wed, 20 Oct 2021 09:29:58 GMT" image="https://alexjj.github.io/drummer-blog/img/contact.gif">
