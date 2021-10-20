@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 20 Oct 2021 19:58:15 GMT</dateModified>
+		<dateModified>Wed, 20 Oct 2021 20:10:42 GMT</dateModified>
 		<expansionState>1,2,7,12,20,21,23</expansionState>
-		<lastCursor>27</lastCursor>
+		<lastCursor>22</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -153,7 +153,7 @@
 		<outline text="Standalone pages" created="Wed, 20 Oct 2021 14:27:41 GMT">
 			<outline text="Archives" created="Wed, 20 Oct 2021 14:27:49 GMT" type="page" relpath="archives.html">
 				<outline text="This is a test page to see if I can get archives built for the blog." created="Wed, 20 Oct 2021 14:28:49 GMT"/>
-				<outline text="&lt;h3&gt;October&lt;/h3&gt;" created="Wed, 20 Oct 2021 14:40:21 GMT">
+				<outline text="&lt;h3&gt;October&lt;/h3&gt;" created="Wed, 20 Oct 2021 14:40:21 GMT" flBulletedSubs="true">
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/20.html&quot;&gt;20th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:16 GMT"/>
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/19.html&quot;&gt;19th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:20 GMT"/>
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/18.html&quot;&gt;18th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:21 GMT"/>
