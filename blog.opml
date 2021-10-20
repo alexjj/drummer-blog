@@ -17,16 +17,27 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 20 Oct 2021 09:30:00 GMT</dateModified>
-		<expansionState>1,2,4,6,8,10,12,18,21,24,30,40</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Wed, 20 Oct 2021 09:45:00 GMT</dateModified>
+		<expansionState>1,2,4,5,8,12,14,16,18,20,26,29,32,38,48</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 20" created="Wed, 20 Oct 2021 09:22:18 GMT" type="calendarDay" name="20">
 				<outline text="It's only been ages but I need to find a mask that doesn't cause my glasses to steam up. My solution so far to this problem is to not go anywhere." created="Wed, 20 Oct 2021 09:22:19 GMT" type="outline"/>
-				<outline text="Drummer Backups" created="Wed, 20 Oct 2021 09:29:41 GMT" type="outline">
-					<outline text="" created="Wed, 20 Oct 2021 09:29:58 GMT"/>
+				<outline text="Drummer Blog Backups" created="Wed, 20 Oct 2021 09:29:41 GMT" type="outline">
+					<outline text="Regardless of how good software is, something will break. Therefore it's best to backup!" created="Wed, 20 Oct 2021 09:29:58 GMT" image="https://alexjj.github.io/drummer-blog/img/contact.gif">
+						<outline text="Reliable backup is complex and I'm not going to try and admit I'm an expert or even know anything about it. This is just the first steps I've taken" created="Wed, 20 Oct 2021 09:30:37 GMT"/>
+						</outline>
+					<outline text="This is also focusing just on your blog, not other outlines you may have in Drummer." created="Wed, 20 Oct 2021 09:32:15 GMT"/>
+					<outline text="Conveniently, when you make your &lt;i&gt;blog.opml&lt;/i&gt; public, it's exactly that. Public. This means you can download it at your leisure. Also true for About or other public outlines. " created="Wed, 20 Oct 2021 09:31:07 GMT">
+						<outline text="Yours will be &lt;i&gt;http://drummer.scripting.com/your-twitter-handle/blog.opml&lt;/i&gt;" created="Wed, 20 Oct 2021 09:34:11 GMT"/>
+						</outline>
+					<outline text="I have a &lt;a href=&quot;https://github.com/alexjj/drummer-blog/blob/main/backup.sh&quot;&gt;simple bash script&lt;/a&gt; that curl's the file and commits it to a git repo and pushes to github. My computer runs it every 15 minutes via cron. Systemd timers also available." created="Wed, 20 Oct 2021 09:35:04 GMT"/>
+					<outline text="This is also in the same repo that I host the template files and images, published via Github pages to use with Drummer. This is helpful to track changes to my CSS or template index.html, not that I've done very much so far." created="Wed, 20 Oct 2021 09:36:29 GMT"/>
+					<outline text="&lt;a href=&quot;http://scripting.com/drummer/blog/2021/10/11/190447.html?title=itsReallyEasyToBackUp&quot;&gt;Dave shows you how to do&lt;/a&gt; a really simple and easy backup of all your drummer outlines." created="Wed, 20 Oct 2021 09:37:37 GMT">
+						<outline text="If you hover over that &lt;i&gt;Download my files&lt;/i&gt; menu you'll see a URL with tokens and secrets. No doubt that can be used to get the files too." created="Wed, 20 Oct 2021 09:38:20 GMT"/>
+						</outline>
 					</outline>
 				</outline>
 			<outline text="October 19" created="Tue, 19 Oct 2021 11:34:30 GMT" type="calendarDay" name="19">
