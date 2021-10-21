@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 21 Oct 2021 18:47:41 GMT</dateModified>
-		<expansionState>1,2,7,12,22,24,35,36,38</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Thu, 21 Oct 2021 19:11:52 GMT</dateModified>
+		<expansionState>1,2,6,8,10,15,25,27,38,39,41</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -29,7 +29,12 @@
 				<outline text="&lt;a href=&quot;https://youneedastereo.com/#2021-10-21%20Journal&quot;&gt;@Phil&lt;/a&gt;, we were one step away from finding your house and standing over you until you made a &lt;a href=&quot;http://oldschool.scripting.com/twelvety/&quot;&gt;Drummer blog&lt;/a&gt; :) Welcome! It took me a few days to figure it out, and I still use my Tiddlywiki, and it's somewhat random what goes where, but the wiki tends to be more chatty, least at the moment. I'm intrigued you &lt;a href=&quot;http://oldschool.scripting.com/twelvety/2021/10/21.html#a151655&quot;&gt;find Drummer easier to use&lt;/a&gt; than Tiddlywiki on the phone. I can't see anything when I open drummer on my phone, I turn it landscape but it's all overflowing, but TW fits to the screen. " created="Thu, 21 Oct 2021 18:24:32 GMT" type="outline"/>
 				<outline text="Took the boys for the their haircuts. The barber was a very strict Italian man who kept them sitting up straight the whole time. I enjoyed it." created="Thu, 21 Oct 2021 11:49:37 GMT" type="outline"/>
 				<outline text="Getting in the Hallowe’en mood with pumpkins, biscuits and decorations." created="Thu, 21 Oct 2021 11:53:51 GMT" inlineImage="https://alexjj.github.io/drummer-blog/img/halloween.jpeg"/>
-				<outline text="Noticed the tabs on drummer blogs don’t look very good when on mobile, I should look into the CSS to see if those can be a bit nicer." created="Thu, 21 Oct 2021 11:55:44 GMT"/>
+				<outline text="Drummer Tweaks" created="Thu, 21 Oct 2021 11:55:44 GMT">
+					<outline text="Noticed the tabs on drummer blogs don’t look very good when on mobile, I should look into the CSS to see if those can be a bit nicer." created="Thu, 21 Oct 2021 19:08:45 GMT"/>
+					<outline text="Ended up removing the updated time at the top and letting the tabs' size just go off the text. They're all about the same size anyway so not that noticeable but it makes them much nicer on mobile." created="Thu, 21 Oct 2021 19:08:51 GMT">
+						<outline text="Also offers room for a lot more!" created="Thu, 21 Oct 2021 19:11:50 GMT"/>
+						</outline>
+					</outline>
 				</outline>
 			<outline text="October 20" created="Wed, 20 Oct 2021 09:22:18 GMT" type="calendarDay" name="20">
 				<outline text="If you want facebook, github or linkedin links at the bottom of your blog, add the following OPML headers: &lt;code&gt;ownerFacebookAccount&lt;/code&gt;, &lt;code&gt;ownerGithubAccount&lt;/code&gt;, &lt;code&gt;ownerLinkedinAccount&lt;/code&gt; with your id. " created="Wed, 20 Oct 2021 13:19:32 GMT" type="outline"/>
