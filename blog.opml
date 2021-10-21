@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 21 Oct 2021 11:57:35 GMT</dateModified>
-		<expansionState>1,2,6,11,23,24,26</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Thu, 21 Oct 2021 18:27:55 GMT</dateModified>
+		<expansionState>1,2,7,12,24,25,27</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 21" created="Thu, 21 Oct 2021 11:49:36 GMT" type="calendarDay" name="21">
+				<outline text="&lt;a href=&quot;https://youneedastereo.com/#2021-10-21%20Journal&quot;&gt;@Phil&lt;/a&gt;, we were one step away from finding your house and standing over you until you made a &lt;a href=&quot;http://oldschool.scripting.com/twelvety/&quot;&gt;Drummer blog&lt;/a&gt; :) Welcome! It took me a few days to figure it out, and I still use my Tiddlywiki, and it's somewhat random what goes where, but the wiki tends to me more chatty, least at the moment." created="Thu, 21 Oct 2021 18:24:32 GMT" type="outline"/>
 				<outline text="Took the boys for the their haircuts. The barber was a very strict Italian man who kept them sitting up straight the whole time. I enjoyed it." created="Thu, 21 Oct 2021 11:49:37 GMT" type="outline"/>
 				<outline text="Getting in the Hallowe’en mood with pumpkins, biscuits and decorations." created="Thu, 21 Oct 2021 11:53:51 GMT" inlineImage="https://alexjj.github.io/drummer-blog/img/halloween.jpeg"/>
 				<outline text="Noticed the tabs on drummer blogs don’t look very good when on mobile, I should look into the CSS to see if those can be a bit nicer." created="Thu, 21 Oct 2021 11:55:44 GMT"/>
