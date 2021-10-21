@@ -3,13 +3,13 @@
 	<head>
 		<title>about</title>
 		<dateCreated>Sat, 16 Oct 2021 19:56:42 GMT</dateCreated>
-		<dateModified>Thu, 21 Oct 2021 19:14:58 GMT</dateModified>
+		<dateModified>Thu, 21 Oct 2021 19:16:32 GMT</dateModified>
 		<ownerTwitterScreenName>thealexjj</ownerTwitterScreenName>
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<expansionState>4,10</expansionState>
-		<lastCursor>9</lastCursor>
+		<expansionState>4,6,10</expansionState>
+		<lastCursor>2</lastCursor>
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/thealexjj/about.opml</urlPublic>
 		<ownerEmail>alexjj@gmail.com</ownerEmail>
@@ -21,11 +21,12 @@
 		<outline text="Computer science hobbyist, take photos, look after kids, drink tea. " created="Tue, 19 Oct 2021 21:15:34 GMT">
 			<outline text="Not always in that order." created="Tue, 19 Oct 2021 21:16:43 GMT"/>
 			</outline>
-		<outline text="&lt;h3&gt;My other sites:&lt;/h3&gt;" created="Sat, 16 Oct 2021 21:18:39 GMT"/>
-		<outline text="Long form, but quiet, &lt;a href=&quot;https://blog.alexjj.com&quot;&gt;blog&lt;/a&gt;" created="Tue, 19 Oct 2021 21:12:55 GMT"/>
-		<outline text="Various notes and thoughts on a &lt;a href=&quot;https://fondoftea.com&quot;&gt;wiki&lt;/a&gt;" created="Tue, 19 Oct 2021 21:13:48 GMT"/>
-		<outline text="Find the source on &lt;a href=&quot;https://github.com/alexjj/drummer-blog&quot;&gt;Github&lt;/a&gt;." created="Tue, 19 Oct 2021 21:14:22 GMT"/>
-		<outline text="&lt;h3&gt;Archives&lt;/h3&gt;" created="Thu, 21 Oct 2021 19:12:17 GMT" collapse="true">
+		<outline text="&lt;b&gt;My other sites:&lt;/b&gt;" created="Sat, 16 Oct 2021 21:18:39 GMT">
+			<outline text="Long form, but quiet, &lt;a href=&quot;https://blog.alexjj.com&quot;&gt;blog&lt;/a&gt;" created="Tue, 19 Oct 2021 21:12:55 GMT"/>
+			<outline text="Various notes and thoughts on a &lt;a href=&quot;https://fondoftea.com&quot;&gt;wiki&lt;/a&gt;" created="Tue, 19 Oct 2021 21:13:48 GMT"/>
+			<outline text="Find the source on &lt;a href=&quot;https://github.com/alexjj/drummer-blog&quot;&gt;Github&lt;/a&gt;." created="Tue, 19 Oct 2021 21:14:22 GMT"/>
+			</outline>
+		<outline text="&lt;b&gt;Archives&lt;/b&gt;" created="Thu, 21 Oct 2021 19:12:17 GMT" collapse="true">
 			<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/&quot;&gt;October&lt;/a&gt;" created="Thu, 21 Oct 2021 19:12:30 GMT"/>
 			</outline>
 		</body>

@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 21 Oct 2021 19:11:52 GMT</dateModified>
-		<expansionState>1,2,6,8,10,15,25,27,38,39,41</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Thu, 21 Oct 2021 19:29:46 GMT</dateModified>
+		<expansionState>1,2,6,8,10,14,17,22,32,34,44,45,48</expansionState>
+		<lastCursor>15</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -33,6 +33,15 @@
 					<outline text="Noticed the tabs on drummer blogs don’t look very good when on mobile, I should look into the CSS to see if those can be a bit nicer." created="Thu, 21 Oct 2021 19:08:45 GMT"/>
 					<outline text="Ended up removing the updated time at the top and letting the tabs' size just go off the text. They're all about the same size anyway so not that noticeable but it makes them much nicer on mobile." created="Thu, 21 Oct 2021 19:08:51 GMT">
 						<outline text="Also offers room for a lot more!" created="Thu, 21 Oct 2021 19:11:50 GMT"/>
+						</outline>
+					<outline text="Tidied up the about page a little" created="Thu, 21 Oct 2021 19:16:56 GMT">
+						<outline text="Using html headers seemed to make it add blank lines, so adopted a more outliner appropriate format 😁" created="Thu, 21 Oct 2021 19:17:11 GMT"/>
+						<outline text="Made the archives just Month links, will manually add those" created="Thu, 21 Oct 2021 19:18:01 GMT"/>
+						</outline>
+					<outline text="Removed reference to the standalone page, I'll still keep it in the outline so I don't forget the syntax but commented out." created="Thu, 21 Oct 2021 19:18:28 GMT"/>
+					<outline text="Looking at &lt;a href=&quot;http://oldschool.scripting.com/twelvety/&quot;&gt;Phil's fresh blog&lt;/a&gt; made me wonder about having a very clean looking one with no tabs. A bit like how a &lt;a href=&quot;https://alexjj.com/2021/10/21.html&quot;&gt;day&lt;/a&gt; or &lt;a href=&quot;https://alexjj.com/2021/10/&quot;&gt;month view&lt;/a&gt; is." created="Thu, 21 Oct 2021 19:25:22 GMT">
+						<outline text="Not sure about the...About page though. Would be nice to have that as this is now my main page. Unless I did a very small feature at the top, like a pinned post. The first post being a hard coded about." created="Thu, 21 Oct 2021 19:26:34 GMT"/>
+						<outline text="The Links would be missing too but not so bothered about that. I'd just write an entry instead, which might be more meaningful. If the link is that good I'll add it to the wiki. I'm not even sure I like that Radio3 posts to my twitter. " created="Thu, 21 Oct 2021 19:28:47 GMT"/>
 						</outline>
 					</outline>
 				</outline>
@@ -162,7 +171,7 @@
 					</outline>
 				</outline>
 			</outline>
-		<outline text="Standalone pages" created="Wed, 20 Oct 2021 14:27:41 GMT">
+		<outline text="Standalone pages" created="Wed, 20 Oct 2021 14:27:41 GMT" isComment="true">
 			<outline text="Archives" created="Wed, 20 Oct 2021 14:27:49 GMT" type="page" relpath="archives.html">
 				<outline text="This is a test page to see if I can get archives built for the blog." created="Wed, 20 Oct 2021 14:28:49 GMT"/>
 				<outline text="&lt;h3&gt;October&lt;/h3&gt;" created="Wed, 20 Oct 2021 14:40:21 GMT" flBulletedSubs="true">
