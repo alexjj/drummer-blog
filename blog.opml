@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 21 Oct 2021 21:22:11 GMT</dateModified>
-		<expansionState>1,2,8</expansionState>
-		<lastCursor>13</lastCursor>
+		<dateModified>Fri, 22 Oct 2021 05:29:49 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 22" created="Fri, 22 Oct 2021 05:29:21 GMT" type="calendarDay" name="22">
+				<outline text="All this messing about with Fuji film simulations is another reason why " created="Fri, 22 Oct 2021 05:29:22 GMT" type="outline"/>
+				</outline>
 			<outline text="October 21" created="Thu, 21 Oct 2021 11:49:36 GMT" type="calendarDay" name="21">
 				<outline text="For a blast from the past have a look at your Blogger &lt;a href=&quot;https://www.blogger.com/manage-blogs-following.g?pli=1&quot;&gt;&lt;i&gt;Blogs I follow&lt;/i&gt;&lt;/a&gt;..." created="Thu, 21 Oct 2021 21:11:52 GMT" type="outline"/>
 				<outline text="The new Voigtländer 90mm APO f/2.8 is now available to pre-order...oh dear...It's 250g and 60mm long." created="Thu, 21 Oct 2021 20:02:45 GMT" type="link" url="https://www.dpreview.com/news/2015050634/you-can-now-pre-order-the-new-voigtlander-90mm-f2-8-apo-skopar-m-mount-lens-for-799"/>
