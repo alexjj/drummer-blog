@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 22 Oct 2021 05:35:01 GMT</dateModified>
+		<dateModified>Fri, 22 Oct 2021 06:26:19 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>3</lastCursor>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 22" created="Fri, 22 Oct 2021 05:29:21 GMT" type="calendarDay" name="22">
+				<outline text="Every year I think about doing NaNoWrite but always do nothing. This year I’m “too late to start thinking about it”…What I should do is just write crap for month because it’s better than doing nothing. I get too bogged down in process and not action." created="Fri, 22 Oct 2021 06:25:03 GMT" type="outline"/>
 				<outline text="All this messing about with Fuji film simulations is another reason why I appreciate film. There’s no menu or settings, just lens, film, aperture and shutter. " created="Fri, 22 Oct 2021 05:29:22 GMT" type="outline"/>
 				<outline text="I think ColorPlus has a nicer case than Gold." created="Fri, 22 Oct 2021 05:31:39 GMT" inlineImage="Http://alexjj.github.io/drummer-blog/img/kodacolor.jpeg"/>
 				</outline>
