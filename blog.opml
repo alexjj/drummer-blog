@@ -19,14 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 22 Oct 2021 19:59:49 GMT</dateModified>
+		<dateModified>Fri, 22 Oct 2021 20:04:40 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 22" created="Fri, 22 Oct 2021 05:29:21 GMT" type="calendarDay" name="22">
-				<outline text="" created="Fri, 22 Oct 2021 19:59:48 GMT" type="outline"/>
+				<outline text="I’ve been very into the Stormlight archives by Brandon Sanderson. So much so that I’ve been up to 1am every night reading it! " created="Fri, 22 Oct 2021 19:59:48 GMT" type="outline" image="https://alexjj.github.io/drummer-blog/img/stromlight-book.jpg"/>
 				<outline text="Developer tablets? Interesting…" created="Fri, 22 Oct 2021 16:50:49 GMT" type="link" url="https://analoguewonderland.co.uk/products/tetenal-parvofin-developer-tablets"/>
 				<outline text="Every year I think about doing NaNoWrite but always do nothing. This year I’m “too late to start thinking about it”…What I should do is just write crap for month because it’s better than doing nothing. I get too bogged down in process and not action." created="Fri, 22 Oct 2021 06:25:03 GMT" type="outline"/>
 				<outline text="All this messing about with Fuji film simulations is another reason why I appreciate film. There’s no menu or settings, just lens, film, aperture and shutter. " created="Fri, 22 Oct 2021 05:29:22 GMT" type="outline"/>
