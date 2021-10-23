@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 22 Oct 2021 20:04:40 GMT</dateModified>
+		<dateModified>Sat, 23 Oct 2021 05:57:36 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 23" created="Sat, 23 Oct 2021 05:55:44 GMT" type="calendarDay" name="23">
+				<outline text="A 2017 post about Magit is top of hacker news! " created="Sat, 23 Oct 2021 05:55:45 GMT" type="link" url="https://news.ycombinator.com/item?id=28954058"/>
+				</outline>
 			<outline text="October 22" created="Fri, 22 Oct 2021 05:29:21 GMT" type="calendarDay" name="22">
 				<outline text="I’ve been very into the Stormlight archives by Brandon Sanderson. So much so that I’ve been up to 1am every night reading it! " created="Fri, 22 Oct 2021 19:59:48 GMT" type="outline" image="https://alexjj.github.io/drummer-blog/img/stromlight-book.jpg"/>
 				<outline text="Developer tablets? Interesting…" created="Fri, 22 Oct 2021 16:50:49 GMT" type="link" url="https://analoguewonderland.co.uk/products/tetenal-parvofin-developer-tablets"/>
