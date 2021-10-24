@@ -19,12 +19,16 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 23 Oct 2021 12:14:38 GMT</dateModified>
-		<expansionState>1,2</expansionState>
+		<dateModified>Sun, 24 Oct 2021 18:59:51 GMT</dateModified>
+		<expansionState>1,2,5</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 24" created="Sun, 24 Oct 2021 18:45:59 GMT" type="calendarDay" name="24">
+				<outline text="When I'm away, I'm always so good at updating our family journal in DayOne. It's because I'm not going on my computer and instead using my iPad or phone" created="Sun, 24 Oct 2021 18:59:11 GMT" type="outline"/>
+				<outline text=" REALM parcels go up for sale this week on Aavegotchi. This should start to make the game an actual game with things to do. At least I'm hopeful of that. Be interesting to see what the land parcels go for. I'll probably try and get a small. These things it's best not to convert what you spend into £/$ and keep it as magic internet beans money. " created="Sun, 24 Oct 2021 18:46:00 GMT" type="link" url="https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3"/>
+				</outline>
 			<outline text="October 23" created="Sat, 23 Oct 2021 05:55:44 GMT" type="calendarDay" name="23">
 				<outline text="Ah, so Concord is what all this lovely outliner JavaScript websites are built on. Might be fun to play with." created="Sat, 23 Oct 2021 12:14:08 GMT" type="link" url="https://github.com/scripting/concord"/>
 				<outline text="Ready for the weekend" created="Sat, 23 Oct 2021 10:03:08 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/weekendgear.jpeg"/>
