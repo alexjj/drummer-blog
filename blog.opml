@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 25 Oct 2021 10:45:04 GMT</dateModified>
+		<dateModified>Mon, 25 Oct 2021 12:06:29 GMT</dateModified>
 		<expansionState>2,3,5,11,12</expansionState>
-		<lastCursor>12</lastCursor>
+		<lastCursor>10</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -219,7 +219,7 @@
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/16.html&quot;&gt;16th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:26 GMT"/>
 					</outline>
 				</outline>
-			<outline text="Book List" created="Mon, 25 Oct 2021 10:42:24 GMT">
+			<outline text="Book List" created="Mon, 25 Oct 2021 10:42:24 GMT" type="page" relpath="books.html">
 				<outline text="Read" created="Mon, 25 Oct 2021 10:42:29 GMT">
 					<outline text="Les Misérables - Victor Hugo" created="Mon, 25 Oct 2021 10:42:34 GMT"/>
 					</outline>
