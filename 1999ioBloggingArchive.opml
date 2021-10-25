@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>1999.io Blogging Archive</title>
+		<ownerName>Ron Chester</ownerName>
+		<ownerEmail>taxhelp.ron@gmail.com</ownerEmail>
+		<dateModified>Sat, 03 Sep 2016 11:10:32 GMT</dateModified>
+		<expansionState>3,4,11,15,23,26,35,41,43,48,51,52,63,66,67,94,98,107,108,114</expansionState>
+		<lastCursor>61</lastCursor>
+		</head>
+	<body>
+		<outline text="On 21 April 2016 I started using Dave Winer's latest blogging tool, &lt;i&gt;&lt;a href=&quot;http://my.1999.io/&quot;&gt;1999.io&lt;/a&gt;&lt;/i&gt;. Here I use another great Winer tool, &lt;i&gt;Small&lt;/i&gt; &lt;i&gt;Picture&lt;/i&gt; &lt;i&gt;Reader&lt;/i&gt;, to display links to postings created with 1999.io. My own postings are already compiled by &lt;a href=&quot;http://my.1999.io/users/W6AZ/rss.xml&quot;&gt;the RSS feed of my user account&lt;/a&gt; on Dave's 1999.io server."/>
+		<outline text="&lt;b&gt;My Own Postings&lt;/b&gt;" created="Sat, 23 Apr 2016 16:37:14 GMT">
+			<outline text="&lt;b&gt;2016&lt;/b&gt;" created="Sat, 23 Apr 2016 16:37:15 GMT">
+				<outline text="&lt;b&gt;April 2016&lt;/b&gt;" created="Sat, 23 Apr 2016 16:37:35 GMT">
+					<outline text="Painful Irony" created="Sat, 23 Apr 2016 16:38:32 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/21/0001.html"/>
+					<outline text="Purple Rain video" created="Sat, 23 Apr 2016 16:38:52 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/22/0004.html"/>
+					<outline text="A River of 1999.io Bloggers" created="Sat, 23 Apr 2016 16:40:44 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/22/0005.html"/>
+					<outline text="Run 1999.io on a Mac?" created="Sat, 23 Apr 2016 16:39:09 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/22/0006.html"/>
+					<outline text="Prince at Super Bowl XLI" created="Sun, 24 Apr 2016 04:05:04 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/23/0008.html"/>
+					<outline text="1999.io vs Twitter" created="Sun, 24 Apr 2016 05:23:23 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/23/0009.html"/>
+					<outline text="Facebook's Killer Feature: a Notification System" created="Mon, 25 Apr 2016 03:40:43 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/24/0013.html"/>
+					<outline text="A Peaceful Temple in Thailand" created="Tue, 26 Apr 2016 02:58:04 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/25/0015.html"/>
+					<outline text="The Great Music Experience" created="Tue, 26 Apr 2016 03:52:54 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/25/0016.html"/>
+					<outline text="Hallelujah Chorus" created="Fri, 29 Apr 2016 19:57:36 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/26/0017.html"/>
+					<outline text="We Will Not Let You Fail" created="Wed, 27 Apr 2016 00:48:02 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/26/0018.html"/>
+					<outline text="Check Engine Light" created="Fri, 29 Apr 2016 19:58:54 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/29/0019.html"/>
+					<outline text="News About Prince" created="Sat, 30 Apr 2016 14:44:02 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/30/0021.html"/>
+					<outline text="Ask Alanis Morissette" created="Tue, 03 May 2016 04:39:09 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/04/30/0025.html"/>
+					</outline>
+				<outline text="&lt;b&gt;May 2016&lt;/b&gt;" created="Tue, 03 May 2016 15:49:24 GMT">
+					<outline text="Thai People Love Nelson S. Howe" created="Tue, 03 May 2016 04:40:43 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/02/0026.html"/>
+					<outline text="They Can't Do It For Four Quarters" created="Thu, 05 May 2016 12:35:07 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/04/0027.html"/>
+					<outline text="Indeed We Do!" created="Sat, 07 May 2016 16:46:45 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/07/0028.html"/>
+					<outline text="Like the Night" created="Fri, 20 May 2016 01:53:45 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/17/0029.html"/>
+					<outline text="Elecraft KX-2 All-Mode Stealth QRP Transceiver" created="Fri, 20 May 2016 01:54:39 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/19/0031.html#"/>
+					<outline text="Robert Scoble is Back" created="Fri, 20 May 2016 01:55:55 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/19/0032.html"/>
+					<outline text="Vintage TV" created="Fri, 20 May 2016 04:32:27 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/19/0034.html"/>
+					<outline text="The Complications of Facebook [was deleted]" created="Mon, 30 May 2016 18:57:28 GMT" type="link" url="https://doc-04-c0-docs.googleusercontent.com/docs/securesc/ic9aourv43hk6q558mh97603iclrujbb/vcadi1vs87cek90bm4on5vuq4rqh1d9r/1464631200000/05403720990908497275/05403720990908497275/0B6MoQlcPbNDFMFpidEFiaVZCVHM?e=view&amp;nonce=utd7odfku14di&amp;user=05403720990908497275&amp;hash=u3vo1pq3kiu9dph6bmo12eaev1qgvngn"/>
+					<outline text="Don't Worry, Our Sister Site is Still Up!" created="Mon, 30 May 2016 18:35:18 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/22/0039.html"/>
+					<outline text="The Golden Age of Low Power Radio" created="Wed, 01 Jun 2016 07:22:03 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/31/0040.html"/>
+					<outline text="Archive Page for May" created="Wed, 01 Jun 2016 07:20:54 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/05/"/>
+					</outline>
+				<outline text="&lt;b&gt;June 2016&lt;/b&gt;" created="Wed, 08 Jun 2016 05:00:40 GMT">
+					<outline text="Embed a Tweet Inside a Blog Posting?" created="Wed, 08 Jun 2016 05:00:55 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/06/07/0042.html#"/>
+					<outline text="Archive Page for June" created="Wed, 08 Jun 2016 05:01:18 GMT" type="link" url="http://my.1999.io/users/W6AZ/2016/06/index.html"/>
+					</outline>
+				</outline>
+			</outline>
+		<outline text="&lt;b&gt;Program Documentation&lt;/b&gt;" created="Tue, 03 May 2016 15:46:44 GMT">
+			<outline text="&lt;b&gt;The Official Docs of 1999.io&lt;/b&gt;" created="Mon, 16 May 2016 15:38:20 GMT">
+				<outline text="Getting Started With 1999.io" created="Mon, 16 May 2016 15:38:48 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0002.html"/>
+				<outline text="Terminology" created="Mon, 16 May 2016 15:40:39 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0005.html"/>
+				<outline text="Story Pages" created="Mon, 16 May 2016 15:41:28 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0006.html"/>
+				<outline text="Technical Overview" created="Mon, 16 May 2016 15:42:30 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0004.html"/>
+				<outline text="Philosophy" created="Mon, 16 May 2016 15:43:24 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0003.html"/>
+				<outline text="Support" created="Mon, 16 May 2016 15:44:50 GMT" type="link" url="https://groups.google.com/forum/?fromgroups#!forum/1999-user"/>
+				</outline>
+			<outline text="&lt;b&gt;Documents to Read Before Asking For Help&lt;/b&gt;" created="Mon, 16 May 2016 15:46:42 GMT">
+				<outline text="How to Ask For Help With Software" created="Mon, 16 May 2016 15:13:23 GMT" type="link" url="http://scripting.com/2014/03/19/howToAskForHelpWithSoftware.html"/>
+				<outline text="The JavaScript Console, using it to debug problems, a podcast" created="Mon, 16 May 2016 15:07:45 GMT" type="link" url="http://scripting.com/liveblog/users/davewiner/2015/11/19/0315.html"/>
+				<outline text="Debugging Can Be Easy" created="Tue, 17 May 2016 16:00:05 GMT" type="link" url="http://scripting.com/2016/05/17/1265.html"/>
+				</outline>
+			<outline text="&lt;b&gt;Documentation of Specific Features in 1999.io&lt;/b&gt;" created="Mon, 16 May 2016 15:52:06 GMT">
+				<outline text="Adding Small Images to Stories" created="Mon, 16 May 2016 17:57:26 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/14/0007.html"/>
+				<outline text="Creating a New Post in 1999.io (video)" created="Wed, 01 Jun 2016 19:50:34 GMT" type="link" url="http://blog.1999.io/2016/06/01/0028.html"/>
+				<outline text="Emoji Cheat Sheet for use in 1999.io" created="Sat, 07 May 2016 19:36:07 GMT" type="link" url="http://www.emoji-cheat-sheet.com/"/>
+				<outline text="How to Add a Podcast to an Article" created="Mon, 09 May 2016 06:00:21 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/08/0022.html"/>
+				<outline text="How to Backup Your Blog in 1999.io" created="Mon, 16 May 2016 17:48:48 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/25/0013.html"/>
+				<outline text="How to Control when an Article is Published" created="Tue, 03 May 2016 23:55:32 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/22/0012.html#"/>
+				<outline text="How to Embed a Video in a Blog Posting" created="Mon, 09 May 2016 05:50:09 GMT" type="link" url="https://www.youtube.com/watch?v=sbqv9SwlFrw"/>
+				<outline text="The Glossary in 1999.io" created="Mon, 09 May 2016 17:44:04 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/09/0023.html">
+					<outline text="OPML File of the Glossary Dave Winer Uses" created="Mon, 09 May 2016 18:37:28 GMT" type="link" url="http://1999.io/outlines/glossary.opml"/>
+					</outline>
+				<outline text="Using the Insert-HTML command" created="Tue, 03 May 2016 15:47:11 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/02/0018.html"/>
+				</outline>
+			<outline text="&lt;b&gt;Documentation from Scripting.com, rather than the Support Blog&lt;/b&gt;" created="Sat, 28 May 2016 14:06:55 GMT">
+				<outline text="Edit This Page - about the key innovation of 1999" created="Sat, 28 May 2016 14:10:09 GMT" type="link" url="http://scripting.com/davenet/1999/05/24/editThisPage.html"/>
+				<outline text="Starting With 1999.io" created="Wed, 20 Jul 2016 14:44:54 GMT" type="link" url="http://scripting.com/2016/05/04/1238.html"/>
+				<outline text="I Know What a Blog Is - key document explaining what Dave Winer considers a blog to be." created="Mon, 27 Jun 2016 18:46:34 GMT" type="link" url="http://scripting.com/2014/06/27/iKnowWhatABlogIs.html"/>
+				<outline text="Where I Put My Ideas - on his blog, of course! " created="Sat, 02 Jul 2016 17:08:03 GMT" type="link" url="http://scripting.com/2016/07/02/1345.html"/>
+				<outline text="How to Do New Things - &quot;Don't wait for full knowledge to come to you. Often it won't. Just pretend you know what you're doing, and hit the walls. . . . I've called this method Divide and Conquer at times. Same idea.&quot;" created="Tue, 05 Jul 2016 15:04:24 GMT" type="link" url="http://scripting.com/2014/04/07/howIDoNewThings.html"/>
+				<outline text="Smoother story pages" created="Mon, 30 May 2016 20:02:20 GMT" type="link" url="http://scripting.com/2016/05/27/1285.html"/>
+				<outline text="Dave, don't boast!" created="Mon, 30 May 2016 20:04:40 GMT" type="link" url="http://scripting.com/2016/05/27/1286.html"/>
+				<outline text="Programming note for 1999.io" created="Mon, 30 May 2016 19:57:39 GMT" type="link" url="http://scripting.com/2016/05/30/1294.html"/>
+				<outline text="What is a Reviewer's Guide?" created="Sun, 05 Jun 2016 05:47:20 GMT" type="link" url="http://scripting.com/2016/06/04/1303.html">
+					<outline text="Discussion area for 1999.io Reviewer's Guide." created="Sun, 05 Jun 2016 05:53:36 GMT" type="link" url="https://github.com/scripting/1999-project/issues/27"/>
+					<outline text="Podcast about Reviewer's Guides" created="Sun, 05 Jun 2016 05:51:12 GMT" type="link" url="http://scripting.com/2016/06/03/aboutReviewersGuides.m4a"/>
+					<outline text="Reviewer's Guide for 1999.io - a work in progress, shown in Small Picture Reader." created="Sun, 05 Jun 2016 06:04:09 GMT" type="link" url="http://reader.smallpicture.com/?opmlurl=https%3A%2F%2Fdl.dropbox.com%2Fs%2F09kyskkucmtgml9%2FreviewersGuideFor1999io.opml%3Fdl%3D0"/>
+					<outline text="Reviewer's Guide for 1999.io - with its permalink" created="Tue, 14 Jun 2016 14:23:32 GMT" type="link" url="http://1999.io/about/#ubc"/>
+					</outline>
+				<outline text="Dave tried 1999.io in a Brave.com browser &amp; it worked." created="Tue, 07 Jun 2016 03:03:30 GMT" type="link" url="https://twitter.com/davewiner/status/739846052031942656"/>
+				<outline text="Where We're At With 1999.io . . . it seems about finished." created="Wed, 08 Jun 2016 19:55:15 GMT" type="link" url="http://scripting.com/2016/06/08/1311.html">
+					<outline text="Added new features to RSS in partnership with River5." created="Wed, 08 Jun 2016 20:04:43 GMT" type="link" url="https://github.com/scripting/river5"/>
+					</outline>
+				<outline text="Screencast to demo page load time &amp; description of all the things going on." created="Thu, 09 Jun 2016 04:12:41 GMT" type="link" url="https://www.youtube.com/watch?v=hkatZVqQipw">
+					<outline text="The screencast was inspired by this thread on Twitter." created="Thu, 09 Jun 2016 15:53:48 GMT" type="link" url="https://twitter.com/LukasKawerau/status/740671535661363200"/>
+					</outline>
+				<outline text="We Need a European Union of Blogging Systems." created="Fri, 01 Jul 2016 19:31:01 GMT" type="link" url="http://scripting.com/2016/07/01/1339.html"/>
+				<outline text="Message of the Day Feature in 1999.io." created="Wed, 13 Jul 2016 18:20:08 GMT" type="link" url="http://scripting.com/2016/07/13/1379.html"/>
+				<outline text="Message of the Day continued: The Bell is Out." created="Fri, 15 Jul 2016 15:54:38 GMT" type="link" url="http://scripting.com/2016/07/15/1384.html"/>
+				</outline>
+			<outline text="&lt;b&gt;Server Setup Documentation&lt;/b&gt;" created="Thu, 09 Jun 2016 15:43:40 GMT">
+				<outline text="Dockerizing the 1999.io Server" created="Wed, 15 Jun 2016 19:03:30 GMT" type="link" url="http://scripting.com/2016/06/15/1318.html"/>
+				<outline text="How to Set Up a 1999.io Server on Ubuntu" created="Thu, 09 Jun 2016 15:44:09 GMT" type="link" url="https://github.com/scripting/1999-project/blob/master/docs/setup.md"/>
+				<outline text="How to Setup an Ubuntu Server on AWS; new ebook by Andy Sylvester" created="Sun, 26 Jun 2016 12:48:16 GMT" type="link" url="http://node.andysylvester.com:1999/users/AndySylvester99/2016/06/23/0030.html">
+					<outline text="It worked for Walt Ludwick" created="Sun, 26 Jun 2016 12:59:26 GMT" type="link" url="http://my.1999.io/users/WaltLudwick/2016/06/25/0029.html">
+						<outline text="And he then discovered more help from Andy on how to setup a page to display River5 files. " created="Sun, 26 Jun 2016 13:02:11 GMT" type="link" url="https://github.com/scripting/river5/wiki/Setting-up-a-page-to-display-your-rivers"/>
+						</outline>
+					<outline text="Amazon: Make AWS Easier to Start With" created="Wed, 29 Jun 2016 15:29:52 GMT" type="link" url="http://scripting.com/2016/06/29/1334.html"/>
+					</outline>
+				<outline text="1999-server on Docker" created="Mon, 25 Jul 2016 15:19:48 GMT" type="link" url="http://scripting.com/2016/07/25/1409.html"/>
+				<outline text="How to Copy 1999.io Blog Files to Another Server by Andy Sylvester" created="Mon, 27 Jun 2016 04:38:27 GMT" type="link" url="http://node.andysylvester.com:1999/users/AndySylvester99/2016/06/26/0036.html"/>
+				<outline text="Mapping a Domain to a Blog" created="Sat, 02 Jul 2016 07:19:08 GMT" type="link" url="https://github.com/scripting/1999-project/blob/master/docs/domains.md"/>
+				<outline text="Using the 1999 App for the Mac" created="Thu, 09 Jun 2016 15:46:53 GMT" type="link" url="http://blog.1999.io/2016/04/14/0008.html"/>
+				<outline text="John Johnston got 1999.io running on his Raspberry Pi" created="Sun, 10 Jul 2016 22:10:51 GMT" type="link" url="http://pi.johnj.info:1999/users/johnjohnston/2016/07/10/0001.html"/>
+				<outline text="Edit a Glossary for 1999.io Using Little Outliner 2" created="Mon, 11 Jul 2016 17:19:11 GMT" type="link" url="http://lo.1999.io/2016/07/11/0006.html"/>
+				<outline text="Dave Winer Offers to Work With Those Who Want to Provide Hosted Services, Running 1999.io. " created="Wed, 10 Aug 2016 19:17:37 GMT" type="link" url="http://scripting.com/2016/08/09/areYouInTheHostingBusiness.html"/>
+				<outline text="Experimental Feature: New Editors Menu in 1999.io" created="Mon, 15 Aug 2016 00:22:53 GMT" type="link" url="https://www.youtube.com/watch?v=ZSeIVEnu2_4"/>
+				</outline>
+			<outline text="&lt;b&gt;Support Resources for 1999.io&lt;/b&gt;" created="Mon, 16 May 2016 15:55:33 GMT">
+				<outline text="1999.io Home Page" created="Mon, 09 May 2016 06:10:54 GMT" type="link" url="http://1999.io/"/>
+				<outline text="1999.io Reviewer's Guide - How is 1999.io Different from Other Blogging Platforms?" created="Sun, 05 Jun 2016 06:01:09 GMT" type="link" url="http://1999.io/about/"/>
+				<outline text="1999io - The Support Blog for 1999.io" created="Mon, 16 May 2016 18:01:34 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0001.html">
+					<outline text="Support Blog Postings - in order of posting" created="Sun, 22 May 2016 15:28:04 GMT">
+						<outline text="#1 - Greetings" created="Sun, 22 May 2016 15:28:39 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0001.html"/>
+						<outline text="#2 - Getting Started With 1999.io" created="Sun, 22 May 2016 15:31:46 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0002.html"/>
+						<outline text="#3 - Philosophy" created="Sun, 22 May 2016 15:32:58 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0003.html"/>
+						<outline text="#4 - Technical Overview" created="Sun, 22 May 2016 15:34:01 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0004.html"/>
+						<outline text="#5 - Terminology" created="Sun, 22 May 2016 15:35:01 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0005.html"/>
+						<outline text="#6 - Story Pages" created="Sun, 22 May 2016 15:35:56 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/11/0006.html"/>
+						<outline text="#7 - Adding Small Images to Stories" created="Sun, 22 May 2016 15:36:45 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/14/0007.html"/>
+						<outline text="#8 - Using the 1999 App for the Mac" created="Sun, 22 May 2016 15:39:24 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/14/0008.html"/>
+						<outline text="#9 - The 1999-user List" created="Sun, 22 May 2016 15:40:31 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/20/0009.html"/>
+						<outline text="#10 - Using 1999-app With Your Server" created="Sun, 22 May 2016 15:41:29 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/21/0010.html"/>
+						<outline text="#11 - v0.88r - links in the title line of a post now open in a new browser tab.  " created="Sun, 22 May 2016 15:43:39 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/22/0011.html"/>
+						<outline text="#12 - How Publishing Works in 1999" created="Sun, 22 May 2016 15:45:38 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/22/0012.html"/>
+						<outline text="#13 - How to Back Up Your 1999.io Blog" created="Sun, 22 May 2016 15:49:02 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/25/0013.html"/>
+						<outline text="#14 - The Chatlogs Menu in v0.88t" created="Sun, 22 May 2016 15:51:49 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/25/0014.html"/>
+						<outline text="#15 - About Medium-editor and 1999.io" created="Sun, 22 May 2016 15:53:29 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/25/0015.html"/>
+						<outline text="#16 - What's New in v0.88u - fixes on Insert-HTML command &amp; infinite scrolling." created="Sun, 22 May 2016 15:59:24 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/27/0016.html"/>
+						<outline text="#17 - What's New in v0.88w - the first automatic update." created="Sun, 22 May 2016 16:01:03 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/28/0017.html"/>
+						<outline text="#18 - What's New in v0.88y - the Insert-HTML command now inserts at cursor location or replaces selected text." created="Sun, 22 May 2016 16:04:08 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/02/0018.html"/>
+						<outline text="#19 - The Delete Command" created="Sun, 22 May 2016 16:06:36 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/03/0019.html"/>
+						<outline text="#20 - An Amazon AMI for 1999-server" created="Sun, 22 May 2016 16:07:31 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/07/0020.html"/>
+						<outline text="#21 - Early Users Talk About 1999.io" created="Sun, 22 May 2016 16:08:47 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/08/0021.html"/>
+						<outline text="#22 - Video: Podcasting and 1999.io" created="Sun, 22 May 2016 16:10:13 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/08/0022.html"/>
+						<outline text="#23 - The Glossary in 1999.io" created="Sun, 22 May 2016 16:11:12 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/09/0023.html"/>
+						<outline text="#24 - How to Test the Template Editor" created="Sun, 22 May 2016 16:12:28 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/16/0024.html"/>
+						<outline text="#25 - New Template Editor" created="Sun, 29 May 2016 20:22:03 GMT" type="link" url="http://blog.1999.io/2016/05/26/0025.html"/>
+						<outline text="#26 - URL Magic" created="Sun, 29 May 2016 20:23:58 GMT" type="link" url="http://blog.1999.io/2016/05/29/0026.html"/>
+						<outline text="#27 - Monthly Archive Pages" created="Mon, 30 May 2016 18:21:16 GMT" type="link" url="http://blog.1999.io/2016/05/30/0027.html">
+							<outline text="Example of Archive Page " created="Wed, 01 Jun 2016 06:42:31 GMT" type="link" url="http://blog.1999.io/2016/05/"/>
+							<outline text="The Archive Page for May 2016 would be found at the URL: &lt;a href=&quot;http://my.1999.io/users/W6AZ/2016/05/&quot;&gt;http://my.1999.io/users/username/2016/05/&lt;/a&gt; example for username = W6AZ." created="Thu, 02 Jun 2016 03:07:08 GMT"/>
+							</outline>
+						<outline text="#28 - Creating a New Post in 1999.io (video)" created="Wed, 01 Jun 2016 19:48:21 GMT" type="link" url="http://blog.1999.io/2016/06/01/0028.html"/>
+						<outline text="#29 - Turning on Instant Articles Support" created="Tue, 14 Jun 2016 13:56:35 GMT" type="link" url="http://blog.1999.io/2016/06/09/0029.html">
+							<outline text="But Facebook has other hoops to jump through as well, and some, including Dave, have found &quot;the net result was meh.&quot;" created="Tue, 14 Jun 2016 13:58:48 GMT" type="link" url="https://groups.google.com/forum/#!topic/1999-user/Qjr54XtMcrg"/>
+							</outline>
+						<outline text="#30 - Using Disqus Comments" created="Sun, 19 Jun 2016 06:33:30 GMT" type="link" url="http://blog.1999.io/2016/06/18/0030.html"/>
+						<outline text="#31 - Outage Cleared" created="Fri, 01 Jul 2016 02:12:41 GMT" type="link" url="http://blog.1999.io/2016/06/30/0031.html"/>
+						<outline text="#32 - Better URL's in v0.90f" created="Sat, 30 Jul 2016 03:19:08 GMT" type="link" url="http://blog.1999.io/2016/07/27/0032.html"/>
+						<outline text="#33 - Example of Templates in 1999.io" created="Thu, 11 Aug 2016 16:05:59 GMT" type="link" url="http://blog.1999.io/2016/08/05/exampleOfTemplatesIn1999io.html"/>
+						<outline text="#34 - Setting the Google Analytics ID" created="Thu, 11 Aug 2016 16:06:16 GMT" type="link" url="http://blog.1999.io/2016/08/10/settingTheGoogleAnalyticsId.html"/>
+						<outline text="#35 - Glossary Whitespace Fix" created="Thu, 11 Aug 2016 16:06:22 GMT" type="link" url="http://blog.1999.io/2016/08/11/glossaryWhitespaceFix.html"/>
+						</outline>
+					</outline>
+				<outline text="1999io on Twitter" created="Sun, 22 May 2016 15:26:35 GMT" type="link" url="https://twitter.com/1999io"/>
+				<outline text="&lt;b&gt;Google Groups Related to 1999.io, but Each with a Different Purpose.&lt;/b&gt;" created="Mon, 13 Jun 2016 23:07:05 GMT">
+					<outline text="&lt;b&gt;1999-user Support Site&lt;/b&gt; in Google Groups" created="Sat, 07 May 2016 19:40:15 GMT" type="link" url="https://groups.google.com/forum/#!forum/1999-user">
+						<outline text="Announcement of the 1999-user List  " created="Mon, 16 May 2016 17:54:19 GMT" type="link" url="http://my.1999.io/users/1999io/2016/04/20/0009.html"/>
+						<outline text="Clarification: &quot;If you want to speculate on future features, or stuff that you all could develop collaboratively, -- that's fantastic -- use your blog.&quot; [i.e. this mail list is not for that purpose.]" created="Mon, 13 Jun 2016 22:45:42 GMT" type="link" url="https://groups.google.com/forum/#!topic/1999-user/8nerLe5V0oA"/>
+						<outline text="For reporting bugs in the software, use the issues database on the Github repo." created="Tue, 14 Jun 2016 14:48:05 GMT" type="link" url="https://github.com/scripting/1999-project/issues"/>
+						</outline>
+					<outline text="&lt;b&gt;1999-server Mail List&lt;/b&gt; in Google Groups - for technical issues that come up when running a server." created="Mon, 16 May 2016 16:03:16 GMT" type="link" url="https://groups.google.com/forum/#!search/1999-server$20list/server-snacks/ex3Zhbmpi14/Os9WwEu_BwAJ"/>
+					<outline text="&lt;b&gt;1999ers Community&lt;/b&gt; in Google Groups - for participating in a community of people who are blogging with 1999.io." created="Sat, 07 May 2016 19:38:24 GMT" type="link" url="https://groups.google.com/forum/#!forum/the-1999io-blogger-community"/>
+					</outline>
+				</outline>
+			<outline text="&lt;b&gt;Reviews of 1999.io&lt;/b&gt;" created="Thu, 09 Jun 2016 16:03:33 GMT">
+				<outline text="Chris Ammerman: &quot;New blogging platform from @davewiner sounds compelling.&quot;" created="Fri, 10 Jun 2016 16:12:00 GMT" type="link" url="https://twitter.com/cammerman/status/740891643465846784"/>
+				<outline text="Jack Baty: &quot;The short version is that I think 1999.io is great for what I'm using it for. That is, a short-form blogging platform (aka 'micro blog').&quot; " created="Wed, 20 Jul 2016 14:54:47 GMT" type="link" url="http://notes.baty.net/2016/07/19/0001.html"/>
+				<outline text="Jack Baty: &quot;Why would I pull the plug on my nifty new Hugo blog and go back to 1999.io? Because I'm lazy. The whole point of this 'notes' blog is that I can quickly jot things down without any friction. Hugo is awesome, but there's still too much friction involved. 1999 is easy peasy, so I'm back to using that.&quot;" created="Wed, 20 Jul 2016 14:57:17 GMT" type="link" url="http://notes.baty.net/2016/07/19/0002.html"/>
+				<outline text="Om Malik: &quot;Blogging like 1999! Actually a remarkable new blogging CMS system from inventor @davewiner I say he did it again.&quot;" created="Fri, 10 Jun 2016 16:02:49 GMT" type="link" url="https://twitter.com/om/status/741140450942291969"/>
+				<outline text="m_gianaco says: &quot;This looks very cool AND it's open source! Way to go&quot;" created="Sun, 10 Jul 2016 13:56:07 GMT" type="link" url="https://twitter.com/m_gianaco/status/751818032297615360"/>
+				<outline text="nstart on Hacker News: &quot;It's primary concept is about it going back to the roots of being about openness. Instead of blogging on all the closed platforms, Dave has always advocated for blogging on your own terms. Whether from wordpress, ghost, or his new tool, it's all the same level of importance in keeping the open web alive.&quot;" created="Thu, 09 Jun 2016 16:14:34 GMT" type="link" url="https://news.ycombinator.com/item?id=11866865"/>
+				<outline text="Pito Salas: &quot;A cool light weight blogging system!&quot;" created="Thu, 09 Jun 2016 16:21:33 GMT" type="link" url="https://twitter.com/pitosalas/status/740242772947546112"/>
+				<outline text="Jack Schofield: &quot;. . . where blogging is as easy  as Tweeting.&quot;" created="Thu, 09 Jun 2016 16:04:39 GMT" type="link" url="https://twitter.com/jackschofield/status/740686181025906688"/>
+				<outline text="Doc Searls: &quot;The Best Way to Blog. . . I just gotta say that blogging here &lt;i&gt;really is&lt;/i&gt; like blogging in 1999." created="Fri, 01 Jul 2016 19:11:31 GMT" type="link" url="http://my.1999.io/users/dsearls/2016/06/29/0004.html"/>
+				<outline text="Doc Searls: &quot;Only Dave gets blog headlines.&quot; He goes on to explain that 1999.io allows you to create the headline after writing the article, &quot;exactly how headline writing has always worked in good newspapers.&quot;" created="Fri, 01 Jul 2016 18:35:35 GMT" type="link" url="http://my.1999.io/users/dsearls/2016/07/01/0018.html"/>
+				<outline text="Ken Smith: &quot;Until we have telepathy-driven blogging systems, I am not sure it will ever get any easier for writers than 1999.io.&quot;" created="Thu, 09 Jun 2016 16:19:47 GMT" type="link" url="https://twitter.com/KenSmith/status/740199773899239425"/>
+				<outline text="Carles Bellver Torlà: &quot;Blogging software matters. Software is cyclic. Silos are the norm for a while, then radically open platforms.&quot; " created="Thu, 09 Jun 2016 16:08:20 GMT" type="link" url="https://twitter.com/carlesbellver/status/740821429172731904"/>
+				<outline text="Michael Walters: &quot;I think this is important: http://1999.io. It's a new blogging platform written by @davewiner. It needs some tech skills to set up.&quot;" created="Thu, 09 Jun 2016 16:10:42 GMT" type="link" url="https://twitter.com/michaelwaltersx/status/740888182049345536"/>
+				<outline text="Albert Wegner: &quot;. . . if I am going to make the effort to move Continuations, it will be to something that I control entirely. That could be something like Dave Winer’s 1999.io, which looks great.&quot;" created="Mon, 01 Aug 2016 20:39:43 GMT" type="link" url="http://continuations.com/post/148294791800/thinking-about-leaving-tumblr-looking-for-a"/>
+				</outline>
+			<outline text="&lt;b&gt;Examples of People Using 1999.io&lt;/b&gt;" created="Mon, 16 May 2016 16:06:17 GMT">
+				<outline text="1999ers Compiled in Feedly" created="Sat, 07 May 2016 19:43:17 GMT" type="link" url="http://feedly.com/i/category/1999ers"/>
+				<outline text="Early Users Talk About 1999.io" created="Sun, 08 May 2016 19:44:40 GMT" type="link" url="http://my.1999.io/users/1999io/2016/05/08/0021.html"/>
+				</outline>
+			</outline>
+		<outline text="&lt;b&gt;Rivers of News&lt;/b&gt;" created="Sat, 30 Apr 2016 15:46:19 GMT">
+			<outline text="Dave's River with 8 Streams (open each article in a new tab)" created="Sat, 30 Apr 2016 15:47:25 GMT" type="link" url="http://radio3.io/rivers/"/>
+			<outline text="Dave's Guardian River (works right)" created="Sat, 30 Apr 2016 15:48:54 GMT" type="link" url="http://guardian.newsriver.org/"/>
+			<outline text="Andy's River of 1999ers (works right)" created="Sat, 30 Apr 2016 15:49:28 GMT" type="link" url="http://1999bloggers.andysylvester.com/"/>
+			<outline text="Andy's Giant Multi-Stream Rivers (open each article in a new tab)" created="Sat, 30 Apr 2016 19:23:43 GMT" type="link" url="http://node2.andysylvester.com:1337/"/>
+			</outline>
+		<outline text="&lt;b&gt;Postings That I Liked and/or Commented On&lt;/b&gt;" created="Sat, 23 Apr 2016 16:52:21 GMT">
+			<outline text="Andy Sylvester - Keeping Track of the 1999.io Bloggers" created="Sat, 23 Apr 2016 16:53:38 GMT" type="link" url="http://node.andysylvester.com:1999/users/AndySylvester99/2016/04/22/0013.html"/>
+			<outline text="Andy Sylvester - Creating and Displaying Your Own Rivers" created="Mon, 16 May 2016 01:25:29 GMT" type="link" url="http://node.andysylvester.com:1999/users/AndySylvester99/2016/04/30/0019.html"/>
+			<outline text="Dave Winer - My Heroku Diaspora - a cautionary tale" created="Sun, 08 May 2016 06:02:47 GMT" type="link" url="http://scripting.com/2016/05/07/1240.html"/>
+			<outline text="Four Cultures - The web and the news where you are" created="Tue, 26 Apr 2016 05:06:31 GMT" type="link" url="http://my.1999.io/users/fourcultures/2016/04/24/0002.html"/>
+			<outline text="Four Cultures - An Introduction to TiddlyWikis" created="Thu, 28 Apr 2016 18:19:58 GMT" type="link" url="http://my.1999.io/users/fourcultures/2016/04/29/0015.html"/>
+			<outline text="Frank McPherson - 1999.io Wish List" created="Fri, 06 May 2016 15:06:29 GMT" type="link" url="http://writing.frankmcpherson.org/2016/05/06/0049.html"/>
+			<outline text="Frank McPherson - On Using a Glossary File" created="Mon, 09 May 2016 18:41:57 GMT" type="link" url="http://writing.frankmcpherson.org/2016/05/09/0057.html"/>
+			<outline text="Frank McPherson - Discussion of the Glossary Feature" created="Tue, 10 May 2016 01:02:36 GMT" type="link" url="https://groups.google.com/forum/?fromgroups=#!topic/the-1999io-blogger-community/nUmQZu1z5gk"/>
+			<outline text="Frank McPherson - Noticing or Avoiding Comments" created="Wed, 15 Jun 2016 05:20:29 GMT" type="link" url="http://writing.frankmcpherson.org/2016/06/09/0081.html"/>
+			<outline text="Jeffrey Kishner - Self-Hosted Blogging" created="Sat, 23 Apr 2016 16:57:10 GMT" type="link" url="http://1999.jeffreykishner.com/users/kishner/2016/04/14/0024.html"/>
+			<outline text="Jeffrey Kishner - Experimenting with Photoblogging" created="Mon, 25 Apr 2016 04:15:00 GMT" type="link" url="http://1999.jeffreykishner.com/users/kishner/2016/04/05/0012.html"/>
+			<outline text="John Philpin - I clarified how to embed video &amp; podcasts " created="Mon, 09 May 2016 06:02:41 GMT" type="link" url="http://my.1999.io/users/jgphilpin/2016/05/08/0070.html"/>
+			<outline text="Ken Booth -  &lt;a href=&quot;http://my.1999.io/users/KenBooth/2016/05/11/0023.html&quot;&gt;Plans to setup a server&lt;/a&gt; for 1999.io, then &lt;a href=&quot;http://my.1999.io/users/KenBooth/2016/05/11/0024.html&quot;&gt;reports on having done it&lt;/a&gt; and then plays around with &lt;a href=&quot;http://my.1999.io/users/KenBooth/2016/05/12/0026.html&quot;&gt;editing the template&lt;/a&gt;, but doesn't get very far into it." created="Wed, 11 May 2016 21:26:42 GMT"/>
+			<outline text="Player One - Removing the Inertia of Blogging - compares 1999. io blogging to Word Press blogging" created="Sat, 14 May 2016 21:18:22 GMT" type="link" url="http://player1.io/2016/04/02/0002.html"/>
+			<outline text="RajeshRazdan - Syndicating Your Micro-Content" created="Sat, 23 Apr 2016 17:58:43 GMT" type="link" url="http://my.1999.io/users/RajeshRazdan/2016/04/22/0002.html"/>
+			<outline text="Walt Ludwick - Points to an app that opens &amp; edits Fargo OPML files" created="Sat, 04 Jun 2016 16:38:41 GMT" type="link" url="http://my.1999.io/users/WaltLudwick/2016/06/03/0017.html"/>
+			</outline>
+		</body>
+	</opml>
