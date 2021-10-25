@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 25 Oct 2021 12:06:29 GMT</dateModified>
-		<expansionState>2,3,5,11,12</expansionState>
-		<lastCursor>10</lastCursor>
+		<dateModified>Mon, 25 Oct 2021 14:08:08 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 25" created="Mon, 25 Oct 2021 14:05:34 GMT" type="calendarDay" name="25">
+				<outline text="Ordered a copy (digital and physical) of Derek's Siver's new book &quot;&lt;a href=&quot;https://sive.rs/h&quot;&gt;How to Live&lt;/a&gt;&quot;. It sounded very interesting and thought provoking. Going to give the physical copy to my sister.  " created="Mon, 25 Oct 2021 14:05:35 GMT" type="outline"/>
+				</outline>
 			<outline text="October 24" created="Sun, 24 Oct 2021 18:45:59 GMT" type="calendarDay" name="24">
 				<outline text="Phil could &lt;a href=&quot;http://oldschool.scripting.com/twelvety/2021/10/24.html#a133852&quot;&gt;rearrange his bookmarks &lt;/a&gt;and spell...BARF 🤣" created="Sun, 24 Oct 2021 21:01:25 GMT" type="outline"/>
 				<outline text="&lt;a href=&quot;https://www.youtube.com/playlist?list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj&quot;&gt;2 hours, 38 minutes, 54 seconds&lt;/a&gt; doesn't seem too bad for getting going with &lt;a href=&quot;https://github.com/hlissner/doom-emacs&quot;&gt;doom-emacs&lt;/a&gt;...🤔" created="Sun, 24 Oct 2021 20:02:14 GMT" type="outline"/>
