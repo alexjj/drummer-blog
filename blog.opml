@@ -19,13 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 25 Oct 2021 14:08:08 GMT</dateModified>
-		<expansionState>1,2,4</expansionState>
+		<dateModified>Mon, 25 Oct 2021 15:14:10 GMT</dateModified>
+		<expansionState>1,2,6</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 25" created="Mon, 25 Oct 2021 14:05:34 GMT" type="calendarDay" name="25">
+				<outline text="" created="Mon, 25 Oct 2021 15:14:08 GMT" type="outline"/>
+				<outline text="Submitted &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/2&quot;&gt;a RFC&lt;/a&gt; for Drummer. " created="Mon, 25 Oct 2021 15:13:06 GMT" type="outline"/>
 				<outline text="Ordered a copy (digital and physical) of Derek's Siver's new book &quot;&lt;a href=&quot;https://sive.rs/h&quot;&gt;How to Live&lt;/a&gt;&quot;. It sounded very interesting and thought provoking. Going to give the physical copy to my sister.  " created="Mon, 25 Oct 2021 14:05:35 GMT" type="outline"/>
 				</outline>
 			<outline text="October 24" created="Sun, 24 Oct 2021 18:45:59 GMT" type="calendarDay" name="24">
