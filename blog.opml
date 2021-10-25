@@ -19,14 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 25 Oct 2021 21:14:06 GMT</dateModified>
-		<expansionState>1,2,19,20,21,24,29</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 25 Oct 2021 21:18:08 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>18</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 25" created="Mon, 25 Oct 2021 14:05:34 GMT" type="calendarDay" name="25">
-				<outline text="So Obsidian has released &lt;a href=&quot;https://obsidian.md/mobile&quot;&gt;mobile apps&lt;/a&gt; now. For free. You can use iCloud sync or pay for their sync or maybe git via Working Copy. A quick test of it (on iPad) and the mobile app is very impressive, looks to have most, if not all, the features of the desktop app. Has a nice toolbar that you can customise, gestures to open command palette.  I think I like it more than the desktop app! If you just use Apple products, it's a pretty decent setup. If you paid for Publish it would make for a great experience. I just don't like the desktop app nor want to pay $192 / year for it. Probably if I looked someone has made a static html generator using your Obsidian notes." created="Mon, 25 Oct 2021 21:05:39 GMT" type="outline"/>
+				<outline text="So Obsidian has released &lt;a href=&quot;https://obsidian.md/mobile&quot;&gt;mobile apps&lt;/a&gt; now. For free. You can use iCloud sync or pay for their sync or maybe git via Working Copy. A quick test of it (on iPad) and the mobile app is very impressive, looks to have most, if not all, the features of the desktop app. Has a nice toolbar that you can customise, gestures to open command palette.  I think I like it more than the desktop app! If you just use Apple products, it's a pretty decent setup. If you paid for Publish it would make for a great experience. I just don't like the desktop app nor want to pay $192 / year for it. Probably if I looked someone has made a static html generator using your Obsidian notes. e.g. &lt;a href=&quot;https://github.com/Maxence-L/notenote.link&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://marco.kamner.eu/notes/technology/obsidian/publish-obsidian-to-personal-site/&quot;&gt;2&lt;/a&gt;" created="Mon, 25 Oct 2021 21:05:39 GMT" type="outline"/>
 				<outline text="Inserted that image using my &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/83#issuecomment-951277662&quot;&gt;latest drummer script&lt;/a&gt;...saves me typing a little, and remembering between &lt;code&gt;image&lt;/code&gt; and &lt;code&gt;inlineImage&lt;/code&gt;" created="Mon, 25 Oct 2021 20:17:33 GMT" type="outline"/>
 				<outline text="My blog banner is photo I took of the snow this year on HP5" created="Mon, 25 Oct 2021 20:06:02 GMT" inlineImage="https://alexjj.github.io/drummer-blog/img/banner.jpg"/>
 				<outline text="I’ve come back to thinking I want a reMarkable (or similar) tablet again. I love paper notebooks to flick back through for some information but once I move to a new book this is impossible. Also like the idea of annotating/note taking from a book at the same time. Have to actually research how good it really is first. Seems Supernote might be better. Will take this research line over to the &lt;a href=&quot;https://fondoftea.com/#e-Ink%20Tablets&quot;&gt;wiki&lt;/a&gt;." created="Mon, 25 Oct 2021 15:31:09 GMT" type="outline"/>
