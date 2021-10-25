@@ -19,15 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 25 Oct 2021 15:14:10 GMT</dateModified>
-		<expansionState>1,2,6</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 25 Oct 2021 15:26:40 GMT</dateModified>
+		<expansionState>1,2,15,16,17,20,25</expansionState>
+		<lastCursor>23</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 25" created="Mon, 25 Oct 2021 14:05:34 GMT" type="calendarDay" name="25">
-				<outline text="" created="Mon, 25 Oct 2021 15:14:08 GMT" type="outline"/>
-				<outline text="Submitted &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/2&quot;&gt;a RFC&lt;/a&gt; for Drummer. " created="Mon, 25 Oct 2021 15:13:06 GMT" type="outline"/>
+				<outline text="Whilst looking up the name of the next &lt;i&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Stormlight_Archive&quot;&gt;Stormlight Archives&lt;/a&gt;&lt;/i&gt; book to read, I found out about another epic fantasy series, &lt;a href=&quot;https://en.wikipedia.org/wiki/Robin_Hobb#The_Realm_of_the_Elderlings&quot;&gt;&lt;i&gt;Realm of the Elderlings&lt;/i&gt; by Robin Hodd&lt;/a&gt;." created="Mon, 25 Oct 2021 15:14:08 GMT" type="outline"/>
+				<outline text="Submitted &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/2&quot;&gt;a RFC&lt;/a&gt; for Drummer. I'd like to make some static pages.  " created="Mon, 25 Oct 2021 15:13:06 GMT" type="outline"/>
 				<outline text="Ordered a copy (digital and physical) of Derek's Siver's new book &quot;&lt;a href=&quot;https://sive.rs/h&quot;&gt;How to Live&lt;/a&gt;&quot;. It sounded very interesting and thought provoking. Going to give the physical copy to my sister.  " created="Mon, 25 Oct 2021 14:05:35 GMT" type="outline"/>
 				</outline>
 			<outline text="October 24" created="Sun, 24 Oct 2021 18:45:59 GMT" type="calendarDay" name="24">
@@ -214,6 +214,18 @@
 				</outline>
 			</outline>
 		<outline text="Standalone pages" created="Wed, 20 Oct 2021 14:27:41 GMT" isComment="false">
+			<outline text="Now" created="Mon, 25 Oct 2021 15:19:26 GMT" type="page" relpath="now.html">
+				<outline text="What am I doing now?" created="Mon, 25 Oct 2021 15:19:53 GMT">
+					<outline text="Living in Aberdeen, Scotland with the hope of staying here for at least 20 years" created="Mon, 25 Oct 2021 15:22:33 GMT"/>
+					<outline text="Kids are getting older and starting to do more activities and our calendar is heavily influenced by them" created="Mon, 25 Oct 2021 15:25:27 GMT"/>
+					<outline text="Taking a lot of photos of family, including with film. Got a large format camera to try out." created="Mon, 25 Oct 2021 15:24:30 GMT">
+						<outline text="Planning on getting into developing myself" created="Mon, 25 Oct 2021 15:25:09 GMT"/>
+						</outline>
+					<outline text="Enjoying reading massive fantasy novels. Currently on the Stormlight Archives by Brandon Sanderson." created="Mon, 25 Oct 2021 15:20:00 GMT"/>
+					<outline text="Really picked up my blogging, at first with my &lt;a href=&quot;https://fondoftea.com/&quot;&gt;wiki site&lt;/a&gt; and now with &lt;a href=&quot;http://drummer.scripting.com/&quot;&gt;Drummer&lt;/a&gt;. " created="Mon, 25 Oct 2021 15:20:50 GMT"/>
+					<outline text="Considering some programming things, including learning javascript, but still not done much on that front recently." created="Mon, 25 Oct 2021 15:22:12 GMT"/>
+					</outline>
+				</outline>
 			<outline text="Archives" created="Wed, 20 Oct 2021 14:27:49 GMT" type="page" relpath="archives.html">
 				<outline text="This is a test page to explore ways to show archives for the blog." created="Wed, 20 Oct 2021 14:28:49 GMT"/>
 				<outline text="&lt;h3&gt;October&lt;/h3&gt;" created="Wed, 20 Oct 2021 14:40:21 GMT" flBulletedSubs="true">
