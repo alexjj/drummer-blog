@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 24 Oct 2021 21:27:31 GMT</dateModified>
-		<expansionState>1,2,11,13,18,22</expansionState>
-		<lastCursor>15</lastCursor>
+		<dateModified>Mon, 25 Oct 2021 10:42:39 GMT</dateModified>
+		<expansionState>2,3,5,11,12</expansionState>
+		<lastCursor>12</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -208,15 +208,20 @@
 					</outline>
 				</outline>
 			</outline>
-		<outline text="Standalone pages" created="Wed, 20 Oct 2021 14:27:41 GMT" isComment="true">
+		<outline text="Standalone pages" created="Wed, 20 Oct 2021 14:27:41 GMT" isComment="false">
 			<outline text="Archives" created="Wed, 20 Oct 2021 14:27:49 GMT" type="page" relpath="archives.html">
-				<outline text="This is a test page to see if I can get archives built for the blog." created="Wed, 20 Oct 2021 14:28:49 GMT"/>
+				<outline text="This is a test page to explore ways to show archives for the blog." created="Wed, 20 Oct 2021 14:28:49 GMT"/>
 				<outline text="&lt;h3&gt;October&lt;/h3&gt;" created="Wed, 20 Oct 2021 14:40:21 GMT" flBulletedSubs="true">
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/20.html&quot;&gt;20th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:16 GMT"/>
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/19.html&quot;&gt;19th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:20 GMT"/>
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/18.html&quot;&gt;18th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:21 GMT"/>
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/17.html&quot;&gt;17th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:24 GMT"/>
 					<outline text="&lt;a href=&quot;https://alexjj.com/2021/10/16.html&quot;&gt;16th&lt;/a&gt;" created="Wed, 20 Oct 2021 19:57:26 GMT"/>
+					</outline>
+				</outline>
+			<outline text="Book List" created="Mon, 25 Oct 2021 10:42:24 GMT">
+				<outline text="Read" created="Mon, 25 Oct 2021 10:42:29 GMT">
+					<outline text="" created="Mon, 25 Oct 2021 10:42:34 GMT"/>
 					</outline>
 				</outline>
 			</outline>
