@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 26 Oct 2021 11:18:59 GMT</dateModified>
-		<expansionState>1,12,13</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Tue, 26 Oct 2021 11:43:46 GMT</dateModified>
+		<expansionState>1,2,14,15</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 26" created="Tue, 26 Oct 2021 11:40:14 GMT" type="calendarDay" name="26">
+				<outline text="Jack has &lt;a href=&quot;  https://rudimentarylathe.wiki/#Drummer%20Notes&quot;&gt;wanted an improvement&lt;/a&gt; to downloading his drummer outlines, and I would like it too if I started using private outlines more. I'd noticed the download link had a unique URL which meant I could likely access it directly outside of Drummer. I decided this lunchtime to have a little look and it does work. Here's my &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/63#issuecomment-951849007&quot;&gt;small python example&lt;/a&gt; but it'll work with other languages too." created="Tue, 26 Oct 2021 11:40:15 GMT" type="outline" image="https://user-images.githubusercontent.com/440939/138869718-1b96bffc-fc10-430d-9b37-98bc22efef80.png"/>
+				</outline>
 			<outline text="October 25" created="Mon, 25 Oct 2021 14:05:34 GMT" type="calendarDay" name="25">
 				<outline text="So Obsidian has released &lt;a href=&quot;https://obsidian.md/mobile&quot;&gt;mobile apps&lt;/a&gt; now. For free. You can use iCloud sync or pay for their sync or maybe git via Working Copy. A quick test of it (on iPad) and the mobile app is very impressive, looks to have most, if not all, the features of the desktop app. Has a nice toolbar that you can customise, gestures to open command palette.  I think I like it more than the desktop app! If you just use Apple products, it's a pretty decent setup. If you paid for Publish it would make for a great experience. I just don't like the desktop app nor want to pay $192 / year for it. Probably if I looked someone has made a static html generator using your Obsidian notes. e.g. &lt;a href=&quot;https://github.com/Maxence-L/notenote.link&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://marco.kamner.eu/notes/technology/obsidian/publish-obsidian-to-personal-site/&quot;&gt;2&lt;/a&gt;" created="Mon, 25 Oct 2021 21:05:39 GMT" type="outline"/>
 				<outline text="Inserted that image using my &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/83#issuecomment-951277662&quot;&gt;latest drummer script&lt;/a&gt;...saves me typing a little, and remembering between &lt;code&gt;image&lt;/code&gt; and &lt;code&gt;inlineImage&lt;/code&gt;" created="Mon, 25 Oct 2021 20:17:33 GMT" type="outline"/>
