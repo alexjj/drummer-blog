@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 26 Oct 2021 18:56:44 GMT</dateModified>
-		<expansionState>1,2,7,8,12</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 26 Oct 2021 19:34:16 GMT</dateModified>
+		<expansionState>1,2,7,8,12,19,25,31</expansionState>
+		<lastCursor>32</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -135,6 +135,7 @@
 					<outline text="This is also in the same repo that I host the template files and images, published via Github pages to use with Drummer. This is helpful to track changes to my CSS or template index.html, not that I've done very much so far." created="Wed, 20 Oct 2021 09:36:29 GMT"/>
 					<outline text="&lt;a href=&quot;http://scripting.com/drummer/blog/2021/10/11/190447.html?title=itsReallyEasyToBackUp&quot;&gt;Dave shows you how to do&lt;/a&gt; a really simple and easy backup of all your drummer outlines." created="Wed, 20 Oct 2021 09:37:37 GMT">
 						<outline text="If you hover over that &lt;i&gt;Download my files&lt;/i&gt; menu you'll see a URL with tokens and secrets. No doubt that can be used to get the files too." created="Wed, 20 Oct 2021 09:38:20 GMT"/>
+						<outline text="&lt;i&gt;UPDATE&lt;/i&gt;: You can use this to automate downloading all your outlines. Check out this &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/63&quot;&gt;Github Issue&lt;/a&gt; for examples." created="Tue, 26 Oct 2021 19:33:20 GMT"/>
 						</outline>
 					<outline text="The next step in this would be to use Drummer's own &lt;a href=&quot;http://docserver.scripting.com/drummer/scripting.opml&quot;&gt;scripting tools&lt;/a&gt;, even including &lt;a href=&quot;http://docserver.scripting.com/drummer/scripting.opml#1628460028000&quot;&gt;scheduled scripts&lt;/a&gt;, together with &lt;insert backup system&gt;'s API to automate backup of your outlines." created="Wed, 20 Oct 2021 09:49:41 GMT"/>
 					</outline>
