@@ -19,14 +19,13 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 26 Oct 2021 21:11:28 GMT</dateModified>
-		<expansionState>1,2,8,9,13</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 26 Oct 2021 21:43:29 GMT</dateModified>
+		<expansionState>1,2,7,8</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 26" created="Tue, 26 Oct 2021 11:40:14 GMT" type="calendarDay" name="26">
-				<outline text="" created="Tue, 26 Oct 2021 21:11:27 GMT" type="outline"/>
 				<outline text="Been thinking about how I can get data into Drummer, particularly data I write on my phone as Drummer on my phone is..unpleasant. However there are other good apps, like dynalist and Zavala, for writing on phone. I don’t think there’s a way to push data into Drummer, unless the token in the download files button works to upload, but I could use the schedule to load a file from somewhere. The only caveat is that it has to be publicly available. OR I just import it manually when I have something to add. But I’d still like the ability to push data in for future ideas." created="Tue, 26 Oct 2021 18:43:22 GMT" type="outline"/>
 				<outline text="Why will none of our iPads update to iPadOS 15…" created="Tue, 26 Oct 2021 18:40:44 GMT" type="outline"/>
 				<outline text="I keep a private tiddlywiki for work, but I’m considering a private outline in Drummer. I think having everything viewable in a single page would be more useful than a wiki. Something like Notion or Airtable might be good for work but they’re strict about posting information outside work network and I also can’t be bothered with all the faff of those tools. One big list is my preferred option, as it usually just ends up being weekly summaries or results. The big ‘+’ button makes it nice to add a day. " created="Tue, 26 Oct 2021 18:22:06 GMT" type="outline"/>
@@ -37,9 +36,7 @@
 						</outline>
 					<outline text="Is there a way to see all Drummer users without being Dave? " created="Tue, 26 Oct 2021 18:31:03 GMT"/>
 					<outline text="I like &lt;a href=&quot;http://oldschooldrummers.andysylvester.com/&quot;&gt;Andy’s drummer river&lt;/a&gt;, but it’s opt-in and I wouldn’t be surprised if most don’t know about it. " created="Tue, 26 Oct 2021 18:31:00 GMT"/>
-					<outline text="Perhaps I’m getting mixed up between micro.blog and drummer, and I’m not suggesting we get into @-ing each other (because we all have a twitter account to log in so could use that), but it would be nice to have a big feed of everyone’s drummer blog. They’re all public by nature. Maybe Dave would make a twitter list or river for us to use…or even just expose a list that we can parse." created="Tue, 26 Oct 2021 18:33:45 GMT">
-						<outline text="I don’t really use twitter but still." created="Tue, 26 Oct 2021 18:34:32 GMT"/>
-						</outline>
+					<outline text="Perhaps I’m getting mixed up between micro.blog and drummer, and I’m not suggesting we get into @-ing each other (because we all have a twitter account to log in so could use that), but it would be nice to have a big feed of everyone’s drummer blog. They’re all public by nature. Maybe Dave would make a twitter list or river for us to use…or even just expose a list that we can parse." created="Tue, 26 Oct 2021 18:33:45 GMT"/>
 					</outline>
 				</outline>
 			<outline text="October 25" created="Mon, 25 Oct 2021 14:05:34 GMT" type="calendarDay" name="25">
