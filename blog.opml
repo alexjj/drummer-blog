@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 27 Oct 2021 11:59:52 GMT</dateModified>
-		<expansionState>1,2,4,6,11,13,18,19</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Wed, 27 Oct 2021 12:14:35 GMT</dateModified>
+		<expansionState>1,2,4,7,9,11,14,19,21,26,27</expansionState>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -29,6 +29,17 @@
 				<outline text="Saw &lt;a href=&quot;https://cooklang.org/&quot;&gt;this nice looking&lt;/a&gt; recipe markup language, and remembered how I want to put all of Granny's index card recipes onto the computer. Not sure this is what I want though, as I'd rather have a website that everyone can access. Think I have a few projects starred on Github, even Tiddlywiki would work for it, but the bulk of the work is transcribing the index cards into text. Would be nice to have them as plain text files that software can use to generate a site vs. a database." created="Wed, 27 Oct 2021 10:55:05 GMT" type="outline"/>
 				<outline text="Programmatically upload to Drummer" created="Wed, 27 Oct 2021 11:53:28 GMT" type="outline">
 					<outline text="After seeing the &lt;a href=&quot;https://alexjj.com/2021/10/26.html#a114015&quot;&gt;URL to download your files&lt;/a&gt;, I reckoned a POST was possible to upload to Drummer. And sure enough, it is! In fact you can do many of the functions with post requests as that's how the whole site works. Anyway, this is a starter to doing it yourself." created="Wed, 27 Oct 2021 11:53:43 GMT"/>
+					<outline text="As far as I can tell you have to post your file's contents to your special URL and sometimes &lt;code&gt;&lt;head&gt;&lt;/code&gt; items can mess it up so for now I've removed all of mine. Some experimentation will probably let me work out what does and doesn't work." created="Wed, 27 Oct 2021 12:00:05 GMT"/>
+					<outline text="Unless it's the same file every time, you'll need to adjust the script so that you can reuse it with other files. For now this example is hardcoded. Here's the code using python requests library:" created="Wed, 27 Oct 2021 12:05:11 GMT">
+						<outline text="&lt;script src=&quot;https://gist.github.com/alexjj/8858e0be3136dc51a1ee9f8cd2bedd6a.js&quot;&gt;&lt;/script&gt;" created="Wed, 27 Oct 2021 12:06:29 GMT"/>
+						</outline>
+					<outline text="Curl is also possible to use, but I've not tested the &lt;code&gt;--data-raw @filename&lt;/code&gt; vs &lt;code&gt;--data-binary @filename&lt;/code&gt; options in curl, so it's hard-coded contents of the opml file just now. If those don't work then &lt;code&gt;cat&lt;/code&gt; and bash can probably sort it out." created="Wed, 27 Oct 2021 12:12:08 GMT">
+						<outline text="&lt;script src=&quot;https://gist.github.com/alexjj/8bc3c25036dba59c5360e94cbf96cbce.js&quot;&gt;&lt;/script&gt;" created="Wed, 27 Oct 2021 12:13:11 GMT"/>
+						</outline>
+					<outline text="Why might you want to do this?" created="Wed, 27 Oct 2021 12:01:03 GMT">
+						<outline text="You can now create opml files offline, or in other apps, or via scripts (track the weather every day or server logs etc.) and then automate them being on drummer so you can work with them on the web, integrate into your blog or other files. " created="Wed, 27 Oct 2021 12:01:16 GMT"/>
+						<outline text="I'm not sure I know exactly what I want to do" created="Wed, 27 Oct 2021 12:03:20 GMT"/>
+						</outline>
 					</outline>
 				<outline text="Code blocks" created="Wed, 27 Oct 2021 11:26:57 GMT" type="outline">
 					<outline text="Anyone got a good way to insert code blocks? i.e. multiple lines of code? I tried nesting them with a code and/or pre html tag before and after and the text became monospaced but the rest of the styling was all funky. For example:" created="Wed, 27 Oct 2021 11:27:58 GMT"/>
