@@ -19,18 +19,35 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 27 Oct 2021 11:29:38 GMT</dateModified>
-		<expansionState>1,2,4,6,8,13,14</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Wed, 27 Oct 2021 11:44:54 GMT</dateModified>
+		<expansionState>1,2,4,9,11,16,17</expansionState>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 27" created="Wed, 27 Oct 2021 10:55:04 GMT" type="calendarDay" name="27">
 				<outline text="Saw &lt;a href=&quot;https://cooklang.org/&quot;&gt;this nice looking&lt;/a&gt; recipe markup language, and remembered how I want to put all of Granny's index card recipes onto the computer. Not sure this is what I want though, as I'd rather have a website that everyone can access. Think I have a few projects starred on Github, even Tiddlywiki would work for it, but the bulk of the work is transcribing the index cards into text. Would be nice to have them as plain text files that software can use to generate a site vs. a database." created="Wed, 27 Oct 2021 10:55:05 GMT" type="outline"/>
 				<outline text="Code blocks" created="Wed, 27 Oct 2021 11:26:57 GMT" type="outline">
-					<outline text="Anyone got a good way to insert code blocks? i.e. multiple lines of code? I tried nesting them with a code html tag before and after and the text became monospaced but the rest of the styling was all funky. For example" created="Wed, 27 Oct 2021 11:27:58 GMT"/>
-					<outline text="&lt;code&gt;" created="Wed, 27 Oct 2021 11:28:18 GMT">
-						<outline text="static inline const char* base64_select_table(Base64Mode mode) {  switch (mode) {    case Base64Mode::NORMAL: return base64_table;    case Base64Mode::URL: return base64_table_url;    default: UNREACHABLE();  }}" created="Wed, 27 Oct 2021 11:28:22 GMT"/>
+					<outline text="Anyone got a good way to insert code blocks? i.e. multiple lines of code? I tried nesting them with a code and/or pre html tag before and after and the text became monospaced but the rest of the styling was all funky. For example:" created="Wed, 27 Oct 2021 11:27:58 GMT"/>
+					<outline text="&lt;pre&gt;&lt;code&gt;" created="Wed, 27 Oct 2021 11:28:18 GMT">
+						<outline text="Write web page" created="Thu, 05 Aug 2021 14:45:54 GMT">
+							<outline text="const htmltext = &quot;&lt;html&gt;&lt;body&gt;&lt;h1&gt;Hello World!&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;&quot;;" created="Thu, 05 Aug 2021 14:46:30 GMT"/>
+							<outline text="file.writeWholeFile (&quot;hello.html&quot;, htmltext);" created="Thu, 05 Aug 2021 14:46:00 GMT"/>
+							<outline text="const url = file.makeFilePublic (&quot;hello.html&quot;);" created="Thu, 05 Aug 2021 14:47:02 GMT"/>
+							<outline text="webBrowser.openUrl (url)" created="Thu, 05 Aug 2021 14:47:23 GMT"/>
+							</outline>
+						</outline>
+					<outline text="&lt;/code&gt;&lt;/pre&gt;" created="Wed, 27 Oct 2021 11:30:55 GMT"/>
+					<outline text="Alternatively:" created="Wed, 27 Oct 2021 11:40:43 GMT">
+						<outline text="&lt;code&gt;Write web page&lt;/code&gt;" created="Thu, 05 Aug 2021 14:45:54 GMT">
+							<outline text="&lt;code&gt;const htmltext = &quot;&lt;html&gt;&lt;body&gt;&lt;h1&gt;Hello World!&lt;/h1&gt;&lt;/body&gt;&lt;/html&gt;&quot;;&lt;/code&gt;" created="Thu, 05 Aug 2021 14:46:30 GMT"/>
+							<outline text="&lt;code&gt;file.writeWholeFile (&quot;hello.html&quot;, htmltext);&lt;/code&gt;" created="Thu, 05 Aug 2021 14:46:00 GMT"/>
+							<outline text="&lt;code&gt;const url = file.makeFilePublic (&quot;hello.html&quot;);&lt;/code&gt;" created="Thu, 05 Aug 2021 14:47:02 GMT"/>
+							<outline text="&lt;code&gt;webBrowser.openUrl (url)&lt;/code&gt;" created="Thu, 05 Aug 2021 14:47:23 GMT"/>
+							</outline>
+						</outline>
+					<outline text="Gist embed:" created="Wed, 27 Oct 2021 11:44:47 GMT">
+						<outline text="&lt;script src=&quot;https://gist.github.com/alexjj/efaf9b08a1f3f91b60a2dc11e56c700d.js&quot;&gt;&lt;/script&gt;" created="Wed, 27 Oct 2021 11:44:52 GMT"/>
 						</outline>
 					</outline>
 				</outline>
