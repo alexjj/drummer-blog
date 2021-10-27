@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 27 Oct 2021 12:58:26 GMT</dateModified>
-		<expansionState>1,2,4,7,9,11,15,16,19,24,26,31,32</expansionState>
-		<lastCursor>17</lastCursor>
+		<dateModified>Wed, 27 Oct 2021 14:39:08 GMT</dateModified>
+		<expansionState>1,2,4,7,8,10,20,30,34,35,38,43,45,50,51</expansionState>
+		<lastCursor>28</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
@@ -31,11 +31,32 @@
 					<outline text="After seeing the &lt;a href=&quot;https://alexjj.com/2021/10/26.html#a114015&quot;&gt;URL to download your files&lt;/a&gt;, I reckoned a POST was possible to upload to Drummer. And sure enough, it is! In fact you can do many of the functions with post requests as that's how the whole site works. Anyway, this is a starter to doing it yourself." created="Wed, 27 Oct 2021 11:53:43 GMT"/>
 					<outline text="As far as I can tell you have to post your file's contents to your special URL and sometimes &lt;code&gt;&lt;head&gt;&lt;/code&gt; items can mess it up so for now I've removed all of mine. Some experimentation will probably let me work out what does and doesn't work." created="Wed, 27 Oct 2021 12:00:05 GMT"/>
 					<outline text="Unless it's the same file every time, you'll need to adjust the script so that you can reuse it with other files. For now this example is hardcoded. Here's the code using python requests library:" created="Wed, 27 Oct 2021 12:05:11 GMT">
-						<outline text="&lt;script src=&quot;https://gist.github.com/alexjj/8858e0be3136dc51a1ee9f8cd2bedd6a.js&quot;&gt;&lt;/script&gt;" created="Wed, 27 Oct 2021 12:06:29 GMT"/>
+						<outline text="View Gist" created="Tue, 26 Oct 2021 21:54:35 GMT" type="link" url="https://gist.github.com/alexjj/8858e0be3136dc51a1ee9f8cd2bedd6a" flCodeSubs="true">
+							<outline text="import requests" created="Tue, 26 Oct 2021 21:54:36 GMT"/>
+							<outline text="headers = {" created="Tue, 26 Oct 2021 21:54:43 GMT">
+								<outline text="'Connection': 'keep-alive',"/>
+								<outline text="'Accept': '*/*',"/>
+								<outline text="'X-Requested-With': 'XMLHttpRequest',"/>
+								<outline text="'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36',"/>
+								<outline text="'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',"/>
+								<outline text="'Origin': 'http://drummer.scripting.com',"/>
+								<outline text="'Referer': 'http://drummer.scripting.com/',"/>
+								<outline text="'Accept-Language': 'en-GB-oxendict,en-US;q=0.9,en;q=0.8',"/>
+								</outline>
+							<outline text="}" created="Tue, 26 Oct 2021 21:55:18 GMT"/>
+							<outline text="params = (" created="Tue, 26 Oct 2021 21:54:39 GMT">
+								<outline text="('oauth_token', '&amp;lt;token&gt;')," created="Wed, 27 Oct 2021 14:33:39 GMT"/>
+								<outline text="('oauth_token_secret', '&amp;lt;secret&gt;')," created="Wed, 27 Oct 2021 14:35:05 GMT"/>
+								<outline text="('relpath', '&amp;lt;file&gt;.opml')," created="Wed, 27 Oct 2021 14:35:14 GMT"/>
+								<outline text="('type', 'text/xml'),"/>
+								<outline text="('flprivate', 'true'),"/>
+								</outline>
+							<outline text=")" created="Tue, 26 Oct 2021 21:54:53 GMT"/>
+							<outline text="opml_contents = Path('&amp;lt;file&gt;.opml', encoding='utf-8').read_text()" created="Tue, 26 Oct 2021 21:55:19 GMT"/>
+							<outline text="response = requests.post('http://drummer.scripting.com/publishfile', headers=headers, params=params, data=opml_contents.encode('utf-8'), verify=False)" created="Tue, 26 Oct 2021 21:55:19 GMT"/>
+							</outline>
 						</outline>
-					<outline text="Curl is also possible to use, but I've not tested the &lt;code&gt;--data-raw @filename&lt;/code&gt; vs &lt;code&gt;--data-binary @filename&lt;/code&gt; options in curl (&lt;a href=&quot;https://curl.se/docs/manpage.html#-d&quot;&gt;man page&lt;/a&gt;), so it's hard-coded contents of the opml file just now. If those don't work then &lt;code&gt;cat&lt;/code&gt; and bash can probably sort it out." created="Wed, 27 Oct 2021 12:12:08 GMT">
-						<outline text="&lt;script src=&quot;https://gist.github.com/alexjj/8bc3c25036dba59c5360e94cbf96cbce.js&quot;&gt;&lt;/script&gt;" created="Wed, 27 Oct 2021 12:13:11 GMT"/>
-						</outline>
+					<outline text="&lt;a href=&quot;https://gist.github.com/alexjj/8bc3c25036dba59c5360e94cbf96cbce&quot;&gt;Curl is also possible to use&lt;/a&gt;, but I've not tested the &lt;code&gt;--data-raw @filename&lt;/code&gt; vs &lt;code&gt;--data-binary @filename&lt;/code&gt; options in curl (&lt;a href=&quot;https://curl.se/docs/manpage.html#-d&quot;&gt;man page&lt;/a&gt;), so it's hard-coded contents of the opml file just now. If those don't work then &lt;code&gt;cat&lt;/code&gt; and bash can probably sort it out." created="Wed, 27 Oct 2021 12:12:08 GMT"/>
 					<outline text="Why might you want to do this?" created="Wed, 27 Oct 2021 12:01:03 GMT">
 						<outline text="You can now create opml files offline, or in other apps, or via scripts (track the weather every day or server logs etc.) and then automate them being in drummer so you can work with them on the web, integrate into your blog or other files, or even use the data for drummer scripts. " created="Wed, 27 Oct 2021 12:01:16 GMT"/>
 						<outline text="You do have drummer's own &lt;a href=&quot;http://docserver.scripting.com/drummer/scripting.opml#1628460028000&quot;&gt;scheduled scripting&lt;/a&gt; capabilities to pull data into it but that might not always work. It's good to have options. " created="Wed, 27 Oct 2021 12:15:49 GMT"/>
