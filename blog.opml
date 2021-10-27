@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 26 Oct 2021 21:52:09 GMT</dateModified>
-		<expansionState>1,2,7,8</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Wed, 27 Oct 2021 10:58:01 GMT</dateModified>
+		<expansionState>1,2,4,9,10</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 27" created="Wed, 27 Oct 2021 10:55:04 GMT" type="calendarDay" name="27">
+				<outline text="Saw &lt;a href=&quot;https://cooklang.org/&quot;&gt;this nice looking&lt;/a&gt; recipe markup language, and remembered how I want to put all of Granny's index card recipes onto the computer. Not sure this is what I want though, as I'd rather have a website that everyone can access. Think I have a few projects starred on Github, even Tiddlywiki would work for it, but the bulk of the work is transcribing the index cards into text. Would be nice to have them as plain text files that software can use to generate a site vs. a database." created="Wed, 27 Oct 2021 10:55:05 GMT" type="outline"/>
+				</outline>
 			<outline text="October 26" created="Tue, 26 Oct 2021 11:40:14 GMT" type="calendarDay" name="26">
 				<outline text="Been thinking about how I can get data into Drummer, particularly data I write on my phone as Drummer on my phone is..unpleasant. However there are other good apps, like dynalist and Zavala, for writing on phone. I don’t think there’s a way to push data into Drummer, unless the token in the download files button works to upload, but I could use the schedule to load a file from somewhere. The only caveat is that it has to be publicly available. OR I just import it manually when I have something to add. But I’d still like the ability to push data in for future ideas." created="Tue, 26 Oct 2021 18:43:22 GMT" type="outline"/>
 				<outline text="Why will none of our iPads update to iPadOS 15…" created="Tue, 26 Oct 2021 18:40:44 GMT" type="outline"/>
