@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 27 Oct 2021 20:54:20 GMT</dateModified>
-		<expansionState>1,2,11,18</expansionState>
-		<lastCursor>12</lastCursor>
+		<dateModified>Wed, 27 Oct 2021 21:11:51 GMT</dateModified>
+		<expansionState>1</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 27" created="Wed, 27 Oct 2021 10:55:04 GMT" type="calendarDay" name="27">
+				<outline text="Somewhere along the line, I've lost the little arrows and the ability to expand or collapse items on my blog... 🤔" created="Wed, 27 Oct 2021 21:08:41 GMT" type="outline"/>
 				<outline text="I'm a trailblazer :blush:" created="Wed, 27 Oct 2021 20:06:34 GMT" type="link" url="http://scripting.com/drummer/blog/2021/10/27/125544.html?title=flcodesubsForSubsThatAreCode"/>
 				<outline text="Large Format Photography. &lt;a href=&quot;https://www.reddit.com/r/analog/comments/qggpak/large_format_pentax_k1000_smc_50_f12_fuji_superia/&quot;&gt;Source.&lt;/a&gt;" created="Wed, 27 Oct 2021 19:43:23 GMT" type="outline" inlineImage="https://i.redd.it/9ys1c0v84vv71.jpg"/>
 				<outline text="Ugh, I'm so behind on things...it's been about 6 weeks since I updated my hledger journal, and 3 months since I added any photos to my family photo website. One is certainly a lot more interesting than the other. " created="Wed, 27 Oct 2021 19:37:05 GMT" type="outline"/>
