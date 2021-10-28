@@ -19,18 +19,20 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 28 Oct 2021 19:55:18 GMT</dateModified>
+		<dateModified>Thu, 28 Oct 2021 20:14:03 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>2</lastCursor>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 28" created="Thu, 28 Oct 2021 10:26:00 GMT" type="calendarDay" name="28">
+				<outline text="Testing..." created="Thu, 28 Oct 2021 20:11:02 GMT" type="link" url="http://my.this.how/thealexjj/testing.opml"/>
+				<outline text="&lt;a href=&quot;https://youneedastereo.com/#2021-10-26%20Journal&quot;&gt;Phil buys&lt;/a&gt; some nice gear! 🤑" created="Thu, 28 Oct 2021 20:10:12 GMT" type="outline"/>
+				<outline text="Drummer is being a little glitchy? It's not building the full page today just some elements. drummercms doesn't report any issues though. It appears not to like link headlines " created="Thu, 28 Oct 2021 20:08:45 GMT" type="outline"/>
 				<outline text="&lt;a href=&quot;https://gotchiverse.io/&quot;&gt;Get your REALMS in the latest auction!&lt;/a&gt; Website seems very buggy at the moment, so maybe worth waiting a day or two...I do like the art style and maybe now the &quot;game&quot; will actually have something to do." created="Thu, 28 Oct 2021 19:54:21 GMT" type="outline"/>
-				<outline text="Phil buys some nice gear!" created="Thu, 28 Oct 2021 19:52:30 GMT" type="link" url="https://youneedastereo.com/#2021-10-26%20Journal"/>
 				<outline text="Been on another Dave's software rabbit trail. Ended up on this blog post from 2000 which is a series of good questions to ask yourself if you're in the pursuit of FIRE. (Surely everyone is once they know what it is?). I liked it." created="Thu, 28 Oct 2021 14:26:01 GMT" type="link" url="http://scripting.com/davenet/2000/10/19/transcendentalMoney.html"/>
 				<outline text="I like the look of those opml pages that Dave writes his docs in, and I was trying to find out how to do it. I managed to find it and here's my own notes with links. I'd quite like to set this up on my own domain for publishing outlines. I think I just setup page park and point it at the opml and it renders it fine? Not quite sure, so I'll mess about with it tonight and see." created="Thu, 28 Oct 2021 12:35:17 GMT" type="link" url="http://my.this.how/thealexjj/testing.opml"/>
-				<outline text="For example this is a nice living space computer." created="Thu, 28 Oct 2021 12:13:51 GMT" type="link" url="https://www.hp.com/uk-en/chrome/chromebase-all-in-one-desktop.html"/>
+				<outline text="For example &lt;a href=&quot;https://www.hp.com/uk-en/chrome/chromebase-all-in-one-desktop.html&quot;&gt;this is a nice living space computer&lt;/a&gt;." created="Thu, 28 Oct 2021 12:13:51 GMT"/>
 				<outline text="&lt;a href=&quot;https://support.google.com/chromebook/answer/9145439&quot;&gt;Running GNU+Linux on a Chromebook&lt;/a&gt; looks a lot easier these days than it used to be. Given all I use are web apps, maybe a Chromebook would be a nice tool." created="Thu, 28 Oct 2021 10:26:01 GMT" type="outline"/>
 				</outline>
 			<outline text="October 27" created="Wed, 27 Oct 2021 10:55:04 GMT" type="calendarDay" name="27">
