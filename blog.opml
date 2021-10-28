@@ -19,14 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 28 Oct 2021 10:26:02 GMT</dateModified>
+		<dateModified>Thu, 28 Oct 2021 11:38:39 GMT</dateModified>
 		<expansionState>1,2</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 28" created="Thu, 28 Oct 2021 10:26:00 GMT" type="calendarDay" name="28">
-				<outline text="" created="Thu, 28 Oct 2021 10:26:01 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;https://support.google.com/chromebook/answer/9145439&quot;&gt;Running GNU+Linux on a Chromebook&lt;/a&gt; looks a lot easier these days than it used to be. Given all I use are web apps, maybe a Chromebook would be a nice tool." created="Thu, 28 Oct 2021 10:26:01 GMT" type="outline"/>
 				</outline>
 			<outline text="October 27" created="Wed, 27 Oct 2021 10:55:04 GMT" type="calendarDay" name="27">
 				<outline text="Somewhere along the line, I've lost the little arrows and the ability to expand or collapse items on my blog... 🤔" created="Wed, 27 Oct 2021 21:08:41 GMT" type="outline"/>
