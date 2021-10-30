@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 29 Oct 2021 21:02:32 GMT</dateModified>
-		<expansionState>1,2,9,12</expansionState>
+		<dateModified>Sat, 30 Oct 2021 14:55:00 GMT</dateModified>
+		<expansionState>1,2,4,11,14</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 30" created="Sat, 30 Oct 2021 14:54:14 GMT" type="calendarDay" name="30">
+				<outline text="What’s Shakira’s favourite web framework? &lt;br&gt; Django &lt;br&gt; Waka waka, eh eh" created="Sat, 30 Oct 2021 14:54:15 GMT" type="outline"/>
+				</outline>
 			<outline text="October 29" created="Fri, 29 Oct 2021 13:05:46 GMT" type="calendarDay" name="29">
 				<outline text="Everything Github Actions" created="Fri, 29 Oct 2021 21:02:21 GMT" type="link" url="https://github.com/sdras/awesome-actions"/>
 				<outline text="After listening to a python podcast for years, I thought I should branch out and have just started listening to this javascript podcast. I started with this episode about automating everything using node.js. I'd never even consider that it would be possible but it's intriguing. " created="Fri, 29 Oct 2021 19:02:55 GMT" type="link" url="https://changelog.com/jsparty/189"/>
