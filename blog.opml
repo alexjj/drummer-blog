@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 30 Oct 2021 15:35:20 GMT</dateModified>
+		<dateModified>Sat, 30 Oct 2021 20:58:22 GMT</dateModified>
 		<expansionState>1,2</expansionState>
-		<lastCursor>4</lastCursor>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 30" created="Sat, 30 Oct 2021 14:54:14 GMT" type="calendarDay" name="30">
+				<outline text="I tested out the new Drummer thesaurus. I used happy and my there are a lot of synomyns for it." created="Sat, 30 Oct 2021 20:55:56 GMT" type="outline"/>
 				<outline text="What’s Shakira’s favourite web framework? &lt;br&gt; Django &lt;br&gt; Waka waka, eh eh" created="Sat, 30 Oct 2021 14:54:15 GMT" type="outline"/>
 				</outline>
 			<outline text="October 29" created="Fri, 29 Oct 2021 13:05:46 GMT" type="calendarDay" name="29">
