@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 31 Oct 2021 20:47:07 GMT</dateModified>
-		<expansionState>1,2,8</expansionState>
+		<dateModified>Sun, 31 Oct 2021 21:06:23 GMT</dateModified>
+		<expansionState>1,2,9</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 31" created="Sun, 31 Oct 2021 06:30:06 GMT" type="calendarDay" name="31">
+				<outline text="&lt;a href=&quot;https://shop.pimoroni.com/products/inky-impression&quot;&gt;A 5.7&quot;, 7 colour e-ink display! &lt;/a&gt;Wow, that is nice. A great add to my &quot;projects that sound awesome but I'll never do&quot; pile." created="Sun, 31 Oct 2021 21:05:35 GMT" type="outline"/>
 				<outline text="Happy Hallowe'en!" created="Sun, 31 Oct 2021 20:46:48 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/brains.jpg"/>
 				<outline text="That's a lot of checkboxes" created="Sun, 31 Oct 2021 20:41:54 GMT" type="link" url="https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/"/>
 				<outline text="If I can jailbreak my kindle, this replacement OS/interface looks to be just what I need to sync highlights automatically. Plus other features. " created="Sun, 31 Oct 2021 07:55:17 GMT" type="link" url="https://github.com/koreader/koreader"/>
