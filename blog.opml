@@ -19,14 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 31 Oct 2021 07:56:58 GMT</dateModified>
+		<dateModified>Sun, 31 Oct 2021 11:33:33 GMT</dateModified>
 		<expansionState>1,2,6</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 31" created="Sun, 31 Oct 2021 06:30:06 GMT" type="calendarDay" name="31">
-				<outline text="" created="Sun, 31 Oct 2021 07:55:17 GMT" type="link" url="https://github.com/koreader/koreader"/>
+				<outline text="If I can jailbreak my kindle, this replacement OS/interface looks to be just what I need to sync highlights automatically. Plus other features. " created="Sun, 31 Oct 2021 07:55:17 GMT" type="link" url="https://github.com/koreader/koreader"/>
 				<outline text="I shouldn’t read non-fiction in bed before going to sleep. I read things and think this is amazing and I should do something about this. Maybe I highlight it on the kindle. Then I go to sleep and wake up and completely forget about it all. I don’t actually even get the benefits of kindle highlights as I don’t often buy books from Amazon. I buy them elsewhere (or they’re free) and I load them onto the kindle. So the highlights just sit in the text file on the device. Of course I could connect it to the computer, download the file and parse it (there’s probably many scripts online to do this for me already). THEN I could benefit from it. This is never going to happen. If I could ssh or remotely connect to the kindle then I could sync stuff. Perhaps that’s worth some research. Or maybe a different ebook reader is for me. OR maybe I should read non-fiction at another time, but then that conflicts with other stuff I do (like what? What do you do? Watch YouTube videos and browse used cameras+lenses that I don’t need)." created="Sun, 31 Oct 2021 06:39:03 GMT" type="outline"/>
 				<outline text="The end of daylight savings. Where people with young kids get up at 5am. It’s still the “same time” as yesterday but when the clock says 5 it &lt;i&gt;feels&lt;/i&gt; a lot earlier." created="Sun, 31 Oct 2021 06:30:07 GMT" type="outline"/>
 				</outline>
