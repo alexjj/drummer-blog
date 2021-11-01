@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 01 Nov 2021 21:15:01 GMT</dateModified>
-		<expansionState>1,2,4,6,8,10,14,15,22</expansionState>
-		<lastCursor>12</lastCursor>
+		<dateModified>Mon, 01 Nov 2021 21:18:00 GMT</dateModified>
+		<expansionState>1,2,4,6,8,10,16,17,24</expansionState>
+		<lastCursor>14</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
@@ -39,7 +39,9 @@
 						<outline text="It does mean they're all in one place. I'm sure someone else on the internet has solved this problem." created="Mon, 01 Nov 2021 21:03:57 GMT"/>
 						</outline>
 					<outline text="Then there's SSH. Basically could script my server to download the highlights from the kindle automatically. Not sure if SSH is only running when the kindle is on or when asleep too. This is probably the best way if I'm going to automate syncing of highlights. However, I don't just want a copy, process and file away system as I'll never use it. Some interaction for reviewing the highlights, editing, picking, adding other notes etc. is important. It also risks spending more time automating a tiny part of it versus reviewing. I think it's between this and Calibre." created="Mon, 01 Nov 2021 21:04:41 GMT"/>
-					<outline text="I did end up quitting KO Reader and going back to normal kindle to keep reading my book (as the place is saved) and perhaps I just need to find a mo" created="Mon, 01 Nov 2021 21:14:14 GMT"/>
+					<outline text="I did end up quitting KO Reader and going back to normal kindle to keep reading my book (as the place is saved). KO Reader was just the first thing I tried and maybe it's not what I want. I should have a look at the other plugins and see what else can be done." created="Mon, 01 Nov 2021 21:14:14 GMT"/>
+					<outline text="The jailbreaking is a bit of a faff, and makes me think a Kobo might be better from the start. I used to jailbreak my iPhone back in the day and installed lots of things and always did the dance during iOS updates. When I had Android phones I'd install custom ROMs and root them. In the end it was too much hassle and I have better things to do. " created="Mon, 01 Nov 2021 21:15:33 GMT"/>
+					<outline text="I don't want to lose sight of &lt;i&gt;actually &lt;/i&gt;reading books." created="Mon, 01 Nov 2021 21:17:37 GMT"/>
 					</outline>
 				</outline>
 			</outline>
@@ -50,7 +52,7 @@
 				<outline text="That's a lot of checkboxes" created="Sun, 31 Oct 2021 20:41:54 GMT" type="link" url="https://www.bryanbraun.com/2021/09/21/i-keep-making-things-out-of-checkboxes/"/>
 				<outline text="If I can jailbreak my kindle, this replacement OS/interface looks to be just what I need to sync highlights automatically. Plus other features. " created="Sun, 31 Oct 2021 07:55:17 GMT" type="link" url="https://github.com/koreader/koreader"/>
 				<outline text="I shouldn’t read non-fiction in bed before going to sleep. I read things and think this is amazing and I should do something about this. Maybe I highlight it on the kindle. Then I go to sleep and wake up and completely forget about it all. I don’t actually even get the benefits of kindle highlights as I don’t often buy books from Amazon. I buy them elsewhere (or they’re free) and I load them onto the kindle. So the highlights just sit in the text file on the device. Of course I could connect it to the computer, download the file and parse it (there’s probably many scripts online to do this for me already). THEN I could benefit from it. This is never going to happen. If I could ssh or remotely connect to the kindle then I could sync stuff. Perhaps that’s worth some research. Or maybe a different ebook reader is for me. OR maybe I should read non-fiction at another time, but then that conflicts with other stuff I do (like what? What do you do? Watch YouTube videos and browse used cameras+lenses that I don’t need)." created="Sun, 31 Oct 2021 06:39:03 GMT" type="outline"/>
-				<outline text="The end of daylight savings. Where people with young kids get up at 5am. It’s still the “same time�� as yesterday but when the clock says 5 it &lt;i&gt;feels&lt;/i&gt; a lot earlier." created="Sun, 31 Oct 2021 06:30:07 GMT" type="outline"/>
+				<outline text="The end of daylight savings. Where people with young kids get up at 5am. It’s still the “same time” as yesterday but when the clock says 5 it &lt;i&gt;feels&lt;/i&gt; a lot earlier." created="Sun, 31 Oct 2021 06:30:07 GMT" type="outline"/>
 				</outline>
 			<outline text="October 30" created="Sat, 30 Oct 2021 14:54:14 GMT" type="calendarDay" name="30">
 				<outline text="I tested out the &lt;a href=&quot;http://scripting.com/drummer/blog/2021/10/30/154246.html?title=thesaurus&quot;&gt;new Drummer thesaurus&lt;/a&gt;. I used happy and my there are a lot of synomyns for it." created="Sat, 30 Oct 2021 20:55:56 GMT" type="outline"/>
