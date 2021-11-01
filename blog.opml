@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 01 Nov 2021 14:52:12 GMT</dateModified>
-		<expansionState>1,2,4,6,8,9,16</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Mon, 01 Nov 2021 15:38:11 GMT</dateModified>
+		<expansionState>1,2,4,6,9,10,17</expansionState>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
@@ -29,9 +29,10 @@
 				<outline text="I feel like iOS 15's display of the number of Safari tabs I have open on my phone is a constant judgement of me." created="Mon, 01 Nov 2021 14:42:58 GMT" type="outline"/>
 				<outline text="Jailbreaking a kindle" created="Mon, 01 Nov 2021 12:38:20 GMT" type="outline">
 					<outline text="Spent last night jailbreaking my older Kindle Paperwhite. This was kicked off by my desire to be able to pull out my highlights in a more automated manner on books that aren't purchased from Amazon - which is quite a lot more me. I'd found &lt;a href=&quot;https://github.com/koreader/koreader&quot;&gt;KOReader&lt;/a&gt; online and this appeared to have some automation potential with Joplin syncing, Calibre syncing or even just a SSH server on it. " created="Mon, 01 Nov 2021 12:38:24 GMT"/>
-					<outline text="The jailbreaking is very easy, and you just follow a series of steps from the &lt;a href=&quot;https://www.mobileread.com/forums/showthread.php?t=320564&quot;&gt;forums&lt;/a&gt;. It installs KUAL (Kindle Unified App Launcher), this adds a button/book that you can launch from the normal Amazon system. You keep all the same Amazon library, store, options as well which is nice. Seems like you have to be wary of OTA upgrades from Amazon which can break your jailbreak. There's some workarounds but looks like newer firmwares are making it harder and harder. My kindle is quite old and I don't think it'll get any more firmware updates. They recommend putting it into Airplane mode when you don't need the internet." created="Mon, 01 Nov 2021 14:44:38 GMT">
-						<outline text="This de" created="Mon, 01 Nov 2021 14:52:09 GMT"/>
+					<outline text="The jailbreaking is very easy, and you just follow a series of steps from the &lt;a href=&quot;https://www.mobileread.com/forums/showthread.php?t=320564&quot;&gt;forums&lt;/a&gt;. It installs KUAL (Kindle Unified App Launcher), this adds a button/book that you can launch from the normal Amazon system. You keep all the same Amazon library, store, options as well which is nice. Seems like you have to be wary of OTA upgrades from Amazon which can break your jailbreak. There's some workarounds but looks like newer firmware is making it harder and harder. My kindle is quite old and I don't think it'll get any more firmware updates. They recommend putting it into Airplane mode when you don't need the internet." created="Mon, 01 Nov 2021 14:44:38 GMT">
+						<outline text="This defeats my purpose of remotely pulling the highlights." created="Mon, 01 Nov 2021 14:52:09 GMT"/>
 						</outline>
+					<outline text="" created="Mon, 01 Nov 2021 15:38:09 GMT"/>
 					</outline>
 				</outline>
 			</outline>
