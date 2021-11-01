@@ -19,11 +19,18 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 31 Oct 2021 21:06:23 GMT</dateModified>
-		<expansionState>1,2,9</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Mon, 01 Nov 2021 12:38:29 GMT</dateModified>
+		<expansionState>1,2,3,5,6,13</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
+		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 1" created="Mon, 01 Nov 2021 12:38:19 GMT" type="calendarDay" name="01">
+				<outline text="Jailbreaking a kindle" created="Mon, 01 Nov 2021 12:38:20 GMT" type="outline">
+					<outline text="Spent " created="Mon, 01 Nov 2021 12:38:24 GMT"/>
+					</outline>
+				</outline>
+			</outline>
 		<outline text="October 2021" created="Sat, 16 Oct 2021 21:56:31 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 31" created="Sun, 31 Oct 2021 06:30:06 GMT" type="calendarDay" name="31">
 				<outline text="&lt;a href=&quot;https://shop.pimoroni.com/products/inky-impression&quot;&gt;A 5.7&quot;, 7 colour e-ink display! &lt;/a&gt;Wow, that is nice. A great add to my &quot;projects that sound awesome but I'll never do&quot; pile." created="Sun, 31 Oct 2021 21:05:35 GMT" type="outline"/>
