@@ -19,15 +19,18 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 01 Nov 2021 12:53:48 GMT</dateModified>
-		<expansionState>1,2,3,5,6,13</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Mon, 01 Nov 2021 14:44:46 GMT</dateModified>
+		<expansionState>1,2,4,5,7,8,15</expansionState>
+		<lastCursor>5</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 1" created="Mon, 01 Nov 2021 12:38:19 GMT" type="calendarDay" name="01">
+				<outline text="I feel like iOS 15's display of the number of Safari tabs I have open on my phone is a constant judgement of me." created="Mon, 01 Nov 2021 14:42:58 GMT" type="outline"/>
 				<outline text="Jailbreaking a kindle" created="Mon, 01 Nov 2021 12:38:20 GMT" type="outline">
-					<outline text="Spent last night jailbreaking my older Kindle Paperwhite. This was kicked off by my desire to be able to pull out my highlights in a more automated manner on books that aren't purchased from Amazon. I'd found &lt;a href=&quot;https://github.com/koreader/koreader&quot;&gt;KOReader&lt;/a&gt; online and this appeared to have some automation potential with Joplin syncing or even just a SSH server on it. " created="Mon, 01 Nov 2021 12:38:24 GMT"/>
+					<outline text="Spent last night jailbreaking my older Kindle Paperwhite. This was kicked off by my desire to be able to pull out my highlights in a more automated manner on books that aren't purchased from Amazon - which is quite a lot more me. I'd found &lt;a href=&quot;https://github.com/koreader/koreader&quot;&gt;KOReader&lt;/a&gt; online and this appeared to have some automation potential with Joplin syncing or even just a SSH server on it. " created="Mon, 01 Nov 2021 12:38:24 GMT">
+						<outline text="Although the docs for KOReader suggest" created="Mon, 01 Nov 2021 14:44:38 GMT"/>
+						</outline>
 					</outline>
 				</outline>
 			</outline>
