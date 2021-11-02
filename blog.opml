@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 01 Nov 2021 23:47:39 GMT</dateModified>
-		<expansionState>1,2,5,7,9,11,17,18,25</expansionState>
+		<dateModified>Tue, 02 Nov 2021 20:58:12 GMT</dateModified>
+		<expansionState>1,2,4,7,9,11,13,19,20,27</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 2" created="Tue, 02 Nov 2021 20:56:21 GMT" type="calendarDay" name="02">
+				<outline text="I think &lt;a href=&quot;https://tiddlywiki.com/&quot;&gt;Tiddlywiki&lt;/a&gt; does what &lt;a href=&quot;http://scripting.com/2021/11/02/184243.html?title=aToolsforthoughtChallenge&quot;&gt;Dave's challenge talks to&lt;/a&gt;. Now of course all notes have to be entered into TW with some care and ongoing maintenance. " created="Tue, 02 Nov 2021 20:56:22 GMT" type="outline"/>
+				</outline>
 			<outline text="November 1" created="Mon, 01 Nov 2021 12:38:19 GMT" type="calendarDay" name="01">
 				<outline text="Red-billed oxpecker" created="Mon, 01 Nov 2021 23:47:07 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/redbilled.jpg"/>
 				<outline text="I feel like iOS 15's display of the number of Safari tabs I have open on my phone is a constant judgement of me." created="Mon, 01 Nov 2021 14:42:58 GMT" type="outline"/>
