@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 02 Nov 2021 20:58:12 GMT</dateModified>
-		<expansionState>1,2,4,7,9,11,13,19,20,27</expansionState>
+		<dateModified>Wed, 03 Nov 2021 08:14:39 GMT</dateModified>
+		<expansionState>1,2,4,6,9,11,13,15,21,22,29</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 3" created="Wed, 03 Nov 2021 08:13:32 GMT" type="calendarDay" name="03">
+				<outline text="Here's a fun &lt;a href=&quot;https://changelog.com/jsparty/172&quot;&gt;podcast episode&lt;/a&gt; from JS Party where they talk about the hardware and software they use. A lot of macs and vim!  " created="Wed, 03 Nov 2021 08:13:33 GMT" type="outline"/>
+				</outline>
 			<outline text="November 2" created="Tue, 02 Nov 2021 20:56:21 GMT" type="calendarDay" name="02">
 				<outline text="I think &lt;a href=&quot;https://tiddlywiki.com/&quot;&gt;Tiddlywiki&lt;/a&gt; does what &lt;a href=&quot;http://scripting.com/2021/11/02/184243.html?title=aToolsforthoughtChallenge&quot;&gt;Dave's challenge talks to&lt;/a&gt;. Now of course all notes have to be entered into TW with some care and ongoing maintenance. " created="Tue, 02 Nov 2021 20:56:22 GMT" type="outline"/>
 				</outline>
