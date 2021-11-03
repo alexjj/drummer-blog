@@ -19,16 +19,16 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 03 Nov 2021 09:53:56 GMT</dateModified>
-		<expansionState>1,2,6,9</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Wed, 03 Nov 2021 14:10:37 GMT</dateModified>
+		<expansionState>1,2,6</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 3" created="Wed, 03 Nov 2021 08:13:32 GMT" type="calendarDay" name="03">
 				<outline text="46 years ago, HM The Queen officially inaugurates the massive Forties field in the North Sea." created="Wed, 03 Nov 2021 08:25:16 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/bpforties.jpg"/>
 				<outline text="You can also make projects (think Kanban board) on your Github profile, for sharing stuff you're up to, or anything you want! It's also integrated with Github workflows" created="Wed, 03 Nov 2021 08:19:23 GMT" type="outline"/>
-				<outline text="Here's a fun &lt;a href=&quot;https://changelog.com/jsparty/172&quot;&gt;podcast episode&lt;/a&gt; from JS Party where they talk about the hardware and software they use. A lot of macs and vim!  One Omnifocus user. Website has links to everything if you don't want to listen. &lt;a href=&quot;https://github.com/bdougie&quot;&gt;Brian&lt;/a&gt; (who works at Github) has amazing examples of &lt;a href=&quot;https://github.com/bdougie/live&quot;&gt;Github automation&lt;/a&gt; and making the most of actions, Github's GraphQL, and special repos. Interesting stuff to dig into. If you have a dotfiles repo, then codespaces (a VM with VS Code) will automatically pull it in!" created="Wed, 03 Nov 2021 08:13:33 GMT" type="outline"/>
+				<outline text="Here's a fun &lt;a href=&quot;https://changelog.com/jsparty/172&quot;&gt;podcast episode&lt;/a&gt; from JS Party where they talk about the hardware and software they use. A lot of macs and vim!  One Omnifocus user. Website has links to everything if you don't want to listen. &lt;a href=&quot;https://github.com/bdougie&quot;&gt;Brian&lt;/a&gt; (who works at Github) has amazing examples of &lt;a href=&quot;https://github.com/bdougie/live&quot;&gt;Github automation&lt;/a&gt; and making the most of actions, Github's GraphQL, and special repos. Interesting stuff to dig into. If you have a &lt;a href=&quot;https://docs.github.com/en/codespaces/customizing-your-codespace/personalizing-codespaces-for-your-account#dotfiles&quot;&gt;dotfiles &lt;/a&gt;repo, then codespaces (a VM with VS Code) will automatically pull it in!" created="Wed, 03 Nov 2021 08:13:33 GMT" type="outline"/>
 				</outline>
 			<outline text="November 2" created="Tue, 02 Nov 2021 20:56:21 GMT" type="calendarDay" name="02">
 				<outline text="I think &lt;a href=&quot;https://tiddlywiki.com/&quot;&gt;Tiddlywiki&lt;/a&gt; does what &lt;a href=&quot;http://scripting.com/2021/11/02/184243.html?title=aToolsforthoughtChallenge&quot;&gt;Dave's challenge talks to&lt;/a&gt;. Now of course all notes have to be entered into TW with some care and ongoing maintenance. " created="Tue, 02 Nov 2021 20:56:22 GMT" type="outline"/>
