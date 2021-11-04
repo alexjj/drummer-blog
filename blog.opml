@@ -19,16 +19,16 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 04 Nov 2021 14:17:03 GMT</dateModified>
+		<dateModified>Thu, 04 Nov 2021 14:59:45 GMT</dateModified>
 		<expansionState>1,2,5,7,12,15,20</expansionState>
-		<lastCursor>13</lastCursor>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 4" created="Thu, 04 Nov 2021 10:07:08 GMT" type="calendarDay" name="04">
 				<outline text="I (re)remembered the &lt;a href=&quot;https://adventofcode.com/&quot;&gt;Advent of Code&lt;/a&gt;. That'll be another good intention that I'll never furfill. " created="Thu, 04 Nov 2021 10:19:36 GMT" type="outline"/>
 				<outline text="Magic: The Gathering is turing complete." created="Thu, 04 Nov 2021 10:07:09 GMT" type="link" url="https://fermatslibrary.com/s/magic-the-gathering-is-turing-complete"/>
-				<outline text="The longevity of physical notebooks" created="Thu, 04 Nov 2021 11:53:53 GMT" type="outline">
+				<outline text="The longevity of physical notebooks, and their content" created="Thu, 04 Nov 2021 11:53:53 GMT" type="outline">
 					<outline text="The other day I was tidying my office. The clutter had slowly grown and it had become too annoying. I also had a bunch of things to do that I was putting off, like scanning some letters, storing boxes of (yet more) stuff I'd bought as well as just the tidy up itself. I had a stack of notebooks, a mix of Leuchturms, moleskins, random brands, but all about A5 size. I use these every day at work to track my weekly and daily to-dos, notes from meetings and general paper scratchpad for calcs or ideas. This stack probably went back to about 2018. What was I going to do with them?" created="Thu, 04 Nov 2021 11:54:17 GMT"/>
 					<outline text="I probably spent a good 20 minutes just flicking through the pages - this is something I love about physical notebooks. The ease of rediscovery of previous entries. I've not found a digital equivalent that's quite so enjoyable. The &quot;on this day&quot; feature that many photo and journal apps have is nice but it’s just that day. There’s sometimes open a random entry or but the flicking through large time ranges and just having things jump out is much better." created="Thu, 04 Nov 2021 12:02:01 GMT">
 						<outline text="Although if I’m honest, whilst it’s nice to do, it tends not to yield anything other than a brief moment reminiscing about that particularly entry. It’s definitely not a good way to manage work or organise important information." created="Thu, 04 Nov 2021 12:45:39 GMT"/>
@@ -39,7 +39,7 @@
 					<outline text="The obvious solution to saving this other important information is to extract it from the notebooks and into something more permanent, and probably something digital for longer term storage and searching. Maybe Tiddlywiki as it's a pretty nice application, very customisible and has a good long term viability. The problem is getting the data into it. It's going to take more time to do it, and time is always limited. There's probably a whole host of systems and methods and I'm sure I can spend many hours figuring out systems and tools and maybe even buying stuff. In fact, I'm sure I'll convince myself that buying stuff is the right solution - ranging from eye-watering eink notebooks like &lt;a href=&quot;https://remarkable.com/&quot;&gt;reMarkable&lt;/a&gt; or &lt;a href=&quot;https://supernote.com/&quot;&gt;Supernotes&lt;/a&gt;, to more reasonable &lt;a href=&quot;https://getrocketbook.co.uk&quot;&gt;rocketbooks&lt;/a&gt;. I'm just not sure if they really solve the problem or just give me the feeling that I'm solving it. I don't really need to buy anything, but I suppose the arguement would be that if it saves me time then that's the value it brings." created="Thu, 04 Nov 2021 13:28:18 GMT">
 						<outline text="Anyway I suppose thoughts and review of those products are beyond what I started off typing about. " created="Thu, 04 Nov 2021 14:04:44 GMT"/>
 						</outline>
-					<outline text="Whilst I think about the future, I looked at all the notebooks and decided just to recycle them. They probably have useful information in them but it's too late now. " created="Thu, 04 Nov 2021 14:05:12 GMT"/>
+					<outline text="Whilst I think about the future, I looked at all the notebooks and decided just to recycle them. They probably have useful information in them but it's too late now." created="Thu, 04 Nov 2021 14:05:12 GMT"/>
 					</outline>
 				</outline>
 			<outline text="November 3" created="Wed, 03 Nov 2021 08:13:32 GMT" type="calendarDay" name="03">
