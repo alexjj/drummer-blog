@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 03 Nov 2021 21:50:23 GMT</dateModified>
-		<expansionState>1,2,7</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Thu, 04 Nov 2021 10:07:59 GMT</dateModified>
+		<expansionState>1,2,4,9</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 4" created="Thu, 04 Nov 2021 10:07:08 GMT" type="calendarDay" name="04">
+				<outline text="Magic: The Gathering is turing complete." created="Thu, 04 Nov 2021 10:07:09 GMT" type="link" url="https://fermatslibrary.com/s/magic-the-gathering-is-turing-complete"/>
+				</outline>
 			<outline text="November 3" created="Wed, 03 Nov 2021 08:13:32 GMT" type="calendarDay" name="03">
 				<outline text="Doesn't this just make you want to run tmux and vim." created="Wed, 03 Nov 2021 21:49:37 GMT" type="outline" inlineImage="https://user-images.githubusercontent.com/293805/139613826-6ed20af0-9bdf-41ac-a5f4-aaf68ac450a0.png"/>
 				<outline text="You can also make projects (think Kanban board) on your Github profile, for sharing stuff you're up to, or anything you want! It's also integrated with Github workflows" created="Wed, 03 Nov 2021 08:19:23 GMT" type="outline"/>
