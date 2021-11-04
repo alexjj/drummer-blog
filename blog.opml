@@ -19,13 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 04 Nov 2021 14:59:45 GMT</dateModified>
-		<expansionState>1,2,5,7,12,15,20</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Thu, 04 Nov 2021 21:39:54 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 4" created="Thu, 04 Nov 2021 10:07:08 GMT" type="calendarDay" name="04">
+				<outline text="Been watching some videos on &lt;a href=&quot;https://getrocketbook.co.uk/&quot;&gt;Rocketbook&lt;/a&gt;, this seems like it could be what I'm after to help with &lt;a href=&quot;https://alexjj.com/2021/11/04/115353.html?title=The longevity of physical notebooks, and their content&quot;&gt;my challenge&lt;/a&gt;. If nothing else it's a cheap experiment. In fact, they offer printable templates to try out first - so free! " created="Thu, 04 Nov 2021 21:32:17 GMT" type="outline"/>
+				<outline text="This &lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/3&quot;&gt;Github integration and Github actions conversation&lt;/a&gt; is very exciting. It's on my todo list to figure out and experiement with but I never get round to it, hopefully one of these chaps can figure it all out 😄" created="Thu, 04 Nov 2021 21:31:08 GMT" type="outline"/>
 				<outline text="I (re)remembered the &lt;a href=&quot;https://adventofcode.com/&quot;&gt;Advent of Code&lt;/a&gt;. That'll be another good intention that I'll never furfill. " created="Thu, 04 Nov 2021 10:19:36 GMT" type="outline"/>
 				<outline text="Magic: The Gathering is turing complete." created="Thu, 04 Nov 2021 10:07:09 GMT" type="link" url="https://fermatslibrary.com/s/magic-the-gathering-is-turing-complete"/>
 				<outline text="The longevity of physical notebooks, and their content" created="Thu, 04 Nov 2021 11:53:53 GMT" type="outline">
