@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 04 Nov 2021 13:53:46 GMT</dateModified>
-		<expansionState>1,2,5,7,13,18</expansionState>
-		<lastCursor>11</lastCursor>
+		<dateModified>Thu, 04 Nov 2021 14:11:17 GMT</dateModified>
+		<expansionState>1,2,5,7,12,15,20</expansionState>
+		<lastCursor>13</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
@@ -36,7 +36,10 @@
 					<outline text="At work, I always have my notebook with me. It's very quick to capture anything, I also think it's perceived as less rude than taking out a laptop. Pretty much as everyone thinks you're not paying attention whilst writing notes on it. Now of course I shouldn't care what other people think, but sometimes it &lt;i&gt;isn't&lt;/i&gt; appropriate to take out a laptop. I also have a nice routine of weekly planning, and daily planning in my notebook. That's worked well for me for several years now and I shouldn't really change that. " created="Thu, 04 Nov 2021 12:47:12 GMT"/>
 					<outline text="The bulk of entries are transient, stuff that needed to be done that week, meetings about it, updates, which whilst important at the time, the information tends to become meaningless over time. However, within it are useful items - what did I accomplish, updates and records of long running projects, and good reference information that I've captured.  It is this information that I'm wondering about." created="Thu, 04 Nov 2021 13:07:15 GMT"/>
 					<outline text="I've managed to get into a good habit of summarising my weekly achievements and capturing that in a private Tiddlywiki file. The habit is not entirely mine as my boss asks for the updates each week so that makes me do it, I suppose the putting it into TW is mine. I think there's more improvements I can do in TW to make the information more convenient but generally it's good enough. I have to do this summary as part of my work, so it gets done." created="Thu, 04 Nov 2021 13:23:09 GMT"/>
-					<outline text="The obvious solution to saving this other important information is to extract it from the notebooks and into something more permanent, and probably something digital for longer term storage and searching. Maybe Tiddlywiki as it's a pretty nice application, very customisible and has a good long term viability. The problem is getting the data into it. It's going to take more time to do it, and time is always limited. There's probably a whole host of systems and methods and I'm sure I can spend many hours figuring out systems and tools and maybe even buying stuff. In fact, I'm sure I'll convince myself that buying stuff is the right solution - ranging from eye-watering eink notebooks like &lt;a href=&quot;https://remarkable.com/&quot;&gt;reMarkable&lt;/a&gt; or &lt;a href=&quot;https://supernote.com/&quot;&gt;Supernotes&lt;/a&gt;, to more reasonable &lt;a href=&quot;https://getrocketbook.co.uk&quot;&gt;rocketbooks&lt;/a&gt;. " created="Thu, 04 Nov 2021 13:28:18 GMT"/>
+					<outline text="The obvious solution to saving this other important information is to extract it from the notebooks and into something more permanent, and probably something digital for longer term storage and searching. Maybe Tiddlywiki as it's a pretty nice application, very customisible and has a good long term viability. The problem is getting the data into it. It's going to take more time to do it, and time is always limited. There's probably a whole host of systems and methods and I'm sure I can spend many hours figuring out systems and tools and maybe even buying stuff. In fact, I'm sure I'll convince myself that buying stuff is the right solution - ranging from eye-watering eink notebooks like &lt;a href=&quot;https://remarkable.com/&quot;&gt;reMarkable&lt;/a&gt; or &lt;a href=&quot;https://supernote.com/&quot;&gt;Supernotes&lt;/a&gt;, to more reasonable &lt;a href=&quot;https://getrocketbook.co.uk&quot;&gt;rocketbooks&lt;/a&gt;. I'm just not sure if they really solve the problem or just give me the feeling that I'm solving it. I don't really need to buy anything, but I suppose the arguement would be that if it saves me time then that's the value it brings." created="Thu, 04 Nov 2021 13:28:18 GMT">
+						<outline text="Anyway I suppose thoughts and review of those products are beyond what I started off typing about. " created="Thu, 04 Nov 2021 14:04:44 GMT"/>
+						</outline>
+					<outline text="Whilst I think about the future, I looked at all the notebooks and decided just to " created="Thu, 04 Nov 2021 14:05:12 GMT"/>
 					</outline>
 				</outline>
 			<outline text="November 3" created="Wed, 03 Nov 2021 08:13:32 GMT" type="calendarDay" name="03">
