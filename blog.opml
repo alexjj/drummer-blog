@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 04 Nov 2021 12:45:02 GMT</dateModified>
-		<expansionState>1,2,5,8,13</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Thu, 04 Nov 2021 12:47:13 GMT</dateModified>
+		<expansionState>1,2,5,7,10,15</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
@@ -30,7 +30,10 @@
 				<outline text="Magic: The Gathering is turing complete." created="Thu, 04 Nov 2021 10:07:09 GMT" type="link" url="https://fermatslibrary.com/s/magic-the-gathering-is-turing-complete"/>
 				<outline text="The longevity of physical notebooks" created="Thu, 04 Nov 2021 11:53:53 GMT" type="outline">
 					<outline text="The other day I was tidying my office. The clutter had slowly grown and it had become too annoying. I also had a bunch of things to do that I was putting off, like scanning some letters, storing boxes of (yet more) stuff I'd bought as well as just the tidy up itself. I had a stack of notebooks, a mix of Leuchturms, moleskins, random brands, but all about A5 size. I use these every day at work to track my weekly and daily to-dos, notes from meetings and general paper scratchpad for calcs or ideas. This stack probably went back to about 2018. What was I going to do with them?" created="Thu, 04 Nov 2021 11:54:17 GMT"/>
-					<outline text="I probably spent a good 20 minutes just flicking through the pages - this is something I love about physical notebooks. The ease of rediscovery of previous entries. I've not found a digital equivalent that's quite so enjoyable. The &quot;on this day&quot; feature that many photo and journal apps have is nice but it’s just that day. There’s sometimes open a random entry or but the flicking through large time ranges and " created="Thu, 04 Nov 2021 12:02:01 GMT"/>
+					<outline text="I probably spent a good 20 minutes just flicking through the pages - this is something I love about physical notebooks. The ease of rediscovery of previous entries. I've not found a digital equivalent that's quite so enjoyable. The &quot;on this day&quot; feature that many photo and journal apps have is nice but it’s just that day. There’s sometimes open a random entry or but the flicking through large time ranges and just having things jump out is much better." created="Thu, 04 Nov 2021 12:02:01 GMT">
+						<outline text="Although if I’m honest, whilst it’s nice to do, it tends not to yield anything other than a brief moment reminiscing about that particularly entry. It’s definitely not a good way to manage work or organise important information." created="Thu, 04 Nov 2021 12:45:39 GMT"/>
+						</outline>
+					<outline text="" created="Thu, 04 Nov 2021 12:47:12 GMT"/>
 					</outline>
 				</outline>
 			<outline text="November 3" created="Wed, 03 Nov 2021 08:13:32 GMT" type="calendarDay" name="03">
