@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 04 Nov 2021 12:47:13 GMT</dateModified>
-		<expansionState>1,2,5,7,10,15</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Thu, 04 Nov 2021 13:14:07 GMT</dateModified>
+		<expansionState>1,2,5,7,11,16</expansionState>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
@@ -33,7 +33,8 @@
 					<outline text="I probably spent a good 20 minutes just flicking through the pages - this is something I love about physical notebooks. The ease of rediscovery of previous entries. I've not found a digital equivalent that's quite so enjoyable. The &quot;on this day&quot; feature that many photo and journal apps have is nice but it’s just that day. There’s sometimes open a random entry or but the flicking through large time ranges and just having things jump out is much better." created="Thu, 04 Nov 2021 12:02:01 GMT">
 						<outline text="Although if I’m honest, whilst it’s nice to do, it tends not to yield anything other than a brief moment reminiscing about that particularly entry. It’s definitely not a good way to manage work or organise important information." created="Thu, 04 Nov 2021 12:45:39 GMT"/>
 						</outline>
-					<outline text="" created="Thu, 04 Nov 2021 12:47:12 GMT"/>
+					<outline text="At work, I always have my notebook with me. It's very quick to capture anything, I also think it's perceived as less rude than taking out a laptop. Pretty much as everyone thinks you're not paying attention whilst writing notes on it. Now of course I shouldn't care what other people think, but sometimes it &lt;i&gt;isn't&lt;/i&gt; appropriate to take out a laptop. I also have a nice routine of weekly planning, and daily planning in my notebook. That's worked well for me for several years now and I shouldn't really change that. " created="Thu, 04 Nov 2021 12:47:12 GMT"/>
+					<outline text="The bulk of entries are transient, stuff that needed to be done that week, meetings about it, updates, which whilst important at the time, the information tends to become meaningless " created="Thu, 04 Nov 2021 13:07:15 GMT"/>
 					</outline>
 				</outline>
 			<outline text="November 3" created="Wed, 03 Nov 2021 08:13:32 GMT" type="calendarDay" name="03">
