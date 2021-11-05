@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 05 Nov 2021 20:43:05 GMT</dateModified>
-		<expansionState>1,2,9,10,12</expansionState>
+		<dateModified>Fri, 05 Nov 2021 20:55:11 GMT</dateModified>
+		<expansionState>1,2,10,11,13</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 5" created="Fri, 05 Nov 2021 19:23:24 GMT" type="calendarDay" name="05">
+				<outline text="This looks like an interesting take on an outliner but on mobile (iOS only) where touch is a big part of the UX" created="Fri, 05 Nov 2021 20:54:35 GMT" type="link" url="http://www.mindscopeapp.com/index.html"/>
 				<outline text="For anyone who likes loqseq but can't spend all hours of the day on the discord (annoyingly where most of the good content goes) someone else does this for you in a mailing list." created="Fri, 05 Nov 2021 20:14:01 GMT" type="link" url="https://logseqweekly.com/"/>
 				<outline text="...and whilst I'm on this logseq detour here's the &lt;a href=&quot;https://github.com/logseq/awesome-logseq&quot;&gt;awesome list&lt;/a&gt;." created="Fri, 05 Nov 2021 20:16:03 GMT" type="outline"/>
 				<outline text="Oh now this is cool! A telegram bot for your loqseq..." created="Fri, 05 Nov 2021 20:19:33 GMT" type="link" url="https://github.com/akhater/Lupin#features"/>
