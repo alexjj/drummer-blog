@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 05 Nov 2021 19:56:07 GMT</dateModified>
-		<expansionState>1,2,6,7,9</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Fri, 05 Nov 2021 20:14:56 GMT</dateModified>
+		<expansionState>1,2,7,8,10</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 5" created="Fri, 05 Nov 2021 19:23:24 GMT" type="calendarDay" name="05">
+				<outline text="For anyone who likes loqseq but can't spend all hours of the day on the discord (annoying where most of the good content goes) someone else does this for you in a mailing list." created="Fri, 05 Nov 2021 20:14:01 GMT" type="link" url="https://logseqweekly.com/"/>
 				<outline text="I sold my Fujifilm X100F after not using it for a long time. Now I want to use it." created="Fri, 05 Nov 2021 19:54:34 GMT" type="outline"/>
 				<outline text="Surely the solution to this &quot;&lt;a href=&quot;https://github.com/scripting/drummerRFC/issues/5&quot;&gt;tools for thought&lt;/a&gt;&quot; problem is emacs? It's been looking for a good editor for ages. I'm not sure importing opml files into other tools really helps any more than just adding a search function to the rendered html. These other tools have a benefit due to the additional meta data the user adds - e.g. linking, tags, filters, queries, macros, etc. I suppose these unlinked references might be of use, but dumping a whole heap of data into the tool, then looking at all those unlinked references would be a bit overwhelming.  If you want to replace its editor, then drummer needs to support the extra stuff. I love blogging with drummer but logseq's editor has a lot of nice features I wish drummer had...Now I want to try logseq again and see where it's got to..." created="Fri, 05 Nov 2021 19:26:12 GMT" type="outline"/>
 				<outline text="I should resist the temptation to get sucked into &lt;a href=&quot;https://baty.blog/2021/11/04/223120.html?title=myNeglectedTinderboxDaybookFor2021#a224022&quot;&gt;Jack's Tinderbox tinkering&lt;/a&gt;. It looks nice though... 😬" created="Fri, 05 Nov 2021 19:23:25 GMT" type="outline"/>
