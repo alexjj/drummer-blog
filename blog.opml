@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 07 Nov 2021 20:35:05 GMT</dateModified>
-		<expansionState>1,2,6,10,18,19</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Sun, 07 Nov 2021 21:53:41 GMT</dateModified>
+		<expansionState>1,2,7,11,19,20</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 7" created="Sun, 07 Nov 2021 20:24:59 GMT" type="calendarDay" name="07">
+				<outline text="Now I'm looking at X1 Carbon's on eBay..." created="Sun, 07 Nov 2021 21:53:27 GMT" type="outline"/>
 				<outline text="A deal for a mATX motherboard almost sucked me into buying a new computer. Mine is old, 3rd gen Ivy Bridge CPU, but it still functions just fine. I still sort of want a Mac, but I also like Linux and value for money. For a while I was very pro-open source software, particularly Operating Systems. I still am but I still use Windows on my main machine. I have decided that when (if) we redo the kitchen, I’ll get an iMac as a family computer. It’s the ideal device for a family area. " created="Sun, 07 Nov 2021 20:26:37 GMT" type="outline"/>
 				<outline text="Enjoyed some good fireworks this &lt;a href=&quot;https://en.wikipedia.org/wiki/Guy_Fawkes_Night&quot;&gt;bonfire weekend&lt;/a&gt;. I think this year’s was our most efficient ever. Literally as we found ourselves a good spot to stand, the fireworks started.  " created="Sun, 07 Nov 2021 20:25:00 GMT" type="outline"/>
 				<outline text="I tried taking some photos in the dark with the X-T2, and pushed the ISO to 12,800. On the camera’s LCD they looked okay, less so on the monitor. I should print one out and see how it looks. Thought about the monochrom cameras being ideal for this situation. Then remembered the prices. " created="Sun, 07 Nov 2021 20:33:16 GMT" type="outline"/>
