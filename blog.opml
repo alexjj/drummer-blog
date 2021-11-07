@@ -19,12 +19,16 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 06 Nov 2021 20:34:12 GMT</dateModified>
-		<expansionState>1,2,6,14,15</expansionState>
+		<dateModified>Sun, 07 Nov 2021 20:29:45 GMT</dateModified>
+		<expansionState>1,2,5,9,17,18</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 7" created="Sun, 07 Nov 2021 20:24:59 GMT" type="calendarDay" name="07">
+				<outline text="A deal for a mATX motherboard almost sucked me into buying a new computer. Mine is old, 3rd gen Ivy Bridge CPU, but it still functions just fine. I still sort of want a Mac, but I also like Linux and value for money. For a while I was very pro-open source software, particularly Operating Systems. " created="Sun, 07 Nov 2021 20:26:37 GMT" type="outline"/>
+				<outline text="Enjoyed some good fireworks this &lt;a href=&quot;https://en.wikipedia.org/wiki/Guy_Fawkes_Night&quot;&gt;bonfire weekend&lt;/a&gt;. I think this year’s was our most efficient ever. Literally as we found ourselves a good spot to stand, the fireworks started.  " created="Sun, 07 Nov 2021 20:25:00 GMT" type="outline"/>
+				</outline>
 			<outline text="November 6" created="Sat, 06 Nov 2021 17:05:00 GMT" type="calendarDay" name="06">
 				<outline text="Kids don't know how easy they have it these days with SSL from Let's encrypt. One line &lt;code&gt;sudo certbot --nginx -d your_domain&lt;/code&gt; and it does everything for you. Even edits your nginx config where it finds the domain to add all the SSL certs and recommended settings to secure a strong rating. I remember when startssl (I think) began offering one free SSL cert per year. You'd have to go through various hoops to prove yourself and then download the certification, upload it to your server and then figure out all the settings. There was a &lt;a href=&quot;https://gist.github.com/konklone/6532544&quot;&gt;gist somewhere&lt;/a&gt; that had recommended settings and generating your own dhparam key and everything. Now just install nginx and certbot and away you go. Scores an A on &lt;a href=&quot;https://www.ssllabs.com/ssltest/&quot;&gt;SSL Labs&lt;/a&gt;. " created="Sat, 06 Nov 2021 20:22:09 GMT" type="outline" image="https://alexjj.github.io/drummer-blog/img/ssla.jpg"/>
 				<outline text="If you're after a new VPS this month then wait until black friday/cyber monday and have a look on &lt;a href=&quot;https://www.lowendtalk.com/&quot;&gt;lowendtalk&lt;/a&gt;, always lots of great deals (in fact too many). I've picked up great VPSs over the years for ~$15/&lt;b&gt;year&lt;/b&gt; that have all run perfectly for my self-hosted sites. &lt;a href=&quot;https://inceptionhosting.com/&quot;&gt;Inception hosting&lt;/a&gt; is one of my favourites, &lt;a href=&quot;https://virmach.com/&quot;&gt;Virmach&lt;/a&gt; have been good too. I'm looking for a new photo gallery hosting site to upgrade my $4/yr OpenVZ VPS special 😅" created="Sat, 06 Nov 2021 17:08:32 GMT" type="outline"/>
