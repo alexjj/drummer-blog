@@ -19,15 +19,16 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 07 Nov 2021 20:29:45 GMT</dateModified>
-		<expansionState>1,2,5,9,17,18</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 07 Nov 2021 20:35:05 GMT</dateModified>
+		<expansionState>1,2,6,10,18,19</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 7" created="Sun, 07 Nov 2021 20:24:59 GMT" type="calendarDay" name="07">
-				<outline text="A deal for a mATX motherboard almost sucked me into buying a new computer. Mine is old, 3rd gen Ivy Bridge CPU, but it still functions just fine. I still sort of want a Mac, but I also like Linux and value for money. For a while I was very pro-open source software, particularly Operating Systems. " created="Sun, 07 Nov 2021 20:26:37 GMT" type="outline"/>
+				<outline text="A deal for a mATX motherboard almost sucked me into buying a new computer. Mine is old, 3rd gen Ivy Bridge CPU, but it still functions just fine. I still sort of want a Mac, but I also like Linux and value for money. For a while I was very pro-open source software, particularly Operating Systems. I still am but I still use Windows on my main machine. I have decided that when (if) we redo the kitchen, I’ll get an iMac as a family computer. It’s the ideal device for a family area. " created="Sun, 07 Nov 2021 20:26:37 GMT" type="outline"/>
 				<outline text="Enjoyed some good fireworks this &lt;a href=&quot;https://en.wikipedia.org/wiki/Guy_Fawkes_Night&quot;&gt;bonfire weekend&lt;/a&gt;. I think this year’s was our most efficient ever. Literally as we found ourselves a good spot to stand, the fireworks started.  " created="Sun, 07 Nov 2021 20:25:00 GMT" type="outline"/>
+				<outline text="I tried taking some photos in the dark with the X-T2, and pushed the ISO to 12,800. On the camera’s LCD they looked okay, less so on the monitor. I should print one out and see how it looks. Thought about the monochrom cameras being ideal for this situation. Then remembered the prices. " created="Sun, 07 Nov 2021 20:33:16 GMT" type="outline"/>
 				</outline>
 			<outline text="November 6" created="Sat, 06 Nov 2021 17:05:00 GMT" type="calendarDay" name="06">
 				<outline text="Kids don't know how easy they have it these days with SSL from Let's encrypt. One line &lt;code&gt;sudo certbot --nginx -d your_domain&lt;/code&gt; and it does everything for you. Even edits your nginx config where it finds the domain to add all the SSL certs and recommended settings to secure a strong rating. I remember when startssl (I think) began offering one free SSL cert per year. You'd have to go through various hoops to prove yourself and then download the certification, upload it to your server and then figure out all the settings. There was a &lt;a href=&quot;https://gist.github.com/konklone/6532544&quot;&gt;gist somewhere&lt;/a&gt; that had recommended settings and generating your own dhparam key and everything. Now just install nginx and certbot and away you go. Scores an A on &lt;a href=&quot;https://www.ssllabs.com/ssltest/&quot;&gt;SSL Labs&lt;/a&gt;. " created="Sat, 06 Nov 2021 20:22:09 GMT" type="outline" image="https://alexjj.github.io/drummer-blog/img/ssla.jpg"/>
