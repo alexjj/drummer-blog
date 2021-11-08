@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 08 Nov 2021 12:29:43 GMT</dateModified>
-		<expansionState>1,2,4,8,12,20,21</expansionState>
+		<dateModified>Mon, 08 Nov 2021 16:33:31 GMT</dateModified>
+		<expansionState>1,2,5,9,13,21,22</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 8" created="Mon, 08 Nov 2021 12:26:08 GMT" type="calendarDay" name="08">
+				<outline text="What a cool outliner web app...especially if you like/know vim." created="Mon, 08 Nov 2021 16:31:54 GMT" type="link" url="https://github.com/WuTheFWasThat/vimflowy"/>
 				<outline text="I remembered a really good article about something today that I know I'd &quot;saved&quot; for later. Now that I want to find it I don't remember where I saved it. Or if I did in fact save it directly or save the route I took to find it. I think I found it via a comment on reddit, or maybe it was a comment on a blog...hmm..." created="Mon, 08 Nov 2021 12:26:09 GMT" type="outline"/>
 				</outline>
 			<outline text="November 7" created="Sun, 07 Nov 2021 20:24:59 GMT" type="calendarDay" name="07">
