@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 09 Nov 2021 16:32:15 GMT</dateModified>
-		<expansionState>1,2,4,7,11,15,23,24</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Wed, 10 Nov 2021 18:29:32 GMT</dateModified>
+		<expansionState>1,2,4,6,9,13,17,25,26</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 10" created="Wed, 10 Nov 2021 18:23:06 GMT" type="calendarDay" name="10">
+				<outline text="For a company that centres itself around Open Source and GNU+Linux, it sure doesn’t behave in the spirit of it. " created="Wed, 10 Nov 2021 18:23:07 GMT" type="link" url="https://blogs.gnome.org/christopherdavis/2021/11/10/system76-how-not-to-collaborate/"/>
+				</outline>
 			<outline text="November 9" created="Tue, 09 Nov 2021 16:24:05 GMT" type="calendarDay" name="09">
 				<outline text="If I tried a little harder I could put my whole life in &lt;a href=&quot;https://tiddlywiki.com/&quot;&gt;Tiddlywiki&lt;/a&gt;. And it would be great." created="Tue, 09 Nov 2021 16:24:06 GMT" type="outline"/>
 				</outline>
