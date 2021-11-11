@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 10 Nov 2021 19:38:16 GMT</dateModified>
-		<expansionState>1,2,14</expansionState>
-		<lastCursor>21</lastCursor>
+		<dateModified>Thu, 11 Nov 2021 20:55:33 GMT</dateModified>
+		<expansionState>1,2,4,16</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 11" created="Thu, 11 Nov 2021 20:55:16 GMT" type="calendarDay" name="11">
+				<outline text="A nice looking raspberry pi powered tablet." created="Thu, 11 Nov 2021 20:55:17 GMT" type="link" url="https://cutiepi.io/"/>
+				</outline>
 			<outline text="November 10" created="Wed, 10 Nov 2021 18:23:06 GMT" type="calendarDay" name="10">
 				<outline text="Little Bittern" created="Wed, 10 Nov 2021 19:35:32 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/bittern.jpg"/>
 				<outline text="For a company that centres itself around Open Source and GNU+Linux, it sure doesn’t behave in the spirit of it. " created="Wed, 10 Nov 2021 18:23:07 GMT" type="link" url="https://blogs.gnome.org/christopherdavis/2021/11/10/system76-how-not-to-collaborate/"/>
