@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 12 Nov 2021 20:49:31 GMT</dateModified>
-		<expansionState>1,2,5</expansionState>
+		<dateModified>Sat, 13 Nov 2021 20:11:11 GMT</dateModified>
+		<expansionState>1,2,4,7</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 13" created="Sat, 13 Nov 2021 20:10:39 GMT" type="calendarDay" name="13">
+				<outline text="I like going to static gen lists, sorting by oldest and reliving code from the ages." created="Sat, 13 Nov 2021 20:10:40 GMT" type="link" url="https://staticsitegenerators.net/"/>
+				</outline>
 			<outline text="November 12" created="Fri, 12 Nov 2021 19:28:38 GMT" type="calendarDay" name="12">
 				<outline text="Upgraded my VPS to bullseye" created="Fri, 12 Nov 2021 20:49:23 GMT" type="outline"/>
 				<outline text="Oracle's free VM tiers are nice, but I worry they are too good to be true and will disappear...like how google cloud's free vms (well free ipv4) disappeared. You can still get a free VM from Google Cloud but no ipv4. Which isn't &lt;i&gt;that&lt;/i&gt; much of a big deal as you can use cloudflare's proxy to get around it but it's just another thing and that might not be useful for everything." created="Fri, 12 Nov 2021 19:28:39 GMT" type="outline"/>
