@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 14 Nov 2021 22:09:52 GMT</dateModified>
-		<expansionState>1,2,4,6,9</expansionState>
+		<dateModified>Sun, 14 Nov 2021 23:08:31 GMT</dateModified>
+		<expansionState>1,2,5,7,10</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 14" created="Sun, 14 Nov 2021 22:08:22 GMT" type="calendarDay" name="14">
+				<outline text="If I'm honest, this is the office setup I aspire to. &lt;a href=&quot;https://www.reddit.com/r/battlestations/comments/7c3jy3/when_youre_deep_into_a_build_that_you_just_cant/&quot;&gt;Source.&lt;/a&gt;" created="Sun, 14 Nov 2021 23:06:43 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/messyoffice.jpg"/>
 				<outline text="Turns out using Apple's dictation button on the keyboard, which is present in every app you type in, is a pretty nice way to add voice dictation to anything whatsoever! I like how it goes back and adjusts its transcript (to make it better/correct) when you speak more. It's also interesting that sometimes I don't correct it as it's written what I've said slightly better" created="Sun, 14 Nov 2021 22:08:23 GMT" type="outline"/>
 				</outline>
 			<outline text="November 13" created="Sat, 13 Nov 2021 20:10:39 GMT" type="calendarDay" name="13">
