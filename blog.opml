@@ -19,7 +19,7 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 13:43:56 GMT</dateModified>
+		<dateModified>Mon, 15 Nov 2021 13:48:17 GMT</dateModified>
 		<expansionState>1,2,3,4,24</expansionState>
 		<lastCursor>6</lastCursor>
 		</head>
@@ -31,9 +31,9 @@
 						<outline text="This does come with &lt;a href=&quot;https://vscode.dev/&quot;&gt;VS Code releasing a web version&lt;/a&gt; of it. " created="Mon, 15 Nov 2021 13:20:43 GMT"/>
 						</outline>
 					<outline text="This could be a nice way to manage a static site generator, or a personal plain text log system. It's all on the same environment, you can access it anywhere with a browser - so no worrying about mobile devices, syncing between computers or any of that. Everything is backed up on github. VS Code does allow you to do all this already, however, you now get a server to run things on too. There's so many things you can do with this." created="Mon, 15 Nov 2021 13:16:16 GMT"/>
-					<outline text="Must be some limit to the free service, not sure " created="Mon, 15 Nov 2021 13:43:45 GMT"/>
+					<outline text="Must be some limit to the free service...the &lt;a href=&quot;https://www.gitpod.io/pricing&quot;&gt;pricing page&lt;/a&gt; gives you 50 hours/month." created="Mon, 15 Nov 2021 13:43:45 GMT"/>
 					</outline>
-				<outline text="I'm always a sucker for new static site generators. This one (📜&lt;a href=&quot;https://scroll.pub/&quot;&gt;Scroll&lt;/a&gt;) I found today was interesting. Mostly the layout, of which an interesting demonstration is this &lt;a href=&quot;https://treebase.treenotation.org/treedb/&quot;&gt;trees site&lt;/a&gt;. " created="Mon, 15 Nov 2021 13:00:27 GMT" type="outline"/>
+				<outline text="I'm always a sucker for new static site generators. This one (📜&lt;a href=&quot;https://scroll.pub/&quot;&gt;Scroll&lt;/a&gt;) I found today was interesting. Mostly the layout, of which an interesting demonstration is this &lt;a href=&quot;https://treebase.treenotation.org/treedb/&quot;&gt;trees site&lt;/a&gt;.  A bigger site is &lt;a href=&quot;https://breckyunits.com/index.html&quot;&gt;here&lt;/a&gt;. Maybe it's a little overwhelming..." created="Mon, 15 Nov 2021 13:00:27 GMT" type="outline"/>
 				</outline>
 			<outline text="November 14" created="Sun, 14 Nov 2021 22:08:22 GMT" type="calendarDay" name="14">
 				<outline text="If I'm honest, this is the office setup I aspire to." created="Sun, 14 Nov 2021 23:06:43 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/messyoffice.jpg"/>
