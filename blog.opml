@@ -19,12 +19,16 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 12:36:38 GMT</dateModified>
-		<expansionState>1,2,19</expansionState>
-		<lastCursor>21</lastCursor>
+		<dateModified>Mon, 15 Nov 2021 13:15:03 GMT</dateModified>
+		<expansionState>1,2,5,22</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 15" created="Mon, 15 Nov 2021 13:00:26 GMT" type="calendarDay" name="15">
+				<outline text="What has been a more interesting discovery is &lt;a href=&quot;https://www.gitpod.io/docs/&quot;&gt;Gitpod&lt;/a&gt;. It's a container-based development platform, provisioning dev environments, even running code and previewing the output in the same window. Think I need to watch the screencast series to really understand what can be done. It appears you can get all the fun of VS Code (and even open the gitpo project in and a server to run it on just from pre-pending &lt;code&gt;gitpod.io/#&lt;/code&gt; to your Github (or Gitlab/bitbucket) URL. Maybe this makes the static site generators much more enjoyable to use? OR maybe " created="Mon, 15 Nov 2021 13:02:49 GMT" type="outline"/>
+				<outline text="I'm always a sucker for new static site generators. This one (📜&lt;a href=&quot;https://scroll.pub/&quot;&gt;Scroll&lt;/a&gt;) I found today was interesting. Mostly the layout, of which an interesting demonstration is this &lt;a href=&quot;https://treebase.treenotation.org/treedb/&quot;&gt;trees site&lt;/a&gt;. " created="Mon, 15 Nov 2021 13:00:27 GMT" type="outline"/>
+				</outline>
 			<outline text="November 14" created="Sun, 14 Nov 2021 22:08:22 GMT" type="calendarDay" name="14">
 				<outline text="If I'm honest, this is the office setup I aspire to." created="Sun, 14 Nov 2021 23:06:43 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/messyoffice.jpg"/>
 				<outline text="Turns out using Apple's dictation button on the keyboard, which is present in every app you type in, is a pretty nice way to add voice dictation to anything whatsoever! I like how it goes back and adjusts its transcript (to make it better/correct) when you speak more. It's also interesting that sometimes I don't correct it as it's written what I've said slightly better" created="Sun, 14 Nov 2021 22:08:23 GMT" type="outline"/>
