@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 15 Nov 2021 13:27:30 GMT</dateModified>
-		<expansionState>1,2,3,4,23</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Mon, 15 Nov 2021 13:43:56 GMT</dateModified>
+		<expansionState>1,2,3,4,24</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
@@ -30,7 +30,8 @@
 					<outline text="What has been a more interesting discovery is &lt;a href=&quot;https://www.gitpod.io/docs/&quot;&gt;Gitpod&lt;/a&gt;. It's a container-based development platform, provisioning dev environments, even running code and previewing the output in the same window. Think I need to watch the &lt;a href=&quot;https://www.gitpod.io/screencasts&quot;&gt;screencast series&lt;/a&gt; to really understand what can be done. It appears you can get all the fun of VS Code (and even open the gitpod project in you local VS Code instance) and a server to run it on just from pre-pending &lt;code&gt;gitpod.io/#&lt;/code&gt; to your Github (or Gitlab/bitbucket) URL. " created="Mon, 15 Nov 2021 13:02:49 GMT" type="outline">
 						<outline text="This does come with &lt;a href=&quot;https://vscode.dev/&quot;&gt;VS Code releasing a web version&lt;/a&gt; of it. " created="Mon, 15 Nov 2021 13:20:43 GMT"/>
 						</outline>
-					<outline text="This could be a nice way to manage a static site generator, or a personal plain text log system. It's all on the same environment, you can access it anywhere with a browser - so no worrying about mobile devices, syncing between computers or any of that. Everything is backed up on github. " created="Mon, 15 Nov 2021 13:16:16 GMT"/>
+					<outline text="This could be a nice way to manage a static site generator, or a personal plain text log system. It's all on the same environment, you can access it anywhere with a browser - so no worrying about mobile devices, syncing between computers or any of that. Everything is backed up on github. VS Code does allow you to do all this already, however, you now get a server to run things on too. There's so many things you can do with this." created="Mon, 15 Nov 2021 13:16:16 GMT"/>
+					<outline text="Must be some limit to the free service, not sure " created="Mon, 15 Nov 2021 13:43:45 GMT"/>
 					</outline>
 				<outline text="I'm always a sucker for new static site generators. This one (📜&lt;a href=&quot;https://scroll.pub/&quot;&gt;Scroll&lt;/a&gt;) I found today was interesting. Mostly the layout, of which an interesting demonstration is this &lt;a href=&quot;https://treebase.treenotation.org/treedb/&quot;&gt;trees site&lt;/a&gt;. " created="Mon, 15 Nov 2021 13:00:27 GMT" type="outline"/>
 				</outline>
