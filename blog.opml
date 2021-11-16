@@ -19,14 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 16 Nov 2021 20:58:49 GMT</dateModified>
-		<expansionState>1,2,4,22</expansionState>
+		<dateModified>Tue, 16 Nov 2021 21:58:21 GMT</dateModified>
+		<expansionState>1,2,5,23</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 16" created="Tue, 16 Nov 2021 20:57:34 GMT" type="calendarDay" name="16">
-				<outline text="Now this is the kind of IDE extension I need." created="Tue, 16 Nov 2021 20:57:35 GMT" type="link" url="https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets"/>
+				<outline text="I was plesantly surprised how well my blog.opml imported into dynalist. Node attributes don't work, so link nodes and image nodes. Links which are inline are fine. " created="Tue, 16 Nov 2021 21:56:56 GMT" type="outline"/>
+				<outline text="Now this is the kind of &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets&quot;&gt;IDE extension&lt;/a&gt; I need." created="Tue, 16 Nov 2021 20:57:35 GMT" type="outline"/>
 				</outline>
 			<outline text="November 15" created="Mon, 15 Nov 2021 13:00:26 GMT" type="calendarDay" name="15">
 				<outline text="I'm always a sucker for new static site generators. This one,📜&lt;a href=&quot;https://scroll.pub/&quot;&gt;Scroll&lt;/a&gt;, I found today was interesting. Mostly the layout, of which an interesting demonstration is this &lt;a href=&quot;https://treebase.treenotation.org/treedb/&quot;&gt;trees site&lt;/a&gt;.  A bigger site is &lt;a href=&quot;https://breckyunits.com/index.html&quot;&gt;here&lt;/a&gt;. Maybe it's a little overwhelming..." created="Mon, 15 Nov 2021 13:00:27 GMT" type="outline"/>
