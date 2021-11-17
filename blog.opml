@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 13:30:06 GMT</dateModified>
-		<expansionState>1,2,5,6,17,21,25,34,41,46,48</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Wed, 17 Nov 2021 13:30:29 GMT</dateModified>
+		<expansionState>1,2,5,6,8,19,23,27,36,43,48,50</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
@@ -30,7 +30,10 @@
 				<outline text="sabre23t maintains a &lt;a href=&quot;http://scripting.com/code/concordreader/?url=http://drummer.scripting.com/sabre23t/otherdrummers.opml&quot;&gt;nice list of drummer users&lt;/a&gt;. There's also Andy's &lt;a href=&quot;http://oldschooldrummers.andysylvester.com/&quot;&gt;old school drummers river&lt;/a&gt; to see their posts." created="Wed, 17 Nov 2021 11:46:40 GMT" type="outline"/>
 				<outline text="Drummer has markdown support (I've definitely not been paying attention)" created="Wed, 17 Nov 2021 13:26:16 GMT" type="markdown">
 					<outline text="Code block" created="Wed, 17 Nov 2021 13:26:30 GMT">
-						<outline text="" created="Wed, 17 Nov 2021 13:30:05 GMT"/>
+						<outline text=" Just add one space beforehand?" created="Wed, 17 Nov 2021 13:30:05 GMT"/>
+						<outline text=" Just one tiny space?" created="Wed, 17 Nov 2021 13:30:13 GMT">
+							<outline text=" An even smaller tiny space?" created="Wed, 17 Nov 2021 13:30:20 GMT"/>
+							</outline>
 						</outline>
 					</outline>
 				</outline>
