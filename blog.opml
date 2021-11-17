@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 14:41:35 GMT</dateModified>
-		<expansionState>1,2,3,6,8,21,25,29,38,45,50,52</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Wed, 17 Nov 2021 22:07:54 GMT</dateModified>
+		<expansionState>1,2,3,6,8,22,26,30,39,46,51,53</expansionState>
+		<lastCursor>11</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
@@ -36,6 +36,7 @@
 							<outline text="    The the clueless blog opml appeared to only have one." created="Wed, 17 Nov 2021 13:30:20 GMT"/>
 							</outline>
 						<outline text="Doesn't render the purple # under a markdown node." created="Wed, 17 Nov 2021 14:40:33 GMT"/>
+						<outline text="Not sure why I need it, maybe the headers would be nice when I want a few layers. The code block css is nicer than using code block attributes (which I've forgotten what they are) in drummer " created="Wed, 17 Nov 2021 22:07:04 GMT"/>
 						</outline>
 					</outline>
 				</outline>
