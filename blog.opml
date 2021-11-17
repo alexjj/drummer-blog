@@ -19,14 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 12:11:47 GMT</dateModified>
+		<dateModified>Wed, 17 Nov 2021 12:15:40 GMT</dateModified>
 		<expansionState>1,2,14,18,22,31,38,43,45</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 17" created="Wed, 17 Nov 2021 11:46:39 GMT" type="calendarDay" name="17">
-				<outline text="Somehow I didn't notice when this appeared, or maybe it was already there, but tags with &lt;code&gt;[[tag]]&lt;/code&gt; [[drummer-meta]] are possible. Although they don't seem to actually work...okay excitement over. " created="Wed, 17 Nov 2021 11:58:42 GMT" type="outline"/>
+				<outline text="Somehow I didn't notice when this appeared, or maybe it was already there, but tags with &lt;code&gt;&amp;lsqb;&amp;lsqb;tag&amp;rsqb;&amp;rsqb;&lt;/code&gt; [[drummer-meta]] are possible. Although they don't seem to actually work...okay excitement over. " created="Wed, 17 Nov 2021 11:58:42 GMT" type="outline"/>
 				<outline text="sabre23t maintains a &lt;a href=&quot;http://scripting.com/code/concordreader/?url=http://drummer.scripting.com/sabre23t/otherdrummers.opml&quot;&gt;nice list of drummer users&lt;/a&gt;. There's also Andy's &lt;a href=&quot;http://oldschooldrummers.andysylvester.com/&quot;&gt;old school drummers river&lt;/a&gt; to see their posts." created="Wed, 17 Nov 2021 11:46:40 GMT" type="outline"/>
 				</outline>
 			<outline text="November 16" created="Tue, 16 Nov 2021 20:57:34 GMT" type="calendarDay" name="16">
