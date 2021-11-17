@@ -19,12 +19,16 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 16 Nov 2021 21:58:21 GMT</dateModified>
-		<expansionState>1,2,5,23</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Wed, 17 Nov 2021 12:00:02 GMT</dateModified>
+		<expansionState>1,2,21,35,41,50,54,55</expansionState>
+		<lastCursor>34</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 17" created="Wed, 17 Nov 2021 11:46:39 GMT" type="calendarDay" name="17">
+				<outline text="Somehow I didn't notice when this appeared, or maybe it was already there, but tags with [[drummer-meta]] are possible." created="Wed, 17 Nov 2021 11:58:42 GMT" type="outline"/>
+				<outline text="sabre23t maintains a &lt;a href=&quot;http://scripting.com/code/concordreader/?url=http://drummer.scripting.com/sabre23t/otherdrummers.opml&quot;&gt;nice list of drummer users&lt;/a&gt;. There's also Andy's &lt;a href=&quot;http://oldschooldrummers.andysylvester.com/&quot;&gt;old school drummers river&lt;/a&gt; to see their posts." created="Wed, 17 Nov 2021 11:46:40 GMT" type="outline"/>
+				</outline>
 			<outline text="November 16" created="Tue, 16 Nov 2021 20:57:34 GMT" type="calendarDay" name="16">
 				<outline text="I was plesantly surprised how well my blog.opml imported into dynalist. Node attributes don't work, so link nodes and image nodes. Links which are inline are fine. " created="Tue, 16 Nov 2021 21:56:56 GMT" type="outline"/>
 				<outline text="Now this is the kind of &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets&quot;&gt;IDE extension&lt;/a&gt; I need." created="Tue, 16 Nov 2021 20:57:35 GMT" type="outline"/>
@@ -431,7 +435,7 @@
 				<outline text="Drummer config fiddling" created="Sun, 17 Oct 2021 05:53:14 GMT" type="outline">
 					<outline text="Success! I've not got the templates hosted from github pages. I must've had a bad line as I copied them again from drummercms and then edited the css/js urls." created="Sun, 17 Oct 2021 05:53:50 GMT"/>
 					<outline text="This &lt;a href=&quot;http://drummer.scripting.com/thealexjj/blog.opml&quot;&gt;url&lt;/a&gt; gets my opml file." created="Sun, 17 Oct 2021 05:53:45 GMT"/>
-					<outline text="Tweaking the &lt;a href=&quot;https://github.com/alexjj/drummer-blog/commit/51269552c17e78dfd05a227e4ced583da2e29d70&quot;&gt;css&lt;/a&gt;." created="Sun, 17 Oct 2021 12:48:03 GMT"/>
+					<outline text="Tweaking the &lt;a href=&quot;https://github.com/alexjj/drummer-blog/commit/51269552c17e78dfd05a227e4ced583da2e29d70&quot;&gt;css&lt;/a&gt;. [[drummer-meta]]" created="Sun, 17 Oct 2021 12:48:03 GMT"/>
 					</outline>
 				</outline>
 			<outline text="October 16" created="Sat, 16 Oct 2021 21:56:32 GMT" type="calendarDay" name="16">
