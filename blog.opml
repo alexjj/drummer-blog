@@ -19,13 +19,14 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 18 Nov 2021 15:44:46 GMT</dateModified>
-		<expansionState>1,2,23,31,39</expansionState>
+		<dateModified>Thu, 18 Nov 2021 15:47:58 GMT</dateModified>
+		<expansionState>1,2,24,32,40</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 18" created="Thu, 18 Nov 2021 15:24:35 GMT" type="calendarDay" name="18">
+				<outline text="&quot;The best thing about the Ricoh GR IIIx is that it's basically just a GR III with a slightly longer lens.&lt;br&gt; The worst thing about the Ricoh GR IIIx is that it's basically just a GR III with a slightly longer lens.&quot; &lt;br&gt; There was a lovely sunrise this morning which the iPhone wouldn't be able to capture, maybe the APS-C wouldn't either, but it was another reminder of how a pocketable, high performance camera would be a great thing to have." created="Thu, 18 Nov 2021 15:45:21 GMT" type="link" url="https://www.dpreview.com/opinion/4617817917/family-reunion-shooting-with-the-ricoh-gr-iiix-on-a-trip-home-to-england"/>
 				<outline text="I do like all these new Cosina Voigtländer vintage design lenses they're &lt;a href=&quot;https://www.dpreview.com/news/5368388976/cosina-announces-its-updated-vintage-line-21mm-f3-5-lens-set-for-december-release&quot;&gt;coming out with&lt;/a&gt;. I feel like I should get at least one Leica lens but the quality, performance and price of the CVs it's hard to justify Leica.
 " created="Thu, 18 Nov 2021 15:43:13 GMT" type="outline"/>
 				<outline text="Kentmere 400 + 2" created="Thu, 18 Nov 2021 15:35:15 GMT" type="outline" inlineImage="https://alexjj.github.io/drummer-blog/img/kentmere400+2.jpg"/>
