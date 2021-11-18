@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 17 Nov 2021 22:07:54 GMT</dateModified>
-		<expansionState>1,2,3,6,8,22,26,30,39,46,51,53</expansionState>
-		<lastCursor>11</lastCursor>
+		<dateModified>Thu, 18 Nov 2021 15:29:51 GMT</dateModified>
+		<expansionState>1,2,21,29,37</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 18" created="Thu, 18 Nov 2021 15:24:35 GMT" type="calendarDay" name="18">
+				<outline text="Had two rolls of Kentmere 400 developed. One at box speed, and one pushed two stops. At box speeds its quite a grainy film stock, I'll have to dig out some HP5 photos to compare but seems similar to that. What was interesting was at ISO 1600 the grain appeared no worse! Certainly on casual viewing, probably there are some differences at 100%. So whilst I wasn't that excited about it at 400, I'm very impressed with it at 1600. Could be a good B&amp;W stock for the winter months when I'm even looking for 1600 whilst outside! These photos were from a few weeks ago &lt;a href=&quot;https://alexjj.com/2021/10/24/210200.html?title=Film ISO fails&quot;&gt;where I was kicking myself&lt;/a&gt; from being poorly organised. However, even with the disorganisation the photos turned out really well. Although I'm not sure I've had a film photos that (as long as it was in focus) that I didn't love. " created="Thu, 18 Nov 2021 15:24:36 GMT" type="outline"/>
+				</outline>
 			<outline text="November 17" created="Wed, 17 Nov 2021 11:46:39 GMT" type="calendarDay" name="17">
 				<outline text="Drummer fiddling" created="Wed, 17 Nov 2021 14:38:35 GMT" type="outline">
 					<outline text="Somehow I didn't notice when this appeared, or maybe it was already there, but tags with &lt;code&gt;&amp;lsqb;&amp;lsqb;tag&amp;rsqb;&amp;rsqb;&lt;/code&gt; 👉 [[drummer-meta]] 👈are possible. Although they don't seem to actually work...okay excitement over. " created="Wed, 17 Nov 2021 11:58:42 GMT" type="outline"/>
