@@ -19,12 +19,16 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 20 Nov 2021 22:12:21 GMT</dateModified>
-		<expansionState>1,2,4,26,34,42</expansionState>
+		<dateModified>Mon, 22 Nov 2021 09:59:23 GMT</dateModified>
+		<expansionState>1,2,24,32</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 22" created="Mon, 22 Nov 2021 09:47:34 GMT" type="calendarDay" name="22">
+				<outline text="Another thing I wondered about was old posts. It appears oldschoolblog renders a month maybe. There's no &quot;more&quot; or &quot;previous&quot; link. I've got my simple links to previous months in my about page.  I can find content whilst in Drummer but other readers accessing the main site cannot. I also wondered does it matter or do I care. " created="Mon, 22 Nov 2021 09:51:07 GMT" type="outline"/>
+				<outline text="I'd like a nice way to enter block code or inline code, block quotes and lists. Just like adding a link is clicking the button or Italics is a shortcut key. Now if markdown is the best way to implement it, then great. Maybe best is the wrong word, but a practical way that works and is reasonably memorable. I suppose a script could do some text manipulation or something, but I'm never going to do that. 👨‍💻 " created="Mon, 22 Nov 2021 09:47:35 GMT" type="outline"/>
+				</outline>
 			<outline text="November 20" created="Sat, 20 Nov 2021 22:10:15 GMT" type="calendarDay" name="20">
 				<outline text="The new (to me) Mac mini arrived, 2012 i7 model. Also came with a 23&quot; Apple Cinema Display. Which is cool but it gets boiling and only one input is annoying with multiple computers. Not sure what I'll do with that. Coming back to macOS after ~7 years takes a bit of getting used to. There's a lot to setup and I feel like a lot of tricks to learn." created="Sat, 20 Nov 2021 22:10:16 GMT" type="outline"/>
 				</outline>
