@@ -19,12 +19,22 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Mon, 22 Nov 2021 10:01:34 GMT</dateModified>
-		<expansionState>1,2,24,32</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 23 Nov 2021 21:29:54 GMT</dateModified>
+		<expansionState>1,2,3,5,9,12,14,36,44</expansionState>
+		<lastCursor>6</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 23" created="Tue, 23 Nov 2021 21:19:44 GMT" type="calendarDay" name="23">
+				<outline text="Using macOS again" created="Tue, 23 Nov 2021 21:19:45 GMT" type="outline">
+					<outline text="I've been critical of Apple and macOS in the past, and I've not used a Mac in years. That changed recently and now I have a Mac and am using macOS. The more I use it, the more I appreciate the details in it. Everything is unified in a much tighter and nicer way than Windows or Linux. I think GNOME or KDE on Linux does a decent job of it, or if you live entirely within emacs, but as a mainstream desktop OS, macOS is enjoyable. I do have some Windows/Linux-isms to unlearn or perhaps is macOS-isms to learn. " created="Tue, 23 Nov 2021 21:28:14 GMT"/>
+					<outline text="Finder is a bit odd - why can't I press enter to open a directory? It actually is an outline, and pressing ⌘ Command + ↓ Down Arrow navigates to the level below. There's probably other stuff but I've forgotten it or looked it up. Using  ⌘+C/V for copy and paste is going to be the biggest complaint from the family if I setup the main computer to be the Mac. Yes they can learn, but they don't use the computer enough to appreciate everything else to understand why they should learn. " created="Tue, 23 Nov 2021 21:28:27 GMT">
+						<outline text="Seems like it annoyed someone enough they &lt;a href=&quot;http://www.trankynam.com/xtrafinder/&quot;&gt;wrote some software&lt;/a&gt; to fix these things!" created="Tue, 23 Nov 2021 21:28:30 GMT"/>
+						</outline>
+					<outline text="The integration obviously goes a long way if you're in the Apple ecosystem. " created="Tue, 23 Nov 2021 21:28:24 GMT"/>
+					<outline text="" created="Tue, 23 Nov 2021 21:28:10 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 22" created="Mon, 22 Nov 2021 09:47:34 GMT" type="calendarDay" name="22">
 				<outline text="Another thing I wondered about was old posts. It appears oldschoolblog renders a month maybe. There's no &quot;more&quot; or &quot;previous&quot; link. I've got my simple links to previous months in my about page.  I can find content whilst in Drummer but other readers accessing the main site cannot. I also wondered does it matter or do I care. 🦶" created="Mon, 22 Nov 2021 09:51:07 GMT" type="outline"/>
 				<outline text="I'd like a nice way to enter block code or inline code, block quotes and lists. Just like adding a link is clicking the button or Italics is a shortcut key. Now if markdown is the best way to implement it, then great. Maybe best is the wrong word, but a practical way that works and is reasonably memorable. I suppose a script could do some text manipulation or something, but I'm never going to do that. 👨‍💻 " created="Mon, 22 Nov 2021 09:47:35 GMT" type="outline"/>
