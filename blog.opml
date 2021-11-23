@@ -19,7 +19,7 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 23 Nov 2021 21:29:54 GMT</dateModified>
+		<dateModified>Tue, 23 Nov 2021 21:30:52 GMT</dateModified>
 		<expansionState>1,2,3,5,9,12,14,36,44</expansionState>
 		<lastCursor>6</lastCursor>
 		</head>
@@ -31,7 +31,7 @@
 					<outline text="Finder is a bit odd - why can't I press enter to open a directory? It actually is an outline, and pressing ⌘ Command + ↓ Down Arrow navigates to the level below. There's probably other stuff but I've forgotten it or looked it up. Using  ⌘+C/V for copy and paste is going to be the biggest complaint from the family if I setup the main computer to be the Mac. Yes they can learn, but they don't use the computer enough to appreciate everything else to understand why they should learn. " created="Tue, 23 Nov 2021 21:28:27 GMT">
 						<outline text="Seems like it annoyed someone enough they &lt;a href=&quot;http://www.trankynam.com/xtrafinder/&quot;&gt;wrote some software&lt;/a&gt; to fix these things!" created="Tue, 23 Nov 2021 21:28:30 GMT"/>
 						</outline>
-					<outline text="The integration obviously goes a long way if you're in the Apple ecosystem. " created="Tue, 23 Nov 2021 21:28:24 GMT"/>
+					<outline text="The integration obviously goes a long way if you're in the Apple ecosystem. So it makes so much sense to use the stock apps too. Which is something else I now appreciate. Stock apps - that are good and useful! Windows what do you offer? " created="Tue, 23 Nov 2021 21:28:24 GMT"/>
 					<outline text="" created="Tue, 23 Nov 2021 21:28:10 GMT"/>
 					</outline>
 				</outline>
