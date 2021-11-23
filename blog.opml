@@ -19,20 +19,21 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 23 Nov 2021 21:30:52 GMT</dateModified>
-		<expansionState>1,2,3,5,9,12,14,36,44</expansionState>
-		<lastCursor>6</lastCursor>
+		<dateModified>Tue, 23 Nov 2021 21:59:41 GMT</dateModified>
+		<expansionState>1,2,4,6,10,13,15,37,45</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 23" created="Tue, 23 Nov 2021 21:19:44 GMT" type="calendarDay" name="23">
+				<outline text="I want to buy the Elder Scrolls: Skyrim for Nintendo Switch. It's on sale but I don't know why I want to. It's a 10 year old game, I already own the game on PC, and it's still not exactly cheap given it's so old. If it sells, of course they're going to try and get the most money they can for it. It does come with the DLCs and maybe it's been improved since the original in terms of bugs and whatever. Like most gaming these days, I have fond memories of playing games but I actually find them boring to play. " created="Tue, 23 Nov 2021 21:55:37 GMT" type="outline"/>
 				<outline text="Using macOS again" created="Tue, 23 Nov 2021 21:19:45 GMT" type="outline">
 					<outline text="I've been critical of Apple and macOS in the past, and I've not used a Mac in years. That changed recently and now I have a Mac and am using macOS. The more I use it, the more I appreciate the details in it. Everything is unified in a much tighter and nicer way than Windows or Linux. I think GNOME or KDE on Linux does a decent job of it, or if you live entirely within emacs, but as a mainstream desktop OS, macOS is enjoyable. I do have some Windows/Linux-isms to unlearn or perhaps is macOS-isms to learn. " created="Tue, 23 Nov 2021 21:28:14 GMT"/>
-					<outline text="Finder is a bit odd - why can't I press enter to open a directory? It actually is an outline, and pressing ⌘ Command + ↓ Down Arrow navigates to the level below. There's probably other stuff but I've forgotten it or looked it up. Using  ⌘+C/V for copy and paste is going to be the biggest complaint from the family if I setup the main computer to be the Mac. Yes they can learn, but they don't use the computer enough to appreciate everything else to understand why they should learn. " created="Tue, 23 Nov 2021 21:28:27 GMT">
+					<outline text="Finder is a bit odd - why can't I press enter to open a directory? It actually is an outline, and pressing ⌘ Command + ↓ Down Arrow navigates to the level below. There's probably other stuff but I've forgotten it or looked it up. Using  ⌘+C/V for copy and paste is going to be the biggest complaint from the family if I setup the main computer to be the Mac. Yes they can learn, but they don't use the computer enough to appreciate everything else to understand why they should learn. " created="Tue, 23 Nov 2021 21:28:27 GMT" image="https://alexjj.github.io/drummer-blog/img/MacOS.png">
 						<outline text="Seems like it annoyed someone enough they &lt;a href=&quot;http://www.trankynam.com/xtrafinder/&quot;&gt;wrote some software&lt;/a&gt; to fix these things!" created="Tue, 23 Nov 2021 21:28:30 GMT"/>
 						</outline>
-					<outline text="The integration obviously goes a long way if you're in the Apple ecosystem. So it makes so much sense to use the stock apps too. Which is something else I now appreciate. Stock apps - that are good and useful! Windows what do you offer? " created="Tue, 23 Nov 2021 21:28:24 GMT"/>
-					<outline text="" created="Tue, 23 Nov 2021 21:28:10 GMT"/>
+					<outline text="The integration obviously goes a long way if you're in the Apple ecosystem. So it makes so much sense to use the stock apps too. Which is something else I now appreciate. Stock apps - that are good and useful! Windows what do you offer? A few things but nowhere near as good. Of course Linux has the upper hand in terms of available software (of course much of it runs on other OSs too) but there's not always the integration." created="Tue, 23 Nov 2021 21:28:24 GMT"/>
+					<outline text="Anyway, I'm enjoying it and no, it's not all open source, but whatever. 🤷🏼‍♂️" created="Tue, 23 Nov 2021 21:28:10 GMT"/>
 					</outline>
 				</outline>
 			<outline text="November 22" created="Mon, 22 Nov 2021 09:47:34 GMT" type="calendarDay" name="22">
