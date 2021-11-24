@@ -19,9 +19,9 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 23 Nov 2021 22:02:01 GMT</dateModified>
-		<expansionState>1</expansionState>
-		<lastCursor>22</lastCursor>
+		<dateModified>Wed, 24 Nov 2021 15:16:11 GMT</dateModified>
+		<expansionState>1,4</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
