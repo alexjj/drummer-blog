@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 24 Nov 2021 15:41:05 GMT</dateModified>
-		<expansionState>1,4,7,8</expansionState>
-		<lastCursor>9</lastCursor>
+		<dateModified>Wed, 24 Nov 2021 16:35:24 GMT</dateModified>
+		<expansionState>1,2,6,9,10</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 24" created="Wed, 24 Nov 2021 16:34:53 GMT" type="calendarDay" name="24">
+				<outline text="Drummer is awesome. So I made &lt;a href=&quot;https://github.com/alexjj/awesome-drummer&quot;&gt;awesome drummer&lt;/a&gt;. Share your links, guides and blogs! " created="Wed, 24 Nov 2021 16:34:54 GMT" type="outline"/>
+				</outline>
 			<outline text="November 23" created="Tue, 23 Nov 2021 21:19:44 GMT" type="calendarDay" name="23">
 				<outline text="I want to buy the Elder Scrolls: Skyrim for Nintendo Switch. It's on sale but I don't know why I want to. It's a 10 year old game, I already own the game on PC, and it's still not exactly cheap given it's so old. If it sells, of course they're going to try and get the most money they can for it. It does come with the DLCs and maybe it's been improved since the original in terms of bugs and whatever. Like most gaming these days, I have fond memories of playing games but I actually find them boring to play. I know I shouldn't buy it, yet I still keep thinking about it. I suppose once this week is over the sale will end and I'll move on to something else." created="Tue, 23 Nov 2021 21:55:37 GMT" type="outline"/>
 				<outline text="Using macOS again" created="Tue, 23 Nov 2021 21:19:45 GMT" type="outline">
