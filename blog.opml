@@ -19,12 +19,15 @@
 		<ownerName>Alex Johnstone</ownerName>
 		<ownerId>http://twitter.com/thealexjj</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 25 Nov 2021 09:59:57 GMT</dateModified>
-		<expansionState>1,2</expansionState>
-		<lastCursor>7</lastCursor>
+		<dateModified>Thu, 25 Nov 2021 11:28:21 GMT</dateModified>
+		<expansionState>1,2,4</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Mon, 01 Nov 2021 12:38:18 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 25" created="Thu, 25 Nov 2021 11:21:24 GMT" type="calendarDay" name="25">
+				<outline text="The best sales this Black Friday are always VPS! &lt;a href=&quot;https://lowendbox.com/&quot;&gt;Lowendbox&lt;/a&gt; and &lt;a href=&quot;https://lowendtalk.com/&quot;&gt;lowendtalk&lt;/a&gt; have the best deals. The problem is there's so many it's hard to know what to get. Often things are &lt;a href=&quot;https://lowendtalk.com/discussion/175211/2021-black-friday-cyber-monday-official-megathread-flash-deals#latest&quot;&gt;limited availability&lt;/a&gt; so you have to commit before seeing what else there is. Last few years I've bought from inception hosting, they've always been reliable and decent, so tempted to upgrade my current VPS to their latest €15/year VPS and be done with it. If I buy it now, it gives me a little bit of time to transfer my services across before the existing one shuts down." created="Thu, 25 Nov 2021 11:21:25 GMT" type="outline"/>
+				</outline>
 			<outline text="November 24" created="Wed, 24 Nov 2021 16:34:53 GMT" type="calendarDay" name="24">
 				<outline text="Drummer is awesome. So I made &lt;a href=&quot;https://github.com/alexjj/awesome-drummer&quot;&gt;awesome drummer&lt;/a&gt;. Share your links, guides and blogs! " created="Wed, 24 Nov 2021 16:34:54 GMT" type="outline"/>
 				</outline>
