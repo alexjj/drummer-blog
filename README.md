@@ -4,4 +4,4 @@ Repo contains copies of my opml files that are generated using [drummer](http://
 
 May host static files from here too.
 
-View the blog [here](https://alexjj.com)
+View the blog [here](http://oldschool.scripting.com/thealexjj/?tab=blog)
